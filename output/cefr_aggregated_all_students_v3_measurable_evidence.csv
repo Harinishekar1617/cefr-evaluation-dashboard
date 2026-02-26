@@ -1,0 +1,23 @@
+student_name,num_dialogue_turns,range_mode,accuracy_mode,fluency_mode,coherence_mode,overall_mode,range_variance,accuracy_variance,fluency_variance
+ Varsha PS,5,A1,A1,A1,A1,A1,A1 to A2,A1 to A2,A1 to A2
+Anand Gangu Bajari,5,A2,A2,A2,A2,A2,A2 to A2,A2 to A2,A2 to A2
+Anjali Omkar Dhule,5,A2,A2,A2,A2,A2,A1 to A2,A1 to A2,A1 to A2
+Ashwini D,5,A1,A2,A1,A1,A1,A1 to A2,A1 to A2,A1 to A2
+Charan Chandru,5,A2,A2,A2,A2,A2,A2 to A2,A2 to A2,A2 to A2
+Gangadhar Kallayya Nigadimath,5,A2,A2,A2,A2,A2,A1 to A2,A2 to A2,A1 to A2
+Hariharan Ravi,5,A2,A2,A2,A2,A2,A2 to A2,A2 to A2,A2 to A2
+Keerti Balappa Halalli,5,A2,A2,A2,A2,A2,A2 to A2,A2 to A2,A1 to A2
+Lanchana S,5,A2,A2,A2,A2,A2,A1 to A2,A1 to A2,A1 to A2
+Nagaraj A S,5,A1,A1,A1,A1,A1,A1 to A2,A1 to A2,A1 to A2
+Nagaraj S,5,A2,A2,A2,A2,A2,A1 to A2,A1 to A2,A1 to A2
+Rajeshnaik H,5,A2,A2,A2,A2,A2,A1 to A2,A1 to A2,A1 to A2
+Ramya Yadav B,5,A1,A2,A1,A2,A1,A1 to A2,A1 to A2,A1 to A2
+Sagar Mallikarjungouda Patil,5,A2,A2,A2,A2,A2,A2 to A2,A2 to A2,A2 to A2
+Sanjana K,5,A2,A2,A2,A2,A2,A2 to A2,A2 to A2,A2 to A2
+Shobha R K,5,A2,A2,A2,A2,A2,A1 to A2,A2 to A2,A2 to A2
+Snehal Mali,5,A1,A1,A1,A1,A1,A1 to A2,A1 to A2,A1 to A2
+Soumya A Halalli,5,A2,A2,A2,A2,A2,A1 to A2,A1 to A2,A1 to A2
+Tanusha J T,5,A2,A2,A2,A2,A2,A2 to A2,A2 to A2,A2 to A2
+Umesh Dhanaraj,5,A2,A2,A2,A2,A2,A1 to A2,A1 to A2,A1 to A2
+Vinutha K,5,A2,A2,A2,A2,A2,A2 to A2,A2 to A2,A2 to A2
+Yashwant G Kammar,5,A2,A2,A2,A2,A2,A2 to A2,A2 to A2,A2 to A2

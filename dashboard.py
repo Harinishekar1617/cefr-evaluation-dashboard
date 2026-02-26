@@ -71,7 +71,8 @@ st.markdown("Compare evaluation results across prompt versions and LLM models")
 @st.cache_data
 def load_data():
     """Load all evaluation data from CSV files."""
-    output_dir = Path("/Users/hshekar/CEFR Evaluation/output")
+    # Use relative path that works both locally and on Streamlit Cloud
+    output_dir = Path(__file__).parent / "output"
 
     data = {
         'v1_key_indicators_only': {

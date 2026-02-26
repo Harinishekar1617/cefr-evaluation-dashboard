@@ -1,0 +1,441 @@
+transcript_id,student_name,dialogue_turn_number,prompt_version,range,accuracy,fluency,coherence,overall_cefr_level,justification
+ Varsha PS_397, Varsha PS,1,v2_simplified,A1,A2,A1,A1,A1,"• Fluency: Speech is fragmented with many pauses and unclear thoughts.
+• Accuracy: Basic grammatical structures are attempted, but there are several errors.
+• Range: Limited vocabulary with repetitive use of simple words.
+• Coherence: Ideas are not logically organized, making it difficult to follow."
+ Varsha PS_197, Varsha PS,2,v2_simplified,A1,A1,A1,A1,A1,"• Fluency: Speech is broken with many pauses and restarts.
+• Accuracy: Frequent grammatical errors, such as missing verbs.
+• Range: Limited vocabulary with repetitive phrases.
+• Coherence: Ideas are vague and lack logical structure."
+ Varsha PS_577, Varsha PS,3,v2_simplified,A1,A1,A1,A1,A1,"• Fluency: Speech is fragmented with many pauses and fillers.
+• Accuracy: Grammar is incorrect with missing verbs and severe errors.
+• Range: Vocabulary is repetitive and lacks variety.
+• Coherence: Ideas are not organized logically and are vague."
+ Varsha PS_198, Varsha PS,4,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and restarts but mostly completes thoughts.
+• Accuracy: Basic grammatical structures are present, but there are several errors.
+• Range: Vocabulary is somewhat varied but lacks precision and depth.
+• Coherence: Ideas are listed but lack a clear logical progression."
+ Varsha PS_397, Varsha PS,5,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses but mostly completes thoughts.
+• Accuracy: Basic structures are present, but there are some errors in verb forms and sentence structure.
+• Range: Vocabulary is limited and somewhat repetitive, with attempts at more complex ideas.
+• Coherence: Ideas are listed but lack clear organization and logical progression."
+Anand Gangu Bajari_87,Anand Gangu Bajari,6,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and restarts but mostly completes thoughts.
+• Accuracy: Basic structures are present, but there are some grammatical errors.
+• Range: Vocabulary is somewhat varied but lacks precision and depth.
+• Coherence: Ideas are listed but lack a clear logical progression."
+Anand Gangu Bajari_680,Anand Gangu Bajari,7,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: The speech has some pauses and restarts, but mostly completes thoughts.
+• Accuracy: There are several grammatical errors, including incorrect verb forms and tense usage.
+• Range: The vocabulary is basic and repetitive, with limited variation.
+• Coherence: Ideas are somewhat organized but lack clear structure and logical progression."
+Anand Gangu Bajari_762,Anand Gangu Bajari,8,v2_simplified,A1,A2,A2,A2,A2,"• Fluency: Speech has some pauses and restarts but mostly completes thoughts.
+• Accuracy: Basic grammatical structures are present, but there are some errors and repetitions.
+• Range: Vocabulary is limited and repetitive, lacking variety.
+• Coherence: Ideas are somewhat organized but can drift and lack clear structure."
+Anand Gangu Bajari_250,Anand Gangu Bajari,9,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and restarts but mostly completes thoughts.
+• Accuracy: Basic grammatical structures are present, but there are several L1 errors.
+• Range: Vocabulary includes some varied terms but remains mostly basic.
+• Coherence: Ideas are somewhat organized but can drift without clear structure."
+Anand Gangu Bajari_760,Anand Gangu Bajari,10,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses but mostly completes thoughts.
+• Accuracy: Basic grammatical structures are used, but there are some errors.
+• Range: Vocabulary is somewhat repetitive with limited variation.
+• Coherence: Ideas are presented but lack clear organization."
+Anjali Omkar Dhule_36,Anjali Omkar Dhule,11,v2_simplified,A1,A2,A2,A2,A2,"• Fluency: Speech has some pauses but mostly completes thoughts.
+• Accuracy: Basic structures are used, but there are several L1 errors.
+• Range: Vocabulary is repetitive with limited variation.
+• Coherence: Ideas are somewhat organized but may drift."
+Anjali Omkar Dhule_428,Anjali Omkar Dhule,12,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and restarts but mostly completes thoughts.
+• Accuracy: Basic structures are used, but there are several L1 errors.
+• Range: Vocabulary is limited, with some attempts at more complex ideas.
+• Coherence: Ideas are presented but lack clear organization and flow."
+Anjali Omkar Dhule_136,Anjali Omkar Dhule,13,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and is not completely smooth.
+• Accuracy: Several grammatical errors, such as 'always suffering' and 'she is got high job'.
+• Range: Limited vocabulary with some attempts at more complex ideas.
+• Coherence: Ideas are somewhat organized but lack clarity and logical flow."
+Anjali Omkar Dhule_29,Anjali Omkar Dhule,14,v2_simplified,A1,A1,A1,A1,A1,"• Fluency: Speech is fragmented with many pauses and fillers.
+• Accuracy: Frequent grammatical errors, including missing verbs.
+• Range: Limited vocabulary with repetitive phrases.
+• Coherence: Ideas are not organized logically, lacking clear structure."
+Anjali Omkar Dhule_428,Anjali Omkar Dhule,15,v2_simplified,A1,A2,A2,A2,A2,"• Fluency: Speech has some pauses and restarts but mostly completes thoughts.
+• Accuracy: Basic structures are present, but there are some L1 errors and awkward phrases.
+• Range: Vocabulary is repetitive and lacks variety, mostly using high-frequency words.
+• Coherence: Ideas are somewhat organized but can drift, lacking clear structure."
+Ashwini D_141,Ashwini D,16,v2_simplified,A1,A1,A1,A1,A1,"• Fluency: Speech is fragmented with many fillers and hesitations.
+• Accuracy: Grammar is incorrect with missing verbs and unclear structures.
+• Range: Vocabulary is very limited and lacks variety.
+• Coherence: Ideas are not organized and lack clarity."
+Ashwini D_410,Ashwini D,17,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses but mostly completes thoughts.
+• Accuracy: Basic structures are present, but there are some errors in verb forms and prepositions.
+• Range: Uses some varied vocabulary but relies on common phrases.
+• Coherence: Ideas are listed but lack a clear structure or progression."
+Ashwini D_180,Ashwini D,18,v2_simplified,A1,A2,A2,A2,A2,"• Fluency: Speech has some pauses and restarts but generally completes thoughts.
+• Accuracy: Basic grammatical structures are present, but there are errors such as 'I am a learning' and 'back to hostel'.
+• Range: Vocabulary is limited and repetitive, lacking variety.
+• Coherence: Ideas are somewhat organized but could be clearer in progression."
+Ashwini D_410,Ashwini D,19,v2_simplified,A1,A2,A2,A2,A2,"• Fluency: The speech has some pauses but mostly completes thoughts.
+• Accuracy: Basic structures are used, but there are some errors in verb forms.
+• Range: Vocabulary is repetitive and lacks variety.
+• Coherence: Ideas are listed but may drift slightly without clear structure."
+Ashwini D_606,Ashwini D,20,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and is not completely smooth.
+• Accuracy: Some grammatical errors present, such as 'I now I am learning' and missing articles.
+• Range: Vocabulary is basic with limited variation; attempts to express a specific purpose.
+• Coherence: Ideas are somewhat organized but lack clear structure."
+Charan Chandru_586,Charan Chandru,21,v2_simplified,A1,A2,A2,A2,A2,"• Fluency: Speech has some pauses and restarts but mostly completes thoughts.
+• Accuracy: Basic structures are used, but there are some errors and missing elements.
+• Range: Vocabulary is repetitive, with limited variation.
+• Coherence: Ideas are somewhat organized but drift at times."
+Charan Chandru_616,Charan Chandru,22,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and restarts but mostly completes thoughts.
+• Accuracy: Basic structures are present, but there are several grammatical errors.
+• Range: Vocabulary is limited to high-frequency words with little variation.
+• Coherence: Ideas are listed but lack a clear structure and logical progression."
+Charan Chandru_615,Charan Chandru,23,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and is not fully smooth, but thoughts are mostly completed.
+• Accuracy: Basic grammatical structures are present, but there are some errors and awkward phrases.
+• Range: Vocabulary is limited to common phrases and lacks variety.
+• Coherence: Ideas are somewhat organized but lack clear progression and structure."
+Charan Chandru_586,Charan Chandru,24,v2_simplified,A2,A2,A2,B1,A2,"• Fluency: Speech has some pauses but mostly completes thoughts.
+• Accuracy: Basic structures are present, but there are some L1 errors like 'financial independent person' and 'taking of my family'.
+• Range: Vocabulary is somewhat varied but lacks precision in some areas.
+• Coherence: Ideas are organized logically with a clear progression."
+Charan Chandru_350,Charan Chandru,25,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and fillers, but mostly completes thoughts.
+• Accuracy: Basic grammatical structures are present, but there are some errors and awkward phrases.
+• Range: Uses some varied vocabulary, but relies on high-frequency words.
+• Coherence: Ideas are somewhat organized but can drift and lack clear progression."
+Gangadhar Kallayya Nigadimath_599,Gangadhar Kallayya Nigadimath,26,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and is not completely smooth, but thoughts are mostly completed.
+• Accuracy: Some grammatical errors present, such as 'was helping to everything' and 'she will taking care'.
+• Range: Vocabulary is basic and repetitive, lacking variety.
+• Coherence: Ideas are somewhat organized but lack a clear linear progression."
+Gangadhar Kallayya Nigadimath_599,Gangadhar Kallayya Nigadimath,27,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: The speech has some pauses but mostly completes thoughts.
+• Accuracy: There are basic grammatical errors, such as incorrect verb forms.
+• Range: Vocabulary is limited to basic terms related to family and occupation.
+• Coherence: Ideas are presented but lack clear structure and logical flow."
+Gangadhar Kallayya Nigadimath_459,Gangadhar Kallayya Nigadimath,28,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and is not completely smooth, but thoughts are mostly completed.
+• Accuracy: Basic grammatical structures are present, but there are some errors in verb usage and sentence construction.
+• Range: Vocabulary is somewhat limited and repetitive, with attempts at expressing abstract ideas.
+• Coherence: Ideas are somewhat organized but lack a clear linear progression."
+Gangadhar Kallayya Nigadimath_159,Gangadhar Kallayya Nigadimath,29,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses but mostly completes thoughts.
+• Accuracy: Basic structures are used, but there are some errors in verb forms.
+• Range: Vocabulary is limited to basic terms related to learning and communication.
+• Coherence: Ideas are somewhat organized but lack clear progression."
+Gangadhar Kallayya Nigadimath_143,Gangadhar Kallayya Nigadimath,30,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and fillers, but mostly completes thoughts.
+• Accuracy: Basic grammatical structures are present, but there are some errors.
+• Range: Vocabulary is limited to high-frequency words with some attempts at variety.
+• Coherence: Ideas are somewhat organized but lack clear progression."
+Hariharan Ravi_11,Hariharan Ravi,31,v2_simplified,A1,A2,A2,A2,A2,"• Fluency: Speech has some pauses and restarts but mostly completes thoughts.
+• Accuracy: Basic structures are present, but there are some errors and awkward phrases.
+• Range: Vocabulary is repetitive with limited variation.
+• Coherence: Ideas are listed but may drift slightly without clear transitions."
+Hariharan Ravi_8,Hariharan Ravi,32,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and restarts but mostly completes thoughts.
+• Accuracy: Basic grammatical structures are present, but there are several errors and repetitions.
+• Range: Vocabulary is limited with some attempts at more complex ideas but lacks variety.
+• Coherence: Ideas are somewhat organized but drift and lack a clear linear progression."
+Hariharan Ravi_10,Hariharan Ravi,33,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and repetitions but generally completes thoughts.
+• Accuracy: Basic grammatical structures are used, but there are some errors and awkward phrases.
+• Range: Vocabulary is limited to basic family terms and roles, with little variation.
+• Coherence: Ideas are presented in a list-like manner but lack a clear structure."
+Hariharan Ravi_6,Hariharan Ravi,34,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and repetitions but mostly completes thoughts.
+• Accuracy: Basic grammatical structures are present, but there are some errors like 'I am curiosity' and 'I am having a helping mind'.
+• Range: Vocabulary is somewhat varied but lacks precision and depth.
+• Coherence: Ideas are presented but lack clear structure and logical progression."
+Hariharan Ravi_11,Hariharan Ravi,35,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and restarts, but mostly completes thoughts.
+• Accuracy: Basic structures are used, but there are several errors and repetitions.
+• Range: Vocabulary is somewhat repetitive with limited variation.
+• Coherence: Ideas are listed but lack clear organization and logical flow."
+Keerti Balappa Halalli_742,Keerti Balappa Halalli,36,v2_simplified,A1,A1,A2,A2,A1,"• Fluency: The speech has some flow but includes frequent pauses and restarts.
+• Accuracy: There are several grammatical errors, including incorrect verb forms and sentence structure.
+• Range: The vocabulary is repetitive and lacks variety, primarily using basic words.
+• Coherence: Ideas are somewhat organized but often drift without clear connections."
+Keerti Balappa Halalli_279,Keerti Balappa Halalli,37,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some flow but includes frequent pauses and restarts.
+• Accuracy: Basic grammatical structures are used, but there are several errors and awkward phrases.
+• Range: Vocabulary is limited and repetitive, with attempts at more complex structures.
+• Coherence: Ideas are presented in a sequence but lack clear organization and logical progression."
+Keerti Balappa Halalli_730,Keerti Balappa Halalli,38,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and repetition, but mostly completes thoughts.
+• Accuracy: Basic structures are used, but there are several L1 errors and incorrect verb forms.
+• Range: Uses some varied vocabulary, but relies on high-frequency words.
+• Coherence: Ideas are somewhat organized but lack clear structure and logical progression."
+Keerti Balappa Halalli_255,Keerti Balappa Halalli,39,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: The speech has some pauses but mostly completes thoughts.
+• Accuracy: Basic structures are present, but there are some L1 errors and awkward phrases.
+• Range: Vocabulary is somewhat repetitive with attempts at abstract concepts.
+• Coherence: Ideas are listed but lack a clear structure."
+Keerti Balappa Halalli_665,Keerti Balappa Halalli,40,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: The speech has some pauses and restarts but mostly completes thoughts.
+• Accuracy: There are several grammatical errors, such as incorrect verb forms and article usage.
+• Range: Vocabulary is somewhat repetitive with limited variety, but some attempts at description are made.
+• Coherence: Ideas are presented in a somewhat organized manner, but there are moments of vagueness."
+Lanchana S_245,Lanchana S,41,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and is not completely smooth, but thoughts are mostly completed.
+• Accuracy: Basic grammatical structures are used, but there are some errors and awkward phrases.
+• Range: Vocabulary is limited to basic words and phrases, with little variation.
+• Coherence: Ideas are somewhat organized but lack clear structure and logical progression."
+Lanchana S_190,Lanchana S,42,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses but mostly completes thoughts.
+• Accuracy: Basic structures are used, but there are some errors in verb forms and sentence structure.
+• Range: Vocabulary is somewhat varied but lacks precision and depth.
+• Coherence: Ideas are presented but lack clear organization and logical progression."
+Lanchana S_776,Lanchana S,43,v2_simplified,A1,A2,A2,A2,A2,"• Fluency: Speech has some pauses but mostly completes thoughts.
+• Accuracy: Basic structures are used, but there are minor errors in tense.
+• Range: Vocabulary is repetitive and lacks variety.
+• Coherence: Ideas are organized but could be clearer."
+Lanchana S_190,Lanchana S,44,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: The speech has some pauses but mostly completes thoughts.
+• Accuracy: Basic structures are present, but there are some errors in verb forms and agreement.
+• Range: Uses some varied vocabulary but lacks precision and complexity.
+• Coherence: Ideas are listed but may drift slightly without clear transitions."
+Lanchana S_245,Lanchana S,45,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and fillers but mostly completes thoughts.
+• Accuracy: Basic grammatical structures are used, but there are some errors like 'my talking' and 'that activities'.
+• Range: Vocabulary is somewhat varied but relies on basic terms and phrases.
+• Coherence: Ideas are presented in a list-like manner but lack a clear structure."
+Nagaraj A S_406,Nagaraj A S,46,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses but mostly completes thoughts.
+• Accuracy: Basic structures are used, but there are some errors like 'I am quick learner' (missing article) and 'first flexibility and strength weakning' (grammatical issues).
+• Range: Vocabulary is somewhat repetitive with limited variation.
+• Coherence: Ideas are presented in a list format but lack deeper connections."
+Nagaraj A S_316,Nagaraj A S,47,v2_simplified,A1,A1,A1,A1,A1,"• Fluency: Speech is fragmented with many repetitions.
+• Accuracy: Frequent grammatical errors and missing verbs.
+• Range: Limited vocabulary with high-frequency words.
+• Coherence: Ideas are not logically organized, lacking clear structure."
+Nagaraj A S_464,Nagaraj A S,48,v2_simplified,A1,A2,A2,A2,A2,"• Fluency: Speech has some pauses and fillers but mostly completes thoughts.
+• Accuracy: Basic structures are used, but there are some errors in verb forms.
+• Range: Vocabulary is limited to basic terms with little variation.
+• Coherence: Ideas are somewhat organized but could be clearer."
+Nagaraj A S_339,Nagaraj A S,49,v2_simplified,A1,A2,A2,A2,A2,"• Fluency: Speech has some pauses and repetitions but mostly completes thoughts.
+• Accuracy: Basic structures are present, but there are several grammatical errors.
+• Range: Vocabulary is repetitive with limited variety.
+• Coherence: Ideas are somewhat organized but drift and lack clear structure."
+Nagaraj A S_435,Nagaraj A S,50,v2_simplified,A1,A1,A2,A1,A1,"• Fluency: Speech has some flow but is interrupted by frequent pauses and repetitions.
+• Accuracy: Multiple grammatical errors, including incorrect verb forms and sentence structure.
+• Range: Limited vocabulary with repetitive phrases and basic terms.
+• Coherence: Ideas are poorly organized, lacking clear progression and structure."
+Nagaraj S_898,Nagaraj S,51,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses but mostly completes thoughts.
+• Accuracy: Basic structures are used, but there are some grammatical errors.
+• Range: Vocabulary is somewhat varied but lacks precision.
+• Coherence: Ideas are listed but lack clear organization."
+Nagaraj S_890,Nagaraj S,52,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: The speech has some pauses and restarts but mostly completes thoughts.
+• Accuracy: Basic structures are present, but there are several errors and missing verbs.
+• Range: Uses some varied vocabulary but relies on high-frequency words.
+• Coherence: Ideas are somewhat organized but lack clear structure and logical progression."
+Nagaraj S_898,Nagaraj S,53,v2_simplified,A1,A1,A2,A2,A1,"• Fluency: Speech has some flow but includes pauses and fragmented thoughts.
+• Accuracy: Grammar is often incorrect, with missing verbs and severe errors.
+• Range: Vocabulary is repetitive and lacks variety, using basic terms.
+• Coherence: Ideas are somewhat organized but lack clear structure and logical progression."
+Nagaraj S_890,Nagaraj S,54,v2_simplified,A1,A2,A1,A2,A1,"• Fluency: Speech is fragmented with many fillers and pauses.
+• Accuracy: Basic structures are attempted, but there are several errors and missing verbs.
+• Range: Vocabulary is repetitive and lacks variety.
+• Coherence: Ideas are somewhat organized but drift and lack clear progression."
+Nagaraj S_898,Nagaraj S,55,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some flow but includes frequent pauses and restarts.
+• Accuracy: Basic grammatical structures are present but contain several errors.
+• Range: Vocabulary is limited and repetitive, with few attempts at variation.
+• Coherence: Ideas are somewhat organized but lack clear progression and structure."
+Rajeshnaik H_682,Rajeshnaik H,56,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: The speech has some pauses and repetitions but mostly completes thoughts.
+• Accuracy: There are basic grammatical errors and some incorrect verb forms.
+• Range: The vocabulary is somewhat varied but relies on high-frequency words.
+• Coherence: Ideas are presented but lack a clear structure and logical progression."
+Rajeshnaik H_78,Rajeshnaik H,57,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and repetitions, but mostly completes thoughts.
+• Accuracy: Basic grammatical structures are present, but there are several errors and missing elements.
+• Range: Vocabulary is limited and repetitive, with some attempts at variation.
+• Coherence: Ideas are somewhat organized but lack clear progression and structure."
+Rajeshnaik H_682,Rajeshnaik H,58,v2_simplified,A1,A1,A1,A1,A1,"• Fluency: Speech is fragmented with many repetitions and fillers.
+• Accuracy: Frequent grammatical errors and missing structures.
+• Range: Limited vocabulary with high-frequency words only.
+• Coherence: Ideas are not organized logically, lacking clear structure."
+Rajeshnaik H_93,Rajeshnaik H,59,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and fillers but mostly completes thoughts.
+• Accuracy: Basic structures are used, but there are some grammatical errors.
+• Range: Vocabulary is somewhat repetitive with attempts at new words.
+• Coherence: Ideas are presented but lack clear organization."
+Rajeshnaik H_813,Rajeshnaik H,60,v2_simplified,A1,A2,A2,A2,A2,"• Fluency: Speech has some pauses and fillers but mostly completes thoughts.
+• Accuracy: Basic structures are used, but there are some errors in verb forms.
+• Range: Vocabulary is limited to basic terms related to daily routines.
+• Coherence: Ideas are presented in a somewhat organized manner but lack depth."
+Ramya Yadav B_750,Ramya Yadav B,61,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and restarts but mostly completes thoughts.
+• Accuracy: Basic structures are used, but there are some errors in verb forms and tense.
+• Range: Vocabulary is basic and somewhat repetitive, lacking variety.
+• Coherence: Ideas are listed but lack clear structure and logical progression."
+Ramya Yadav B_663,Ramya Yadav B,62,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses but mostly completes thoughts.
+• Accuracy: Basic structures are used, but there are errors in verb forms.
+• Range: Vocabulary is limited to basic terms related to education.
+• Coherence: Ideas are presented but lack clear organization."
+Ramya Yadav B_803,Ramya Yadav B,63,v2_simplified,A1,A2,A2,A2,A2,"• Fluency: Speech has some pauses and restarts but mostly completes thoughts.
+• Accuracy: Basic structures are present, but there are several grammatical errors.
+• Range: Vocabulary is repetitive with limited variety.
+• Coherence: Ideas are somewhat organized but can drift and lack clarity."
+Ramya Yadav B_390,Ramya Yadav B,64,v2_simplified,A1,A2,A2,A2,A2,"• Fluency: Speech has some pauses but mostly completes thoughts.
+• Accuracy: Basic structures work but contains some L1 errors.
+• Range: Uses repetitive vocabulary with limited variation.
+• Coherence: Ideas are listed but may drift slightly."
+Ramya Yadav B_754,Ramya Yadav B,65,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses but mostly completes thoughts.
+• Accuracy: Basic structures are used, but there are several grammatical errors.
+• Range: Vocabulary is somewhat repetitive with limited variety.
+• Coherence: Ideas are presented but lack clear organization."
+Sagar Mallikarjungouda Patil_303,Sagar Mallikarjungouda Patil,66,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and fillers, but mostly completes thoughts.
+• Accuracy: Basic grammatical structures are used, but there are some errors and awkward phrases.
+• Range: Vocabulary is somewhat repetitive with limited variation.
+• Coherence: Ideas are presented but lack clear organization and logical progression."
+Sagar Mallikarjungouda Patil_303,Sagar Mallikarjungouda Patil,67,v2_simplified,A1,A2,A2,A2,A2,"• Fluency: Speech has some pauses and restarts but mostly completes thoughts.
+• Accuracy: Basic structures are used, but there are some errors in verb forms and agreement.
+• Range: Vocabulary is repetitive with limited variation.
+• Coherence: Ideas are listed but may drift slightly without clear structure."
+Sagar Mallikarjungouda Patil_303,Sagar Mallikarjungouda Patil,68,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and restarts, but mostly completes thoughts.
+• Accuracy: Basic grammatical structures are used, but there are several errors and L1 influences.
+• Range: Vocabulary is somewhat varied but relies on basic terms and phrases.
+• Coherence: Ideas are presented but lack clear structure and logical progression."
+Sagar Mallikarjungouda Patil_303,Sagar Mallikarjungouda Patil,69,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and restarts but mostly completes thoughts.
+• Accuracy: Basic structures are present, but there are some errors in verb usage.
+• Range: Vocabulary is somewhat repetitive with limited variation.
+• Coherence: Ideas are listed but lack a clear structure or progression."
+Sagar Mallikarjungouda Patil_303,Sagar Mallikarjungouda Patil,70,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: The speech has some pauses and fillers, but mostly completes thoughts.
+• Accuracy: There are basic grammatical structures, but some errors and L1 influence are present.
+• Range: Vocabulary is somewhat repetitive with limited variation.
+• Coherence: Ideas are presented but lack clear organization and logical progression."
+Sanjana K_450,Sanjana K,71,v2_simplified,A1,A2,A2,A2,A2,"• Fluency: Speech has some pauses and restarts but mostly completes thoughts.
+• Accuracy: Basic grammatical structures are used, but there are several errors.
+• Range: Vocabulary is repetitive with limited variation.
+• Coherence: Ideas are somewhat organized but can drift and lack clarity."
+Sanjana K_224,Sanjana K,72,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and repetitions, but mostly completes thoughts.
+• Accuracy: Basic grammatical structures are present, but there are several errors and awkward phrases.
+• Range: Vocabulary is somewhat limited with some repetition and basic terms.
+• Coherence: Ideas are listed but lack clear structure and logical progression."
+Sanjana K_584,Sanjana K,73,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: The speech has some pauses and is not completely smooth, but thoughts are mostly completed.
+• Accuracy: There are basic grammatical errors, such as missing articles and incorrect verb forms.
+• Range: The vocabulary is limited and repetitive, with some attempts at more complex structures.
+• Coherence: The ideas are somewhat organized but lack clear structure and logical progression."
+Sanjana K_224,Sanjana K,74,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and restarts but mostly completes thoughts.
+• Accuracy: Basic structures are present, but there are several grammatical errors.
+• Range: Vocabulary is limited, with some repetition and basic expressions.
+• Coherence: Ideas are somewhat organized but lack clear structure and flow."
+Sanjana K_460,Sanjana K,75,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and repetitions, but mostly completes thoughts.
+• Accuracy: Basic grammatical structures are present, but there are some errors and awkward phrases.
+• Range: Vocabulary is somewhat limited, with some repetition of phrases.
+• Coherence: Ideas are presented in a somewhat logical order, but there are instances of drifting."
+Shobha R K_650,Shobha R K,76,v2_simplified,A2,A2,B1,B1,A2,"• Fluency: Speech flows smoothly with no significant breaks.
+• Accuracy: Some grammatical errors present, such as 'younger sister and younger brother' instead of 'a younger sister and a younger brother'.
+• Range: Vocabulary is basic and somewhat repetitive, lacking variety.
+• Coherence: Ideas are organized logically, with a clear progression of thought."
+Shobha R K_671,Shobha R K,77,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and fillers, but mostly completes thoughts.
+• Accuracy: Basic structures are used, but there are some errors in verb forms and tense.
+• Range: Vocabulary is somewhat repetitive and lacks variety.
+• Coherence: Ideas are listed but lack clear logical progression."
+Shobha R K_645,Shobha R K,78,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses but mostly completes thoughts.
+• Accuracy: Basic structures are present, but there are some L1 errors.
+• Range: Uses some varied vocabulary but is mostly basic.
+• Coherence: Ideas are listed but may drift slightly."
+Shobha R K_697,Shobha R K,79,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: The speech has some pauses and restarts but mostly completes thoughts.
+• Accuracy: There are basic grammatical errors, such as incorrect verb forms and prepositions.
+• Range: Vocabulary is somewhat repetitive with limited variety.
+• Coherence: Ideas are listed but lack a clear structure and logical progression."
+Shobha R K_759,Shobha R K,80,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and restarts but mostly completes thoughts.
+• Accuracy: Basic structures are present, but there are several grammatical errors.
+• Range: Uses some varied vocabulary but lacks precision and complexity.
+• Coherence: Ideas are somewhat organized but can drift and lack clear progression."
+Snehal Mali_693,Snehal Mali,81,v2_simplified,A1,A1,A2,A2,A1,"• Fluency: The speech has some flow but includes frequent pauses and repetitions.
+• Accuracy: There are several grammatical errors, including incorrect verb forms and agreement.
+• Range: The vocabulary is quite basic and repetitive, lacking variety.
+• Coherence: Ideas are somewhat organized but often drift and lack clear connections."
+Snehal Mali_681,Snehal Mali,82,v2_simplified,A1,A1,A2,A2,A1,"• Fluency: The speech has some flow but includes several pauses and repetitions.
+• Accuracy: There are multiple grammatical errors, including incorrect verb forms and agreement.
+• Range: The vocabulary is limited and repetitive, with few varied expressions.
+• Coherence: Ideas are somewhat organized but often drift and lack clear connections."
+Snehal Mali_681,Snehal Mali,83,v2_simplified,A1,A1,A1,A1,A1,"• Fluency: Speech is fragmented with many restarts.
+• Accuracy: Frequent grammatical errors and incorrect structures.
+• Range: Limited vocabulary with repetition of simple phrases.
+• Coherence: Ideas are poorly organized and lack clear progression."
+Snehal Mali_708,Snehal Mali,84,v2_simplified,A1,A1,A1,A1,A1,"• Fluency: Speech is fragmented with many fillers and restarts.
+• Accuracy: Grammar is incorrect with missing verbs and severe errors.
+• Range: Vocabulary is repetitive with no variation.
+• Coherence: Ideas are not organized and lack structure."
+Snehal Mali_892,Snehal Mali,85,v2_simplified,A1,A1,A1,A1,A1,"• Fluency: Speech is fragmented with many restarts and fillers.
+• Accuracy: Frequent grammatical errors and missing verbs.
+• Range: Limited vocabulary with repetitive phrases.
+• Coherence: Ideas are not logically organized and lack clarity."
+Soumya A Halalli_629,Soumya A Halalli,86,v2_simplified,A1,A2,A2,A2,A2,"• Fluency: Speech has some pauses and attempts to complete thoughts, but is not completely smooth.
+• Accuracy: Basic grammatical structures are present, but there are several errors and awkward phrases.
+• Range: Vocabulary is limited and repetitive, lacking variety.
+• Coherence: Ideas are somewhat organized but can drift and lack clear connections."
+Soumya A Halalli_515,Soumya A Halalli,87,v2_simplified,A1,A2,A2,A2,A2,"• Fluency: Speech has some pauses and restarts but mostly completes thoughts.
+• Accuracy: Basic structures are present, but there are some errors in verb forms and repetition.
+• Range: Vocabulary is limited and repetitive, using mostly high-frequency words.
+• Coherence: Ideas are listed but may drift without clear transitions."
+Soumya A Halalli_583,Soumya A Halalli,88,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and restarts but mostly completes thoughts.
+• Accuracy: Basic structures are present, but there are some errors in verb forms and sentence structure.
+• Range: Vocabulary is somewhat limited, with reliance on basic expressions.
+• Coherence: Ideas are presented but lack clear organization and logical flow."
+Soumya A Halalli_337,Soumya A Halalli,89,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and repetitions but mostly completes thoughts.
+• Accuracy: Basic structures are present, but there are several errors in verb forms and agreement.
+• Range: Vocabulary is limited to basic descriptors and lacks variety.
+• Coherence: Ideas are somewhat organized but drift and lack clear progression."
+Soumya A Halalli_512,Soumya A Halalli,90,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses but mostly completes thoughts.
+• Accuracy: Basic structures are used, but there are some L1 errors.
+• Range: Vocabulary is somewhat repetitive with limited variation.
+• Coherence: Ideas are listed but lack clear organization."
+Tanusha J T_715,Tanusha J T,91,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and restarts but mostly completes thoughts.
+• Accuracy: Basic structures are present, but there are some errors in verb forms and sentence construction.
+• Range: Vocabulary is limited to basic descriptors and lacks variety.
+• Coherence: Ideas are somewhat organized but lack clear progression."
+Tanusha J T_716,Tanusha J T,92,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and restarts but mostly completes thoughts.
+• Accuracy: Basic grammatical structures are used, but there are some errors and missing elements.
+• Range: Vocabulary is somewhat varied but lacks precision and complexity.
+• Coherence: Ideas are presented but lack clear organization and flow."
+Tanusha J T_431,Tanusha J T,93,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and is not completely smooth, but thoughts are mostly completed.
+• Accuracy: Basic grammatical structures are present, but there are some errors and awkward phrases.
+• Range: Vocabulary is somewhat varied but lacks precision and includes repetition.
+• Coherence: Ideas are listed but lack a clear logical structure."
+Tanusha J T_285,Tanusha J T,94,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses but mostly completes thoughts.
+• Accuracy: Basic structures are used, but there are some errors in phrasing.
+• Range: Vocabulary is basic and somewhat repetitive.
+• Coherence: Ideas are listed but lack a clear structure."
+Tanusha J T_285,Tanusha J T,95,v2_simplified,A2,A2,A2,B1,A2,"• Fluency: Speech has some pauses but mostly completes thoughts.
+• Accuracy: Basic structures work, but there are some errors like 'fresh up' instead of 'freshen up'.
+• Range: Uses some varied vocabulary but remains mostly basic.
+• Coherence: Ideas are organized logically with a clear sequence of events."
+Umesh Dhanaraj_215,Umesh Dhanaraj,96,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and hesitations but mostly completes thoughts.
+• Accuracy: Basic grammatical structures are used, but there are errors such as 'no any experience' and 'join to which one company'.
+• Range: Vocabulary is limited to basic terms related to job searching and lacks variety.
+• Coherence: Ideas are presented but lack clear organization and logical flow."
+Umesh Dhanaraj_828,Umesh Dhanaraj,97,v2_simplified,A1,A2,A2,A2,A2,"• Fluency: The speech has some pauses but mostly completes thoughts.
+• Accuracy: There are basic grammatical errors, such as 'my friends is' and 'go to outside'.
+• Range: The vocabulary is repetitive and lacks variety.
+• Coherence: Ideas are somewhat organized but can drift slightly."
+Umesh Dhanaraj_100,Umesh Dhanaraj,98,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses but mostly completes thoughts.
+• Accuracy: Basic structures are present, but there are some errors in article usage.
+• Range: Uses basic vocabulary with some repetition.
+• Coherence: Ideas are listed but lack clear progression."
+Umesh Dhanaraj_100,Umesh Dhanaraj,99,v2_simplified,A1,A2,A2,A2,A2,"• Fluency: Speech has some pauses but mostly completes thoughts.
+• Accuracy: Basic structures are used, but there are some grammatical errors.
+• Range: Vocabulary is limited and repetitive.
+• Coherence: Ideas are somewhat organized but can drift."
+Umesh Dhanaraj_215,Umesh Dhanaraj,100,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses but mostly completes thoughts.
+• Accuracy: Basic structures are present, but there are some errors in verb forms.
+• Range: Vocabulary is limited to basic expressions and lacks variety.
+• Coherence: Ideas are presented in a somewhat logical order but could be clearer."
+Vinutha K_574,Vinutha K,101,v2_simplified,A1,A2,A2,A2,A2,"• Fluency: Speech has some pauses but mostly completes thoughts.
+• Accuracy: Basic structures are used, but there are some grammatical errors.
+• Range: Vocabulary is limited, with repetitive phrases.
+• Coherence: Ideas are somewhat organized but lack clear progression."
+Vinutha K_226,Vinutha K,102,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and fillers but mostly completes thoughts.
+• Accuracy: Basic structures are used, but there are several errors in verb forms and sentence structure.
+• Range: Vocabulary is limited to common topics with some repetition.
+• Coherence: Ideas are presented in a somewhat organized manner but lack clear structure."
+Vinutha K_574,Vinutha K,103,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: The speech has some pauses and restarts but mostly completes thoughts.
+• Accuracy: There are some grammatical errors, such as 'I went to I went to go' and incorrect use of 'Iceland'.
+• Range: The vocabulary is basic and repetitive, with attempts at more descriptive language.
+• Coherence: The ideas are somewhat organized but lack clear structure and logical progression."
+Vinutha K_124,Vinutha K,104,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and repetitions, but mostly completes thoughts.
+• Accuracy: Basic structures are used, but there are some errors and awkward phrases.
+• Range: Vocabulary is somewhat varied but lacks precision and depth.
+• Coherence: Ideas are listed but lack clear transitions and logical flow."
+Vinutha K_574,Vinutha K,105,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and fillers but mostly completes thoughts.
+• Accuracy: Basic grammatical structures are used, but there are some errors.
+• Range: Vocabulary is limited to common words and phrases.
+• Coherence: Ideas are presented but lack clear organization."
+Yashwant G Kammar_184,Yashwant G Kammar,106,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and is not completely smooth, but thoughts are mostly completed.
+• Accuracy: Basic grammatical structures are used, but there are several errors, such as 'it have' instead of 'it has'.
+• Range: Vocabulary is somewhat varied but mostly consists of high-frequency words.
+• Coherence: Ideas are presented in a list-like manner but lack clear organization."
+Yashwant G Kammar_105,Yashwant G Kammar,107,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and restarts but mostly completes thoughts.
+• Accuracy: Basic structures are used, but there are some errors in verb forms and prepositions.
+• Range: Vocabulary is somewhat varied but lacks precision and includes some repetitive phrases.
+• Coherence: Ideas are listed but lack a clear structure and logical progression."
+Yashwant G Kammar_225,Yashwant G Kammar,108,v2_simplified,A2,A2,A2,B1,A2,"• Fluency: Speech has some pauses but mostly completes thoughts.
+• Accuracy: Basic structures are used, but there are some minor errors.
+• Range: Vocabulary is somewhat limited but includes relevant terms.
+• Coherence: Ideas are organized logically with a clear progression."
+Yashwant G Kammar_105,Yashwant G Kammar,109,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and repetitions but mostly completes thoughts.
+• Accuracy: Basic structures are present, but there are some errors in verb forms and agreement.
+• Range: Vocabulary is somewhat varied but lacks precision and complexity.
+• Coherence: Ideas are listed but lack a clear structure or progression."
+Yashwant G Kammar_184,Yashwant G Kammar,110,v2_simplified,A2,A2,A2,A2,A2,"• Fluency: Speech has some pauses and restarts but mostly completes thoughts.
+• Accuracy: Basic grammatical structures are present, but there are some errors and awkward phrases.
+• Range: Uses some varied vocabulary but lacks precision and complexity.
+• Coherence: Ideas are somewhat organized but lack clear progression and structure."
