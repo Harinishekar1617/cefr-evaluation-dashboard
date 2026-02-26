@@ -1,0 +1,15 @@
+---
+student name: Shaik Almas
+topic: Managing the Interview Conversation
+activity name: Asking Final Questions
+session time: 2026-01-08 02:52:51
+---
+
+Interviewer (0:00-0:00): What question would you ask at the end of an interview?
+Student (0:01-0:14): Sir, I would like to know about my interview. Could you please give me feedback?
+Interviewer (0:14-0:15): What question can you ask about training or learning?
+Student (0:15-0:27): I could ask question like what is your qualification and what are you learning now that's
+Interviewer (0:27-0:29): What question can you ask about the job role?
+Student (0:29-0:47): I could ask them to my job. How how was my work there? What is what kind of work there for me? What type of job for me? like this.
+Interviewer (0:47-0:48): Why is it good to ask questions at the end?
+Student (0:48-0:59): Asking question at the end is it good because we know about our mistakes and it is feedback for us it's good.

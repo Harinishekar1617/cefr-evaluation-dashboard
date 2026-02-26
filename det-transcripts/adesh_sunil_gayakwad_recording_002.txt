@@ -1,0 +1,17 @@
+---
+student name: Adesh Sunil Gayakwad
+topic: General talk
+activity name: Interests
+session time: 2025-12-12 03:24:04
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:05): Cricket
+Interviewer (0:05-0:08): Do you read books? What is your favourite book?
+Student (0:08-0:11): Bhagavad Gita
+Interviewer (0:11-0:13): What is your favourite movie?
+Student (0:13-0:15): Yojamman.
+Interviewer (0:15-0:17): Who is your favourite actor?
+Student (0:17-0:19): Salman Khan
+Interviewer (0:19-0:22): What is your favourite mobile application?
+Student (0:22-0:25): Instagram

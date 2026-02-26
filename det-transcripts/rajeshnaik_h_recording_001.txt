@@ -1,0 +1,17 @@
+---
+student name: Rajeshnaik H
+topic: General talk
+activity name: Interests
+session time: 2025-12-12 03:20:44
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:11): My favorite hobby is listening music and playing cricket and playing the chess.
+Interviewer (0:11-0:14): Do you read books? What is your favourite book?
+Student (0:14-0:23): Yeah I read books but I but I'm recently not uh read any books my favorite books.
+Interviewer (0:23-0:24): What is your favourite movie?
+Student (0:25-0:29): my favorite movie is Kantara in Bollywood
+Interviewer (0:29-0:31): Who is your favourite actor?
+Student (0:31-0:36): My favorite actor is Golden Star Ganesh.
+Interviewer (0:36-0:38): What is your favourite mobile application?
+Student (0:39-0:43): WhatsApp is my favorite mobile application.

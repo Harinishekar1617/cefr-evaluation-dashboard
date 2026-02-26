@@ -1,0 +1,16 @@
+---
+student name: Anjali Omkar Dhule
+topic: General talk
+activity name: Travel
+session time: 2025-12-15 05:07:53
+---
+
+Interviewer (0:00-0:01): Do you like travelling?
+Student (0:01-0:05): I don't like travel.
+Interviewer (0:05-0:07): Where did you go on your last holiday?
+Interviewer (0:11-0:13): Which is your dream destination?
+Student (0:13-0:23): My dream destination is a job and home building.
+Interviewer (0:23-0:25): Who do you like travelling with?
+Student (0:25-0:30): like traveling with my family.
+Interviewer (0:30-0:32): What do you like doing on vacation?
+Student (0:32-0:36): like a cushion dandelion

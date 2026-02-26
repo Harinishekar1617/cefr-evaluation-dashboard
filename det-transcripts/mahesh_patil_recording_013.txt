@@ -1,0 +1,15 @@
+---
+student name: Mahesh Patil
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-19 05:12:01
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:12): My name is Mahesh. Come from Ranchi.
+Interviewer (0:12-0:14): How old are you / What stage of life are you in?
+Student (0:15-0:23): I am 23 years old. I am a college student. I recently finished become.
+Interviewer (0:23-0:24): Who do you live with?
+Student (0:24-0:29): I stayed in hostel with my friends, crazy friends.
+Interviewer (0:29-0:31): Share something interesting about you
+Student (0:31-0:41): I am hard worker and dreamer. I sometimes I enjoy play with cricket with friends.

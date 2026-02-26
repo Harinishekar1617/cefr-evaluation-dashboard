@@ -1,0 +1,17 @@
+---
+student name: Revanasidda Nagabasappa Deagaon
+topic: Skills and strength
+activity name: Skills from college / training
+session time: 2026-01-12 05:24:24
+---
+
+Interviewer (0:00-0:02): What skills did you learn in college or school?
+Student (0:02-0:10): I learn computer skills and I studied computer science in government college.
+Interviewer (0:10-0:13): What kind of practical work did you do?
+Student (0:13-0:25): I practiced C C++ and coding decoding and I worked on project.
+Interviewer (0:25-0:27): What tools or technology did you use?
+Student (0:27-0:37): I used charge GPT and I worked with the computer.
+Interviewer (0:37-0:39): What skill do you use even now?
+Student (0:39-0:52): I still use a computer skills and I also use computer and Excel PPT.
+Interviewer (0:52-0:54): Which skill helped you the most during studies?
+Student (0:54-1:02): this skill helped me too because it was useful and helpful.

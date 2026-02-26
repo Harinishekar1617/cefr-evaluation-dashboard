@@ -1,0 +1,15 @@
+---
+student name: Ramu Edige
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-29 03:13:06
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:08): My name is Ramu Yedigi from Dharwad.
+Interviewer (0:08-0:11): How old are you / What stage of life are you in?
+Student (0:11-0:28): Old 23 years, what stage is life are you in?
+Interviewer (0:28-0:29): Who do you live with?
+Student (0:29-0:43): He's a who is Ragvindra Yes bro You Yeah.
+Interviewer (0:43-0:46): Share something interesting about you
+Student (0:46-0:57): My interesting in Kabaddi and interesting games also Instagram My my interesting Interesting

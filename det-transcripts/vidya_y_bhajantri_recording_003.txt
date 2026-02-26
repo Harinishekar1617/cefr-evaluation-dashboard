@@ -1,0 +1,17 @@
+---
+student name: Vidya Y Bhajantri
+topic: Introducing Yourself
+activity name: Personal Background
+session time: 2025-12-13 05:33:29
+---
+
+Interviewer (0:00-0:01): Where did you grow up?
+Student (0:01-0:12): I grew up in a village
+Interviewer (0:12-0:13): What was your childhood like?
+Student (0:13-0:38): I can't remember anything about my childhood. Most of time I play playing games with my friend. Spending more time on playing games.
+Interviewer (0:38-0:40): What languages do you speak?
+Student (0:40-0:52): Kannada. My mother tongue is Kannada. My mother tongue is Kannada.
+Interviewer (0:52-0:55): What is something interesting about your hometown?
+Student (0:55-1:01): Nothing special in our home town.
+Interviewer (1:01-1:04): How would you describe yourself in one sentence?
+Student (1:05-1:20): I am a social bird. I can mingle with everyone. But sometimes I feel awkward to talk with talk in front of boys. Something like

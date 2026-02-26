@@ -1,0 +1,17 @@
+---
+student name: Kousar B
+topic: General talk
+activity name: Interests
+session time: 2026-01-08 05:09:18
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:10): playing games and listening music and I enjoyed it a lot.
+Interviewer (0:10-0:13): Do you read books? What is your favourite book?
+Student (0:13-0:20): Yes, I would do. My favorite book is the Ramayana Mahabharata because it is so interested. So that way I like it.
+Interviewer (0:20-0:22): What is your favourite movie?
+Student (0:22-0:26): My favorite movie is Sarathy.
+Interviewer (0:26-0:27): Who is your favourite actor?
+Student (0:27-0:30): how do you say that?
+Interviewer (0:30-0:32): What is your favourite mobile application?
+Student (0:33-0:42): My favorite application is Google because we get all the uses in that information.

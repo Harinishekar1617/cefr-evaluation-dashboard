@@ -1,0 +1,15 @@
+---
+student name: Nikita Kelur
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-29 03:13:41
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:07): My name is Nikita. I am from Kadak.
+Interviewer (0:07-0:09): How old are you / What stage of life are you in?
+Student (0:10-0:17): I am twenty three years old and I am a college I am done my graduation.
+Interviewer (0:17-0:19): Who do you live with?
+Student (0:19-0:28): I live with my family. There are four members in my family including me. My father, my mother, my brother and me.
+Interviewer (0:28-0:30): Share something interesting about you
+Student (0:30-1:17): I enjoy myself when I am with my family and friends. And I love to eat some snacks and I am interested in learning new things and playing badminton and traveling some place to another place. And one special thing about me is I am a very good kind of person like I am Share something. I

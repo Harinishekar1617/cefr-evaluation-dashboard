@@ -1,0 +1,17 @@
+---
+student name: Sakshi A Kurhade
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2025-12-13 05:30:32
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:10): Um, I completed M.Eng. engineering and my major is computer science.
+Interviewer (0:10-0:12): Where do you study / Where did you study?
+Student (0:12-0:20): I completed my course at SVK from Belgaumi.
+Interviewer (0:20-0:22): Why did you choose this course?
+Student (0:22-0:34): I chose this course because I want to build my communication skills, leadership college qualities and I want to get a job in a reputed company.
+Interviewer (0:34-0:36): What skills have you learned?
+Student (0:36-0:45): I improved my communication skills and I gained experience in leadership.
+Interviewer (0:45-0:48): How is your education useful for your future?
+Student (0:48-1:08): education helps me to build AI web development and Python I can use I learned Python and I can use my skills to web development

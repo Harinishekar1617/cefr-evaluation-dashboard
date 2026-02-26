@@ -1,0 +1,15 @@
+---
+student name: Snehal Mali
+topic: Introducing Yourself
+activity name: Current situation
+session time: 2026-01-19 02:55:31
+---
+
+Interviewer (0:00-0:01): What are you doing now?
+Student (0:01-0:12): I am recently I am recently I completed my graduation graduation currently I am Komraj Pande kelling.
+Interviewer (0:12-0:14): How do you spend your time these days?
+Student (0:14-0:28): This day I usually spend my time working or studying through my phone. In my free time, I like watching movies, listening music.
+Interviewer (0:28-0:30): What are you learning or practicing now?
+Student (0:30-0:41): I am learning new skills and practicing regularly. I am learning and improve my skills.
+Interviewer (0:41-0:43): What job are you looking for now?
+Student (0:43-0:51): I am looking for a full-time job. I am looking for a suitable job to start my career.

@@ -1,0 +1,17 @@
+---
+student name: Methgal Manjunatha
+topic: General talk
+activity name: Free time and Weekends
+session time: 2025-12-17 03:07:41
+---
+
+Interviewer (0:00-0:01): What do you do in your free time?
+Student (0:01-0:07): In my free time, I'm going to outside for shopping.
+Interviewer (0:07-0:08): What do you do on weekends?
+Student (0:08-0:16): on weekend I'm playing some games like volleyball cricket carrom chess
+Interviewer (0:16-0:17): Do you meet friends or family?
+Student (0:17-0:21): Yes, I meet my friends.
+Interviewer (0:21-0:23): Do you go out or stay home? Why?
+Student (0:23-0:35): I go out for shopping something eating
+Interviewer (0:35-0:37): What activity makes you happy?
+Student (0:37-0:44): Playing the games makes me happy because I enjoyed the playing games.

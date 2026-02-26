@@ -1,0 +1,17 @@
+---
+student name: Varun Raju Raibagi
+topic: General talk
+activity name: Daily routine
+session time: 2026-01-02 03:04:29
+---
+
+Interviewer (0:00-0:01): What time do you wake up?
+Student (0:01-0:08): I wake up at 5:30 a.m. because I have to go for yoga session.
+Interviewer (0:08-0:09): What do you do in the morning?
+Student (0:09-0:26): First I woke up at 5:30 a.m. then I get brush and then I go to yoga session. After yoga session I go to morning session. That's it.
+Interviewer (0:26-0:28): What time do you go to school/work?
+Student (0:28-0:43): I go to work at 7:45 a.m. I leave hostel at 7:30. It takes me 15 minutes to reach the working spot.
+Interviewer (0:43-0:45): What do you do in the afternoon/evening?
+Student (0:45-1:05): In the afternoon, I attend E and C and ICT classes. After completing E and C and ICT class in the evening session, we work on given assignments and we discuss some R&D problems.
+Interviewer (1:05-1:07): What time do you sleep?
+Student (1:07-1:22): I usually sleep at 11:30 p.m. I go to bed at 11. I sleep late because I have to study the today's sessions.

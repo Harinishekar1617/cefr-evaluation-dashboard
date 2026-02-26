@@ -1,0 +1,17 @@
+---
+student name: Ramu Edige
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2026-01-02 03:08:34
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:13): My studies there English and communication skills study
+Interviewer (0:13-0:15): Where do you study / Where did you study?
+Student (0:15-0:28): My studies B.A. completed and this one skills course and reservations static English communication
+Interviewer (0:28-0:30): Why did you choose this course?
+Student (0:30-1:02): My course is life long is course BA and life life is settle and my courses my history and political chose this course.
+Interviewer (1:02-1:03): What skills have you learned?
+Student (1:03-1:26): Skills and communication English and spoken and computer lab and also good in this skill and also 20 days ago in English and English is comfortable in this skills.
+Interviewer (1:26-1:29): How is your education useful for your future?
+Student (1:29-1:58): My education BA complete is BA completed is unsuccessful. And education is a useful can skills and history is also is comfortable and my course is in my education BA completed.

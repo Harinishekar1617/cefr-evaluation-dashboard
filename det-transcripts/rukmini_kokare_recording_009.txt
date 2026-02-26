@@ -1,0 +1,17 @@
+---
+student name: Rukmini Kokare
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2025-12-22 20:57:22
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:16): My study well.
+Interviewer (0:16-0:18): Where do you study / Where did you study?
+Student (0:18-0:29): home
+Interviewer (0:29-0:31): Why did you choose this course?
+Student (0:31-0:35): Deshpande spelling
+Interviewer (0:35-0:37): What skills have you learned?
+Student (0:37-0:43): Learning English
+Interviewer (0:43-0:45): How is your education useful for your future?
+Student (0:45-1:01): My education helps me my brother and I can use my skills to English communication it prepared prepared me for my friends

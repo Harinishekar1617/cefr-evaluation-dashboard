@@ -1,0 +1,17 @@
+---
+student name: Shrishail Ramappa Giddagoudar
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2026-01-22 03:11:19
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:13): I am studying in Deshpande Skilling and I studied Bachelor of Commerce.
+Interviewer (0:13-0:15): Where do you study / Where did you study?
+Student (0:16-0:27): I am studying in Deshpande Skilling and I studied in DSS SMI UG PG Vidyagiri Dharwad.
+Interviewer (0:27-0:28): Why did you choose this course?
+Student (0:29-0:37): because of to learn English communication, vocabulary, and frame the sentences.
+Interviewer (0:37-0:39): What skills have you learned?
+Student (0:39-0:45): English communication and basic computer knowledge.
+Interviewer (0:45-0:48): How is your education useful for your future?
+Student (0:48-1:12): to teach someone and also to live in this job world.

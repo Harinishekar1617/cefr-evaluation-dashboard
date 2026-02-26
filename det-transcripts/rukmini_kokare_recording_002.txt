@@ -1,0 +1,17 @@
+---
+student name: Rukmini Kokare
+topic: Introducing Yourself
+activity name: Personal Background
+session time: 2025-12-15 03:14:05
+---
+
+Interviewer (0:00-0:01): Where did you grow up?
+Student (0:01-0:08): Uh, Bangalore City is a grow-up city. finish and then
+Interviewer (0:08-0:09): What was your childhood like?
+Student (0:09-0:22): Uh my friends happiness and childish moments.
+Interviewer (0:22-0:24): What languages do you speak?
+Student (0:24-0:40): Uh my mother language Marathi and I am learning English because English is uh skills improvement, communication skills.
+Interviewer (0:40-0:43): What is something interesting about your hometown?
+Student (0:43-0:51): reading, singing, writing, and uh culture activity.
+Interviewer (0:51-0:54): How would you describe yourself in one sentence?
+Student (0:54-1:03): I am a honest person and positive things and hard work.

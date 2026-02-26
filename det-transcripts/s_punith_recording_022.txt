@@ -1,0 +1,15 @@
+---
+student name: S Punith
+topic: Introducing Yourself
+activity name: Current situation
+session time: 2026-01-20 02:51:27
+---
+
+Interviewer (0:00-0:01): What are you doing now?
+Student (0:01-0:16): Now I am study in skilling development and communication skill and basic knowledge computer. I am study in still.
+Interviewer (0:16-0:18): How do you spend your time these days?
+Student (0:18-0:37): I spend my times focusing on my studies and improving my skills. I also practice communication and learn new things daily and working on self development. This is also my spend my times.
+Interviewer (0:37-0:39): What are you learning or practicing now?
+Student (0:39-0:54): I am learning new skills and practicing my communication skills. I also focusing on improving my knowledge. Uh that's why my learning and practice.
+Interviewer (0:54-0:56): What job are you looking for now?
+Student (0:56-1:01): I am looking for a MNC company.

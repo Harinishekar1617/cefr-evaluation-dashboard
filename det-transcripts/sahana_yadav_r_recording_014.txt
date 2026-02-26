@@ -1,0 +1,17 @@
+---
+student name: Sahana Yadav R
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2026-01-02 03:16:41
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:13): I studied in Deshpande's killing. I completed Bachelor of Computer application. My major is nothing.
+Interviewer (0:13-0:15): Where do you study / Where did you study?
+Student (0:16-0:32): I study at the Davani University and I completed my bachelor of computer application. Then I know the programming languages. Java, Python and other programming languages.
+Interviewer (0:32-0:34): Why did you choose this course?
+Student (0:34-0:55): which was this course because it was very helpful for me for knowing the shortcut case of computer. I know the programming languages in cyber security. I was interested in artificial intelligence. I wanted to learn data analyst.
+Interviewer (0:55-0:57): What skills have you learned?
+Student (0:57-1:20): I learned to do some, I learned to do so many things like what I telling another questions uh Java programming Java Java and another Python then data data structure then DBL and
+Interviewer (1:20-1:23): How is your education useful for your future?
+Student (1:23-1:51): My education is helps to me. I become I want to get job and I become good and it is here to me. Sorry to me for my family, for helping my family then. It is useful for me. It is useful for my future. For what they have prepared for me for everything. My education is helps to wherever I travel then.

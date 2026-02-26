@@ -1,0 +1,17 @@
+---
+student name: Anjali Omkar Dhule
+topic: General talk
+activity name: Daily routine
+session time: 2025-12-19 05:14:19
+---
+
+Interviewer (0:00-0:01): What time do you wake up?
+Student (0:01-0:05): I wake up at around 6 o'clock.
+Interviewer (0:05-0:06): What do you do in the morning?
+Student (0:06-0:15): You wake up the morning and go to yoga and breathing.
+Interviewer (0:15-0:17): What time do you go to school/work?
+Student (0:17-0:21): 9:30
+Interviewer (0:21-0:23): What do you do in the afternoon/evening?
+Student (0:23-0:29): Afternoon I'm come to home and snacks in one things
+Interviewer (0:29-0:30): What time do you sleep?
+Student (0:30-0:34): I was sleeping 10:30 p m

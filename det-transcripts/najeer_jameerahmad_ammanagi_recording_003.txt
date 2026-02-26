@@ -1,0 +1,17 @@
+---
+student name: Najeer Jameerahmad Ammanagi
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2025-12-13 05:23:00
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:10): I have completed my BCA graduation.
+Interviewer (0:10-0:12): Where do you study / Where did you study?
+Student (0:12-0:20): I studied at SDVS BCA College Shkeshav.
+Interviewer (0:20-0:21): Why did you choose this course?
+Student (0:21-0:32): I have I have more interest in coding and computers so I chose BCA.
+Interviewer (0:32-0:34): What skills have you learned?
+Student (0:34-0:43): computer skills and HTML programming language.
+Interviewer (0:43-0:45): How is your education useful for your future?
+Student (0:45-0:58): So I learned a lot of things in computer, so I can uh join as a company and uh so it will be very helpful for my future.

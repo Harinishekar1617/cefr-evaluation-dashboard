@@ -1,0 +1,17 @@
+---
+student name: Sanjana K
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2025-12-13 05:30:22
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:17): I have studied in computer science at a university in Ukraine and then I started working as a full-stack developer.
+Interviewer (0:17-0:20): Where do you study / Where did you study?
+Student (0:20-0:27): I edit at Gandhi College.
+Interviewer (0:27-0:29): Why did you choose this course?
+Student (0:29-0:40): I do good for that because I want to get into the in the in this uh, you know, this man.
+Interviewer (0:40-0:42): What skills have you learned?
+Student (0:42-1:25): Why did you choose this course? What skills have you learned? I learn to communicate well with the patients, to give them the right treatment, to handle emergency cases, to prepare for surgery.
+Interviewer (1:25-1:28): How is your education useful for your future?
+Student (1:28-1:52): My name is and I am from California. I'm doing the video for and I am talking about.

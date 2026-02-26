@@ -1,0 +1,17 @@
+---
+student name: Yamini M
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2025-12-31 02:47:22
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:11): I completed my Bachelor of Computer application. My major is computer.
+Interviewer (0:11-0:14): Where do you study / Where did you study?
+Student (0:14-0:25): I completed my course in at Bachelor of Computer Application. I went to college Shivamogga.
+Interviewer (0:25-0:26): Why did you choose this course?
+Student (0:26-0:49): I was interested in computer. That's why I take I took I was interested in BCA, computer application. I wanted to learn computer.
+Interviewer (0:49-0:51): What skills have you learned?
+Student (0:51-0:56): I learned basic computer application.
+Interviewer (0:56-0:58): How is your education useful for your future?
+Student (0:58-1:04): I can use my skills to improve my career.

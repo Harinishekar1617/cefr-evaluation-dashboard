@@ -1,0 +1,15 @@
+---
+student name: Yamini M
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2026-01-04 00:17:06
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:15): My name is Yamini. I am from Davanagere. I have completed my bachelor degree. My hometown is Davanagere. I grew up in my native place in Davanagere district.
+Interviewer (0:15-0:18): How old are you / What stage of life are you in?
+Student (0:18-0:34): I am 21 years old. I am a college student and I recently finished my graduation in computer application from Kumpu University Shimoga.
+Interviewer (0:34-0:35): Who do you live with?
+Student (0:35-0:48): I live with my family. My family includes father, mother and elder brother. I stay in your hostel with my friends. I now I study in course.I live with my family. My family includes father, mother and elder brother. I stay in your hostel with my friends. I now I study in course.
+Interviewer (0:48-0:50): Share something interesting about you
+Student (0:50-0:59): Enjoy playing games, I love cooking, I am interested in new drawing.

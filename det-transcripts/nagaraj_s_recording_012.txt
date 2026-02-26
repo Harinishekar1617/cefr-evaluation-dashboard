@@ -1,0 +1,15 @@
+---
+student name: Nagaraj S
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-19 03:05:10
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:13): My name is Naraj. I am from the large Golden Production of city Rajur.
+Interviewer (0:13-0:16): How old are you / What stage of life are you in?
+Student (0:16-0:33): I am 22 years old. I am college studied in B.com final year. I recently note 2024 I complete my graduation.The user asked for an exact transcription and specific output format. I have listened to the audio and will provide the text as requested.
+Interviewer (0:33-0:34): Who do you live with?
+Student (0:34-0:54): Hi all my family members and my all uh SSLC school friends and college friends. All members I leave with and come to this Monday. I schooling in a hostel will stay.
+Interviewer (0:54-0:56): Share something interesting about you
+Student (0:56-1:18): As I enjoy this point is killing, how to improve my English skills. And also my parents are interested in listening a music, singing a song. One special thing I will improve my career in my life.

@@ -1,0 +1,15 @@
+---
+student name: Ramya Yadav B
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2026-01-08 22:31:02
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:11): My name is Ramya. I am from Chitradurga. My hometown is Pallavagere.
+Interviewer (0:11-0:14): How old are you / What stage of life are you in?
+Student (0:14-0:28): I am 21 years old. I have completed of Bachelor of Commerce. Davangere University Government First grade Women's College for Chitradurga.
+Interviewer (0:28-0:29): Who do you live with?
+Student (0:29-0:45): Hi, live with my family. My family seven members include me. I stay with Austin with purpose of learning skills.
+Interviewer (0:45-0:47): Share something interesting about you
+Student (0:47-1:09): I enjoy with listening music and I love I love a nature. I am very interesting person and hard working person. Uh One special things about me, I am a very sensitive person.

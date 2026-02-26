@@ -1,0 +1,17 @@
+---
+student name: P M Anil Kumar
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2025-12-19 05:15:35
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:15): I completed my masters in biotechnology from Langer University.
+Interviewer (0:15-0:18): Where do you study / Where did you study?
+Student (0:18-0:26): I completed my course at Mangalore University.
+Interviewer (0:26-0:28): Why did you choose this course?
+Student (0:28-0:48): because I was interested in like that plant. So I choose biotechnology course.
+Interviewer (0:48-0:50): What skills have you learned?
+Student (0:50-1:06): I love typing and MS Word and also how to deal with customers.
+Interviewer (1:06-1:08): How is your education useful for your future?
+Student (1:08-1:33): My education helps me like to improve our knowledge and also to build confidence and also it helps to for getting job.

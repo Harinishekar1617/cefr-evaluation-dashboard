@@ -1,0 +1,17 @@
+---
+student name: P M Anil Kumar
+topic: Introducing Yourself
+activity name: Personal Background
+session time: 2025-12-31 21:33:04
+---
+
+Interviewer (0:00-0:01): Where did you grow up?
+Student (0:01-0:08): I grew up in a hostel
+Interviewer (0:08-0:09): What was your childhood like?
+Student (0:09-0:38): My childhood was uh I like playing sports and also chit chatting with my friends. And also uh spending time with my parents. These are the my childhood memories.
+Interviewer (0:38-0:39): What languages do you speak?
+Student (0:39-1:04): I speak many languages like my mother tongue is Telugu. I speak Kannada, English, Hindi and also I understanding many languages, but some languages able to respond.
+Interviewer (1:04-1:07): What is something interesting about your hometown?
+Student (1:07-1:30): My home town is known for there is a many famous temples in that anjanadri temple and hampi temple are the very famous temples and also in my own town there is a famous for education
+Interviewer (1:30-1:33): How would you describe yourself in one sentence?
+Student (1:33-1:51): I am a smart worker and also I be with friendly with my friends and also good soul person.

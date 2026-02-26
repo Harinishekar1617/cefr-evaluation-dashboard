@@ -1,0 +1,13 @@
+---
+student name: Sushmita S Kempalingannavar
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2026-01-07 05:23:25
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Interviewer (0:20-0:22): Where do you study / Where did you study?
+Student (0:22-0:43): only really what
+Interviewer (0:43-0:44): Why did you choose this course?
+Interviewer (1:21-1:23): What skills have you learned?
+Interviewer (1:41-1:43): How is your education useful for your future?

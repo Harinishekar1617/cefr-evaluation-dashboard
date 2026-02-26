@@ -1,0 +1,17 @@
+---
+student name: Kousar B
+topic: Introducing Yourself
+activity name: Little more about me
+session time: 2026-01-09 05:11:11
+---
+
+Interviewer (0:00-0:01): Tell me something more about yourself.
+Student (0:01-0:06): I'm Kousar. I'm from Yadgir District.
+Interviewer (0:06-0:07): What do you enjoy doing in your free time?
+Student (0:08-0:15): by watching movies and uh listening music and playing some games.
+Interviewer (0:15-0:16): What is important to you in your life?
+Student (0:16-0:24): My family is important because learning is also most important for future surviving.
+Interviewer (0:24-0:26): What kind of person are you?
+Student (0:26-0:29): I'm a friendly person.
+Interviewer (0:29-0:31): What should people know about you?
+Student (0:31-0:44): people who should know that I am because we are doing helping each other for people who have problems we can help them.

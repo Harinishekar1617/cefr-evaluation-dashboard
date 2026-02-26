@@ -1,0 +1,15 @@
+---
+student name: Soumya M Kumatagi
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-31 02:50:33
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:07): My name is Somya. I am from Vijaypur.
+Interviewer (0:07-0:09): How old are you / What stage of life are you in?
+Student (0:10-0:15): I am 22 years old and I am a college student.
+Interviewer (0:15-0:16): Who do you live with?
+Student (0:17-0:21): I live with my hostel friends.
+Interviewer (0:21-0:23): Share something interesting about you
+Student (0:23-0:32): I I enjoy learning new things. I love to learn English communication.

@@ -1,0 +1,17 @@
+---
+student name:  Varsha PS
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2025-12-19 05:13:42
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:11): I am study Bcom. I am completed my graduation. My major is accounts.
+Interviewer (0:11-0:14): Where do you study / Where did you study?
+Student (0:14-0:26): I'm studying become and recently come I'm completed my course become I'm
+Interviewer (0:26-0:27): Why did you choose this course?
+Student (0:27-0:47): I choose this course because my sister told choose this. I was interested in accounts. I want to learn lots of things in accounts in financial investment and bank sector.
+Interviewer (0:47-0:48): What skills have you learned?
+Student (0:48-1:04): I am good in skills writing and reading and listening. I improve my typing skill, gain experience, no experience in my life.
+Interviewer (1:04-1:07): How is your education useful for your future?
+Student (1:07-1:25): My, it is, accountancy and balance sheet. I can use my skills to improve her, improve my skills and to prepare me for interview.

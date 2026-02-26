@@ -1,0 +1,15 @@
+---
+student name: Ananda S
+topic: Introducing Yourself
+activity name: Current situation
+session time: 2026-01-13 05:11:17
+---
+
+Interviewer (0:00-0:01): What are you doing now?
+Student (0:01-0:07): definitely sitting.
+Interviewer (0:07-0:09): How do you spend your time these days?
+Student (0:09-0:20): Next one today attend classes and
+Interviewer (0:20-0:23): What are you learning or practicing now?
+Student (0:23-0:34): I am learning now practicing with interview asking for some questions solutions for answers.
+Interviewer (0:34-0:36): What job are you looking for now?
+Student (0:36-0:52): I'm thinking on the main ship on Bing pass. All right, this is.

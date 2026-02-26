@@ -1,0 +1,17 @@
+---
+student name: Yashodha Jamadar
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2025-12-25 03:27:36
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:11): I have completed in Bcom graduate in Gulbarga University.
+Interviewer (0:11-0:14): Where do you study / Where did you study?
+Student (0:14-0:27): I studied Bcom Bachelor of Commerce I completed my course at 2024. I went to Government First Grade College Humnabad.
+Interviewer (0:27-0:29): Why did you choose this course?
+Student (0:29-0:44): I chose this course because I like I was interested in I went I went to learn accounting and business parts.
+Interviewer (0:44-0:45): What skills have you learned?
+Student (0:45-1:03): I learned accounting what is accounting accounting rules general entry particular I improve my knowledge I gained experience in this course.
+Interviewer (1:03-1:06): How is your education useful for your future?
+Student (1:06-1:20): My education help me because another place I am go to that time I can use my skills to it for preparing me.

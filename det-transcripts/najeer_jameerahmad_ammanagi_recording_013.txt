@@ -1,0 +1,17 @@
+---
+student name: Najeer Jameerahmad Ammanagi
+topic: Introducing Yourself
+activity name: Personal Background
+session time: 2025-12-18 05:21:52
+---
+
+Interviewer (0:00-0:01): Where did you grow up?
+Student (0:01-0:08): I grew up in my home village Shirahati BK.
+Interviewer (0:08-0:09): What was your childhood like?
+Student (0:09-0:22): My childhood was very good and I enjoyed a lot playing cricket with friends and learning so many things in childhood. So I enjoyed a lot.
+Interviewer (0:22-0:24): What languages do you speak?
+Student (0:24-0:38): I speak, my mother tongue is Kannada. I'm learning English because I want to have job in IT and also I know Hindi and Urdu.
+Interviewer (0:38-0:41): What is something interesting about your hometown?
+Student (0:41-0:57): An interesting about our hometown, hometown is everyone is very supportive and helpful and very kind. So that is the interesting thing about my hometown.
+Interviewer (0:57-1:00): How would you describe yourself in one sentence?
+Student (1:00-1:10): I'm self-motivated person who who draw portraits and post contents in social media.

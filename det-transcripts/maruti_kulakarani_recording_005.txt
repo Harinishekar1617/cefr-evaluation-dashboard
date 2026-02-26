@@ -1,0 +1,15 @@
+---
+student name: Maruti Kulakarani
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-18 05:12:14
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:10): My name is Maruti. I am from Shorarapur, Yadgiri district.
+Interviewer (0:10-0:13): How old are you / What stage of life are you in?
+Student (0:13-0:25): I am a 21 year old. I am a I am a college student recently finished Bcom. Next is Mcom.
+Interviewer (0:25-0:26): Who do you live with?
+Student (0:26-0:30): I live with my family
+Interviewer (0:30-0:32): Share something interesting about you
+Student (0:32-0:36): I am a joyful guy.

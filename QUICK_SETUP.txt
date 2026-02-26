@@ -1,0 +1,133 @@
+================================================================================
+CEFR EVALUATION PIPELINE - QUICK SETUP
+================================================================================
+
+GEMINI API SETUP (RECOMMENDED - Fastest & Cheapest)
+================================================================================
+
+1. GET API KEY:
+   Visit: https://aistudio.google.com/app/apikeys
+   Click: Create API Key
+   Copy: Your API key (starts with AIza...)
+
+2. STORE API KEY:
+   Method A - Using .env file (Recommended):
+   $ cd "/Users/hshekar/CEFR Evaluation"
+   $ echo "GEMINI_API_KEY=YOUR_KEY_HERE" > .env
+
+   Method B - Direct in config.py:
+   Edit: cefr_pipeline/config.py
+   Change: GEMINI_API_KEY = "YOUR_KEY_HERE"
+
+3. INSTALL LIBRARY:
+   $ pip install google-generativeai
+
+4. CONFIGURE:
+   Edit: cefr_pipeline/config.py
+   Set: API_PROVIDER = "gemini"
+
+5. RUN:
+   $ python main.py
+
+6. RESULTS:
+   Check: output/cefr_results_all_students_gemini.xlsx
+
+================================================================================
+SWITCHING TO OTHER PROVIDERS
+================================================================================
+
+FOR OPENAI:
+-----------
+1. Get key: https://platform.openai.com/api-keys
+2. Add to .env: OPENAI_API_KEY=sk-...
+3. In config.py: API_PROVIDER = "openai"
+4. Run: python main.py
+
+FOR OPENROUTER:
+---------------
+1. Get key: https://openrouter.ai/keys
+2. Add to .env: OPENROUTER_API_KEY=sk-or-...
+3. In config.py: API_PROVIDER = "openrouter"
+4. Run: python main.py
+
+================================================================================
+FILE STRUCTURE
+================================================================================
+
+/Users/hshekar/CEFR Evaluation/
+├── .env                          ← Store your API keys here
+├── cefr_pipeline/
+│   ├── config.py                 ← Change API_PROVIDER here
+│   ├── assessment.py             ← API integration (already updated)
+│   └── ...
+├── main.py                       ← Run this to evaluate
+├── output/                       ← Results saved here
+│   ├── cefr_results_*.xlsx
+│   ├── cefr_individual_turns_*.csv
+│   └── cefr_aggregated_*.csv
+├── API_PROVIDER_GUIDE.md         ← Full documentation
+├── GEMINI_API_SETUP.md           ← Detailed Gemini setup
+└── QUICK_SETUP.txt              ← This file
+
+================================================================================
+TROUBLESHOOTING
+================================================================================
+
+Q: "google-generativeai not installed"
+A: pip install google-generativeai
+
+Q: "Invalid API Key"
+A: • Verify key format: AIza... for Gemini
+   • Check it's active at aistudio.google.com/app/apikeys
+   • No extra spaces in .env file
+
+Q: "Rate limit exceeded"
+A: Wait a few minutes and try again. Free tier has limits.
+
+Q: "Connection timeout"
+A: Check internet connection. Try again in a few moments.
+
+================================================================================
+MODEL OPTIONS
+================================================================================
+
+GEMINI (Recommended):
+  - gemini-1.5-flash     ← Fast, cheap (use this)
+  - gemini-1.5-pro       ← Slower, more powerful
+  - gemini-2.0-flash     ← Latest (if available)
+
+OPENAI:
+  - gpt-4o-mini         ← Fast, affordable
+  - gpt-4o              ← More powerful
+  - gpt-4               ← Older, still good
+
+OPENROUTER:
+  - openai/gpt-4o-mini
+  - anthropic/claude-opus
+  - meta-llama/llama-2
+  (50+ models available)
+
+================================================================================
+COST COMPARISON (90 dialogue turns)
+================================================================================
+
+Gemini-1.5-flash:     < $0.10  ✓ Cheapest
+Gemini-1.5-pro:       ~$0.50
+OpenRouter (avg):     ~$0.20-0.50
+OpenAI gpt-4o-mini:   ~$0.10-0.50
+OpenAI gpt-4o:        ~$0.50-2.00
+
+================================================================================
+NEXT STEPS
+================================================================================
+
+1. Get API key from your chosen provider
+2. Save in .env or config.py
+3. Edit config.py: API_PROVIDER = "gemini" (or your choice)
+4. Run: python main.py
+5. Wait for evaluation to complete
+6. Results in: output/cefr_results_*.xlsx
+
+For more details, see: API_PROVIDER_GUIDE.md
+
+================================================================================

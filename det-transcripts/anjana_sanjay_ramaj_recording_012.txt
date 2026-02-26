@@ -1,0 +1,15 @@
+---
+student name: Anjana Sanjay Ramaj
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-29 03:03:42
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:21): My name is Anjana from Gadhinglaj, which is located in Kolhapur district of Maharashtra. Gadhinglaj is known for its agricultural work and factories and trading activities. People here are disciplined and hard workers.
+Interviewer (0:21-0:24): How old are you / What stage of life are you in?
+Student (0:24-0:31): I am 22 years old and I have completed my bachelor's degree this year.
+Interviewer (0:31-0:32): Who do you live with?
+Student (0:33-0:38): Now I stay in hostel with my friends.
+Interviewer (0:38-0:40): Share something interesting about you
+Student (0:40-0:55): I have deep interest in spirituality. So, when I'm free, I doing spiritual activities like chanting and reading spiritual type books.

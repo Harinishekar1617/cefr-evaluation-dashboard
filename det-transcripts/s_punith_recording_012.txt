@@ -1,0 +1,15 @@
+---
+student name: S Punith
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-27 02:57:21
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:06): I am Puneet. I am from Vijayanagaram district.
+Interviewer (0:06-0:09): How old are you / What stage of life are you in?
+Student (0:09-0:15): I am 23 years. I have completed Bachelor's of Commerce.
+Interviewer (0:15-0:16): Who do you live with?
+Student (0:17-0:24): I live with my family. I stay in Hubli because study propose.
+Interviewer (0:24-0:26): Share something interesting about you
+Student (0:26-0:34): I am playing Kabaddi. My favorite and my interesting sports.

@@ -1,0 +1,17 @@
+---
+student name: Yamini M
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2025-12-23 02:44:00
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:06): I completed Bachelor of Computer application.
+Interviewer (0:06-0:09): Where do you study / Where did you study?
+Student (0:09-0:11): I study at Shivamoga
+Interviewer (0:11-0:13): Why did you choose this course?
+Student (0:13-0:18): I was interested in computer application.
+Interviewer (0:18-0:20): What skills have you learned?
+Student (0:20-0:27): Communication skill and leadership quality.
+Interviewer (0:27-0:29): How is your education useful for your future?
+Student (0:29-0:35): I can use my skills to improve my career.

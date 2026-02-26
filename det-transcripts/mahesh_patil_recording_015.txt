@@ -1,0 +1,17 @@
+---
+student name: Mahesh Patil
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2025-12-24 04:40:27
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:11): My study become and I completed become my major is job.
+Interviewer (0:11-0:13): Where do you study / Where did you study?
+Student (0:13-0:19): I I study become and I completed my become course
+Interviewer (0:19-0:21): Why did you choose this course?
+Student (0:21-0:30): I discourse because I interested in I will should become. So, I joined the
+Interviewer (0:30-0:32): What skills have you learned?
+Student (0:32-0:39): I learned how to interact and improve my communication skills.
+Interviewer (0:39-0:42): How is your education useful for your future?
+Student (0:42-0:58): Education is very important in future. Because more respect and more salary and then good level etc.

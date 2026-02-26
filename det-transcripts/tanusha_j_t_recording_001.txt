@@ -1,0 +1,12 @@
+---
+student name: Tanusha J T
+topic: General talk
+activity name: Interests
+session time: 2025-12-13 05:21:36
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Interviewer (0:12-0:14): Do you read books? What is your favourite book?
+Interviewer (0:24-0:26): What is your favourite movie?
+Interviewer (0:34-0:36): Who is your favourite actor?
+Interviewer (0:45-0:48): What is your favourite mobile application?

@@ -1,0 +1,17 @@
+---
+student name: Jannesh Yadav
+topic: General talk
+activity name: Daily routine
+session time: 2025-12-18 05:22:04
+---
+
+Interviewer (0:00-0:01): What time do you wake up?
+Student (0:01-0:11): I wake up at 6:00 a.m. Weekend I wake up at 8:00 a.m.
+Interviewer (0:11-0:13): What do you do in the morning?
+Student (0:13-0:23): First, I read a newspaper, then I take a cup of tea. After that, I'm going to walking.
+Interviewer (0:23-0:25): What time do you go to school/work?
+Student (0:26-0:43): I go to college at 7:45. I leave hostel at 7.
+Interviewer (0:43-0:45): What do you do in the afternoon/evening?
+Student (0:45-0:58): the afternoon I do homework sometimes I play I like to cricket so I play cricket
+Interviewer (0:58-0:59): What time do you sleep?
+Student (0:59-1:25): Usually sleep at 10:30 p.m. I go to bed at 10. Sometimes I sleep at 11:00 p.m. because sometimes trainers gives more homeworks. So I sleep at 11:00 p.m. sometimes.

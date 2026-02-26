@@ -1,0 +1,17 @@
+---
+student name: Najeer Jameerahmad Ammanagi
+topic: Skills and strength
+activity name: Skills from college / training
+session time: 2026-01-13 05:13:04
+---
+
+Interviewer (0:00-0:02): What skills did you learn in college or school?
+Student (0:02-0:13): college. I learned HTML and um CSS a little bit.
+Interviewer (0:13-0:16): What kind of practical work did you do?
+Student (0:16-0:45): in my college I did a project called Medi block. It I used blockchain technology to create that. Uh it basically it a website. Uh it for the medical record using blockchain technology and it prevent the unautorized access to the website. only authorized people can use that website.
+Interviewer (0:45-0:47): What tools or technology did you use?
+Student (0:47-0:52): first, blockchain technology.
+Interviewer (0:52-0:53): What skill do you use even now?
+Student (0:54-1:15): No, I don't have much skills, but I'm still learning English and communication and Microsoft Excel, PowerPoint, uh, and Word document and reasoning and attitude. Uh, but I will learn, I will have skill those one day.
+Interviewer (1:15-1:18): Which skill helped you the most during studies?
+Student (1:18-1:27): Never giving up is skill or not, I don't know, but that actually helped me a lot during my studies.

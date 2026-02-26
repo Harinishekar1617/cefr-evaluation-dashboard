@@ -1,0 +1,17 @@
+---
+student name: Harshita Mohan Bhandari
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2026-01-03 02:47:24
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:15): I study in college I completed my BA my major is arts
+Interviewer (0:15-0:17): Where do you study / Where did you study?
+Student (0:17-0:29): I studied at college I completed my course after in PU college I went to go school.
+Interviewer (0:29-0:30): Why did you choose this course?
+Student (0:30-0:48): I chose this girl course because I was interested in to have a little in subject and improving my education. I went to learn skills that will help me in my future career.
+Interviewer (0:48-0:50): What skills have you learned?
+Student (0:50-1:02): Hello, I learn basic computer skills and communication skills. I improve my English speaking and writing.
+Interviewer (1:02-1:04): How is your education useful for your future?
+Student (1:04-1:32): My education help me build come confidence and knowledge. I can my skills to communicate well and it will and work effectively. It prepared me for future studies and job opportunities.

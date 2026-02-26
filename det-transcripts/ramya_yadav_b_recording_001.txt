@@ -1,0 +1,12 @@
+---
+student name: Ramya Yadav B
+topic: General talk
+activity name: Interests
+session time: 2025-12-13 03:14:05
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Interviewer (0:08-0:10): Do you read books? What is your favourite book?
+Interviewer (0:17-0:19): What is your favourite movie?
+Interviewer (0:26-0:28): Who is your favourite actor?
+Interviewer (0:34-0:37): What is your favourite mobile application?

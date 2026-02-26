@@ -1,0 +1,15 @@
+---
+student name: Lavakumar Gopal Kadam
+topic: Introducing Yourself
+activity name: Current situation
+session time: 2026-01-20 23:13:15
+---
+
+Interviewer (0:00-0:01): What are you doing now?
+Student (0:01-0:03): I am good.
+Interviewer (0:03-0:06): How do you spend your time these days?
+Student (0:06-0:23): I usually spend my time studying and improving my skills. Also help my family use my free time to learn new things and relax by music or using my phone. I try to manage my time.
+Interviewer (0:23-0:26): What are you learning or practicing now?
+Student (0:26-0:34): I am learning those skills here and practicing my communication and English speaking skills and confidence level.
+Interviewer (0:34-0:36): What job are you looking for now?
+Student (0:36-0:52): I'm looking for a beginner level job and I want to start my career and gain experience. I'm looking for a job where I can use my communication skill and learn professionally.

@@ -1,0 +1,17 @@
+---
+student name: Varun Raju Raibagi
+topic: General talk
+activity name: Interests
+session time: 2026-01-02 03:04:45
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:11): My favorite hobby is playing volleyball, reading books.
+Interviewer (0:11-0:14): Do you read books? What is your favourite book?
+Student (0:14-0:23): Yeah, I like books. I my favorite book is Atomic Habits written by James Clear.
+Interviewer (0:23-0:24): What is your favourite movie?
+Student (0:24-0:37): My favorite movie is Kantara because it has a special story and more cinematic graphics. It is so amazing to watch.
+Interviewer (0:37-0:38): Who is your favourite actor?
+Student (0:38-0:50): My favorite actor is Hrithik Roshan. His fighting seems are so amazing to watch. So he's my favorite.
+Interviewer (0:50-0:52): What is your favourite mobile application?
+Student (0:52-1:01): My favorite application is Instagram because I watch motivation reads on that application. So I like it.

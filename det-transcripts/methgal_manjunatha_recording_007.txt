@@ -1,0 +1,17 @@
+---
+student name: Methgal Manjunatha
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2025-12-24 03:17:36
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:11): I completed my bachelor degree in BSC. I take major subjects chemistry, botany, zoology.
+Interviewer (0:11-0:13): Where do you study / Where did you study?
+Student (0:13-0:21): I am completed my BSC from Sri Krishna Devaraya University Bellary.
+Interviewer (0:21-0:22): Why did you choose this course?
+Student (0:22-0:42): I choose this course because it has lot of scope in the state. Then I want to learn chemistry chemistry has lot of scope in the pharmaceutical company or in industries.
+Interviewer (0:42-0:44): What skills have you learned?
+Student (0:44-0:50): I improved my computer skills
+Interviewer (0:50-0:53): How is your education useful for your future?
+Student (0:53-1:04): My education helps me to get a good job in the industrial pharmaceutical company that promotes me promotion to the highest

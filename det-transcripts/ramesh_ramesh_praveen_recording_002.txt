@@ -1,0 +1,17 @@
+---
+student name: Ramesh Ramesh Praveen
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2025-12-13 05:30:24
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:09): My studying in B.Com completed and next to to get a job
+Interviewer (0:09-0:11): Where do you study / Where did you study?
+Student (0:11-0:18): we studying become completely next studying communication skill and learning the English.
+Interviewer (0:18-0:20): Why did you choose this course?
+Student (0:20-0:23): My course is MBA.
+Interviewer (0:23-0:25): What skills have you learned?
+Student (0:25-0:32): Computer skills and learning the English and communication skills.
+Interviewer (0:32-0:34): How is your education useful for your future?
+Student (0:34-0:38): Education is a most important point of life journey.

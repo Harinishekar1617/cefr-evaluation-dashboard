@@ -1,0 +1,15 @@
+---
+student name: Shaik Almas
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-16 03:10:57
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:09): Next. My name is Shekh Almas. I am from Tanoor village, Nirmal district, Telangana.
+Interviewer (0:09-0:11): How old are you / What stage of life are you in?
+Student (0:11-0:21): I am 21 years old and I have completed my degree and I am still studying.
+Interviewer (0:21-0:22): Who do you live with?
+Student (0:22-0:26): I stay in a hospital.
+Interviewer (0:26-0:28): Share something interesting about you
+Student (0:28-0:37): One special thing about me, I am a hard-working person. One honest person.

@@ -1,0 +1,17 @@
+---
+student name: Anand Gangu Bajari
+topic: General talk
+activity name: Interests
+session time: 2025-12-12 03:20:31
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:16): My favorite hobby is dancing. When I have free time, that time I am dancing.
+Interviewer (0:16-0:19): Do you read books? What is your favourite book?
+Student (0:19-0:31): Yeah. I read so many books and my favorite book is Hely to Karana written by Ravi Velagere.
+Interviewer (0:31-0:32): What is your favourite movie?
+Student (0:32-0:46): My favorite movie is 99. The hero is Ganesh and heroine is Pavana. I love movie because of it's related to my life. That's why I like 99 movie.
+Interviewer (0:46-0:48): Who is your favourite actor?
+Student (0:48-1:07): previous actor is D Boss means Darshan To. He is made lot of movies and he have personality in society because he or changed lot of our prince and that's why I love D Boss.
+Interviewer (1:07-1:09): What is your favourite mobile application?
+Student (1:09-1:25): My favorite mobile application is WhatsApp because of it's help for me reach any message any news that's why I like message.

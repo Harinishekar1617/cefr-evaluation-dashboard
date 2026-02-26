@@ -1,0 +1,17 @@
+---
+student name: Ajith I
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2025-12-13 03:17:18
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:31): I completed my I completed my study in BCA Bachelor computer application In this In this course we have coding and Java programming like this for life building
+Interviewer (0:31-0:33): Where do you study / Where did you study?
+Student (0:34-0:43): I completed my course act to Manavara in my college.
+Interviewer (0:43-0:44): Why did you choose this course?
+Student (0:45-1:11): I chose this course because my in my future is helping for a job and good opportunities. And I I want to go to the IT IT sector That's why I chose this course.
+Interviewer (1:11-1:12): What skills have you learned?
+Student (1:13-1:40): I learned how to use system and Excel sheet, power sheet, Java programming, Python, C++, how to create a website, front end, back end, designing, this type of skills I love.
+Interviewer (1:40-1:42): How is your education useful for your future?
+Student (1:42-1:52): Please help me to get a good job in a good company. That's all.

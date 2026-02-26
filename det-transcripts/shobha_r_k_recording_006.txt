@@ -1,0 +1,17 @@
+---
+student name: Shobha R K
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2025-12-18 03:04:38
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:23): I am studying English
+Interviewer (0:23-0:26): Where do you study / Where did you study?
+Student (0:26-0:37): No I am studying in Desh Pandey foundation I did my study in I first grade constituent college in Belgaum.
+Interviewer (0:37-0:38): Why did you choose this course?
+Student (0:38-1:01): I want to develop my skills, improve my career and I want to get a good job according to my personality and I want to be financially independent. That's why I select this course.
+Interviewer (1:01-1:03): What skills have you learned?
+Student (1:03-1:24): and computer skills and leadership qualities problem solving skills management
+Interviewer (1:24-1:27): How is your education useful for your future?
+Student (1:27-1:56): Okay, that's it. It's a very important common because it's give a knowledge. Education is a very help. It's good because it gives more knowledge and it's it's new better opportunities to me. That's why I think it's very important.

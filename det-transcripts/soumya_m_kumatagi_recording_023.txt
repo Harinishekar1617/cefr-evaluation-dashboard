@@ -1,0 +1,17 @@
+---
+student name: Soumya M Kumatagi
+topic: General talk
+activity name: Daily routine
+session time: 2026-01-02 02:46:11
+---
+
+Interviewer (0:00-0:01): What time do you wake up?
+Student (0:01-0:06): I woke up at 5:30 a.m. morning.
+Interviewer (0:06-0:08): What do you do in the morning?
+Student (0:08-0:17): I woke up at 5:30 a.m. and I will like and I will come to at 7:45.
+Interviewer (0:17-0:19): What time do you go to school/work?
+Student (0:19-0:25): I go to school morning at 9:00 a.m.
+Interviewer (0:25-0:28): What do you do in the afternoon/evening?
+Student (0:28-0:32): in the afternoon and evening I will be in the class.
+Interviewer (0:32-0:34): What time do you sleep?
+Student (0:34-0:40): I usually sleep at 10 p.m.

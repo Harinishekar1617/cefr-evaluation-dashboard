@@ -1,0 +1,17 @@
+---
+student name: Viresh Dhabale
+topic: General talk
+activity name: Interests
+session time: 2025-12-12 03:28:40
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:07): I am reading books.
+Interviewer (0:07-0:10): Do you read books? What is your favourite book?
+Student (0:10-0:17): My favorite book is Jungle Book and General Knowledge.
+Interviewer (0:17-0:19): What is your favourite movie?
+Student (0:19-0:26): My My favorite movie is Chakravarti.
+Interviewer (0:26-0:27): Who is your favourite actor?
+Student (0:27-0:33): My favorite actor is Charlie Sheen.
+Interviewer (0:33-0:35): What is your favourite mobile application?
+Student (0:35-0:42): social media productivity

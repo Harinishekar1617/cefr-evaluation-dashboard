@@ -1,0 +1,13 @@
+---
+student name: Ramya Yadav B
+topic: General talk
+activity name: Free time and Weekends
+session time: 2025-12-13 03:18:40
+---
+
+Interviewer (0:00-0:01): What do you do in your free time?
+Interviewer (0:10-0:12): What do you do on weekends?
+Interviewer (0:25-0:27): Do you meet friends or family?
+Interviewer (0:41-0:43): Do you go out or stay home? Why?
+Student (0:43-0:57): Right.
+Interviewer (0:57-0:59): What activity makes you happy?

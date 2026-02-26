@@ -1,0 +1,17 @@
+---
+student name: Yamini M
+topic: General talk
+activity name: Daily routine
+session time: 2025-12-15 03:14:30
+---
+
+Interviewer (0:00-0:01): What time do you wake up?
+Student (0:01-0:04): I wake up in 5 a.m.
+Interviewer (0:04-0:06): What do you do in the morning?
+Student (0:06-0:09): Fresh up and reading books.
+Interviewer (0:09-0:12): What time do you go to school/work?
+Student (0:12-0:15): at 8 a.m.
+Interviewer (0:15-0:17): What do you do in the afternoon/evening?
+Student (0:17-0:20): Working in computer lab.
+Interviewer (0:20-0:22): What time do you sleep?
+Student (0:22-0:24): nine two

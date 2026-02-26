@@ -1,0 +1,15 @@
+---
+student name: Ramya Yadav B
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-24 03:10:49
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:14): My name is Ramya. People call me for Ramya. I am from Chitraga. My hometown is Chitraga. My village is Pallavgere.
+Interviewer (0:14-0:16): How old are you / What stage of life are you in?
+Student (0:16-0:29): I am I am in 21 years old. I am college for I am a Deshpande student recently finished from Bcom. That's it.I am I am in 21 years old. I am college for I am a Deshpande student recently finished from Bcom. That's it.
+Interviewer (0:29-0:30): Who do you live with?
+Student (0:30-0:44): I live with my family. In this time I live with in hostel because I have study for course. That's why I am live with hostel in Dashwanesh.
+Interviewer (0:44-0:46): Share something interesting about you
+Student (0:46-1:15): Hi, enjoyed in this nature and also very friends. I am interested for R&D. I also interested for R&D and ENC and also one of the subject favorite subject is ICT because ICT is a I learn about programs Microsoft's algorithms. I learn about.

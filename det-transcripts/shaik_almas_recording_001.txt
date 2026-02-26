@@ -1,0 +1,17 @@
+---
+student name: Shaik Almas
+topic: General talk
+activity name: Interests
+session time: 2025-12-12 03:23:47
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:13): My favorite hobby is driving. I enjoy driving. I started because I enjoy driving because I like it.
+Interviewer (0:13-0:16): Do you read books? What is your favourite book?
+Student (0:16-0:22): You know, I don't read books because listening I like
+Interviewer (0:22-0:24): What is your favourite movie?
+Student (0:24-0:33): My favorite movie is Bahubali. I like the whole movie from beginning to end.
+Interviewer (0:33-0:35): Who is your favourite actor?
+Student (0:35-0:39): My favorite actor Shah Rukh Khan
+Interviewer (0:39-0:41): What is your favourite mobile application?
+Student (0:41-1:04): My favorite application is Instagram because I use it in my free time. I like to chat with my friends in Instagram and I like to see reels on Instagram and my friends' status are there.

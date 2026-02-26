@@ -1,0 +1,15 @@
+---
+student name: Sahana Yadav R
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2026-01-02 07:22:10
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:14): My name is Sanan. People call me Sanan. You can call me Sanan. I am from Davangere. My hometown is Masulipatnam. I grew up in Deshpande's killing.
+Interviewer (0:14-0:17): How old are you / What stage of life are you in?
+Student (0:17-0:28): I am 24 years old. I am a college student at the Davangere University. I recently finished my graduation.
+Interviewer (0:28-0:29): Who do you live with?
+Student (0:29-0:46): I live with my parents. My family includes four members. My father and my mother and my elder brother. I stay in your home with my family and it is located in Daman.I live with my parents. My family includes four members. My father and my mother and my elder brother. I stay in your home with my family and it is located in Daman.
+Interviewer (0:46-0:48): Share something interesting about you
+Student (0:48-1:12): I enjoy singing the song. I am interested in Mehandi design. One special thing about me is I am a honesty and friendly and fast learner learning girl. That's it.

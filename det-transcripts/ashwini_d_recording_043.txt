@@ -1,0 +1,15 @@
+---
+student name: Ashwini D
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2026-01-22 05:09:55
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:31): My name is Ashwini, I am from Gulbarga district. I was interested in biological science so choose BSC. I'm a very quick learner and smart thinker. In my free time I like to read and write the books. My hometown is famous for Dasara festival.
+Interviewer (0:31-0:33): How old are you / What stage of life are you in?
+Student (0:34-1:01): I am a 21 year old I am a BSc graduated student. Now I am recently joined a trainee at Deshpande skilling Hubli.
+Interviewer (1:01-1:02): Who do you live with?
+Student (1:03-1:13): I I stay in hostel with my friends and seniors.
+Interviewer (1:13-1:15): Share something interesting about you
+Student (1:15-1:28): I am interested in writing and reading books. It gives a happiness and peace.

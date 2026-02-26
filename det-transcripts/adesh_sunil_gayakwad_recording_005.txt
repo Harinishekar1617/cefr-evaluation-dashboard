@@ -1,0 +1,17 @@
+---
+student name: Adesh Sunil Gayakwad
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2025-12-13 03:16:39
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:09): I am English study and I have grammar study.
+Interviewer (0:09-0:12): Where do you study / Where did you study?
+Student (0:12-0:18): I have a English book study and I have grammar in study
+Interviewer (0:18-0:20): Why did you choose this course?
+Student (0:20-0:24): English skills and communication
+Interviewer (0:24-0:25): What skills have you learned?
+Student (0:25-0:33): English communication computer course discipline
+Interviewer (0:33-0:35): How is your education useful for your future?
+Student (0:35-0:40): He is a better education in future.

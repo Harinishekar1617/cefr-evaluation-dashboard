@@ -1,0 +1,17 @@
+---
+student name: Ashwini D
+topic: General talk
+activity name: Interests
+session time: 2025-12-15 05:05:14
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:06): My favorite thing to do is to go to the beach and play with my dog and swim in the ocean.
+Interviewer (0:06-0:09): Do you read books? What is your favourite book?
+Student (0:09-0:14): As I read the books, my favorite book is self-confidence.
+Interviewer (0:14-0:16): What is your favourite movie?
+Student (0:16-0:20): My favorite movie is creative on your own.
+Interviewer (0:20-0:22): Who is your favourite actor?
+Student (0:22-0:26): one of the best for me
+Interviewer (0:26-0:28): What is your favourite mobile application?
+Student (0:28-0:32): the application installed

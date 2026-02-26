@@ -1,0 +1,17 @@
+---
+student name: Snehal Mali
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2025-12-19 03:16:00
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:07): I have completed in Bachelor of Commerce.
+Interviewer (0:07-0:09): Where do you study / Where did you study?
+Student (0:09-0:23): I have completed in my Bachelor of Commerce in CK Degree College in Exam District is my District is Belgavi and university is Rani Chinam.
+Interviewer (0:23-0:24): Why did you choose this course?
+Student (0:24-0:35): Because uh because I am choose the commerce, because I was interested in in commerce sector and work in banking sector.
+Interviewer (0:35-0:36): What skills have you learned?
+Student (0:36-0:53): I learn in profit and loss account, income tax, balance sheet. I can learn experience is very good in my college. And how to calculate in balance sheet and
+Interviewer (0:53-0:55): How is your education useful for your future?
+Student (0:56-1:09): education is useful how to calculate depreciation, calculate, discount calculation, profit and loss, calculation, calculation.

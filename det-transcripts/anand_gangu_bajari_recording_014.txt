@@ -1,0 +1,15 @@
+---
+student name: Anand Gangu Bajari
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2026-01-02 03:05:08
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:13): My name is Anand Bajaj. People call me Bobby. You can call me Bobby. I am from Coimbatore. My own to me Jodi gata Revipin Shimoga.
+Interviewer (0:13-0:16): How old are you / What stage of life are you in?
+Student (0:16-0:27): I am 21 years old. I am a college student and I recently finished bachelor's degree in the year of 2025.
+Interviewer (0:27-0:28): Who do you live with?
+Student (0:28-0:39): I live with my family. The owner of my father, my family includes there are five members. I stay in hostel with my friends.
+Interviewer (0:39-0:42): Share something interesting about you
+Student (0:42-0:56): I enjoy holidays I love to play cricket. I am interested in cooking food. One special thing about me is I am a kind and happy person.

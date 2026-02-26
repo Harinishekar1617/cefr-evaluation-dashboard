@@ -1,0 +1,15 @@
+---
+student name: Kousar B
+topic: General talk
+activity name: Interests
+session time: 2025-12-13 05:17:25
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:02): Oh
+Interviewer (0:02-0:05): Do you read books? What is your favourite book?
+Student (0:05-0:08): Let me hear this. Okay. I'll take
+Interviewer (0:08-0:10): What is your favourite movie?
+Student (0:10-0:11): Okay.
+Interviewer (0:11-0:13): Who is your favourite actor?
+Interviewer (0:13-0:16): What is your favourite mobile application?

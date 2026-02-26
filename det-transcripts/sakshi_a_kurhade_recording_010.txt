@@ -1,0 +1,17 @@
+---
+student name: Sakshi A Kurhade
+topic: General talk
+activity name: Daily routine
+session time: 2025-12-18 05:25:33
+---
+
+Interviewer (0:00-0:01): What time do you wake up?
+Student (0:01-0:09): I wake up at 5:30. And on weekends, I wake up at 7:30 a.m.
+Interviewer (0:09-0:10): What do you do in the morning?
+Student (0:10-0:22): First I brush my teeth, then I take a bath. After that I get dressed, then I do prayers. And after that I'll get ready for classes.
+Interviewer (0:22-0:25): What time do you go to school/work?
+Student (0:25-0:31): I go to the work at 9:00 a.m. It takes 30 minutes to reach the office.
+Interviewer (0:31-0:34): What do you do in the afternoon/evening?
+Student (0:34-0:40): In the evening I go with my friends to have a snacks.
+Interviewer (0:40-0:41): What time do you sleep?
+Student (0:41-0:45): I usually sleep at 11:30.

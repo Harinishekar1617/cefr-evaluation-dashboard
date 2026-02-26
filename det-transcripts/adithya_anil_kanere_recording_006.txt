@@ -1,0 +1,17 @@
+---
+student name: Adithya Anil Kanere
+topic: General talk
+activity name: Family and relationships
+session time: 2025-12-15 03:18:13
+---
+
+Interviewer (0:00-0:01): Who is in your family?
+Student (0:01-0:07): There there are six member in my family.
+Interviewer (0:07-0:09): Do you have brothers or sisters?
+Student (0:09-0:17): Yes, I have two younger sisters.
+Interviewer (0:17-0:20): Which family member are you closest to? Why?
+Student (0:20-0:30): I am closest to my mother because he is supporting me.
+Interviewer (0:30-0:32): What does your mother/father do?
+Student (0:32-0:39): My father is farmer and my mother is housewife.
+Interviewer (0:39-0:41): What do you do together as a family?
+Student (0:41-0:53): we watch movie We go me and my father ox race We spend time

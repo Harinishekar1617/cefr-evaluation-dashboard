@@ -1,0 +1,21 @@
+---
+student name: Sanjana K
+topic: General talk
+activity name: Daily routine
+session time: 2025-12-18 05:15:45
+---
+
+Interviewer (0:00-0:01): What time do you wake up?
+Student (0:01-0:09): I usually wake up at 6 o'clock a.m.
+Interviewer (0:09-0:11): What do you do in the morning?
+Student (0:11-0:23): First I to brush then I take a I take a bath after that I come to the morning session.
+Interviewer (0:23-0:25): What time do you go to school/work?
+Student (0:25-0:33): I go to morning session at 7:45.
+Interviewer (0:33-0:35): What do you do in the afternoon/evening?
+Student (0:35-0:49): In the evening session I I do my homework. Sometime I will talk with friends. friends.The user wants an exact transcription of the audio. I will listen carefully and type out the words as they are spoken, ensuring no extra commentary or formatting is included in the output.
+
+Audio: "In the evening session I I do my homework. Sometime I will talk with friends. friends."
+
+Transcription: "In the evening session I I do my homework. Sometime I will talk with friends. friends."In the evening session I I do my homework. Sometime I will talk with friends. friends.
+Interviewer (0:49-0:50): What time do you sleep?
+Student (0:50-1:24): Hi, I usually sleep at 11:00. Not 12:00. I usually sleep at 12:00, but indeed I go to bed at 11:00 11:00. I sleep early late because of um I tie I tired so much.

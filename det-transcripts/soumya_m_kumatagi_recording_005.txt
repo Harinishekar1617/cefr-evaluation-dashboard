@@ -1,0 +1,17 @@
+---
+student name: Soumya M Kumatagi
+topic: General talk
+activity name: Family and relationships
+session time: 2025-12-17 02:54:22
+---
+
+Interviewer (0:00-0:01): Who is in your family?
+Student (0:01-0:04): My parents and my siblings
+Interviewer (0:04-0:06): Do you have brothers or sisters?
+Student (0:06-0:10): Yes, I have one brother and one sister.
+Interviewer (0:10-0:13): Which family member are you closest to? Why?
+Student (0:13-0:19): I am close to my father because he motivates a lot.
+Interviewer (0:19-0:21): What does your mother/father do?
+Student (0:21-0:29): My mother is a homemaker and my father works at agriculture department.
+Interviewer (0:29-0:31): What do you do together as a family?
+Student (0:31-0:38): We are going to picnics. We go to trips or temples.

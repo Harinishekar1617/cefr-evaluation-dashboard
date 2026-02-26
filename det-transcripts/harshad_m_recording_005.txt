@@ -1,0 +1,17 @@
+---
+student name: Harshad M
+topic: Introducing Yourself
+activity name: Personal Background
+session time: 2025-12-17 03:15:53
+---
+
+Interviewer (0:00-0:01): Where did you grow up?
+Student (0:01-0:07): I am growing in my native place Muski in Raychur district.
+Interviewer (0:07-0:09): What was your childhood like?
+Student (0:09-0:15): My childhood is so many beautiful and so many memories in my life.
+Interviewer (0:15-0:17): What languages do you speak?
+Student (0:17-0:23): I speak Kannada, Hindi and English.
+Interviewer (0:23-0:26): What is something interesting about your hometown?
+Student (0:26-0:32): My hometown is Muski. It's a famous for Ashoka's inscriptions.
+Interviewer (0:32-0:35): How would you describe yourself in one sentence?
+Student (0:35-0:46): My name is Arshad. I am from Muski. I have completed become in Devanambria Ashoka First grade College in Muski.

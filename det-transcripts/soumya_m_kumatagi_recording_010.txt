@@ -1,0 +1,17 @@
+---
+student name: Soumya M Kumatagi
+topic: General talk
+activity name: Travel
+session time: 2025-12-23 02:50:49
+---
+
+Interviewer (0:00-0:01): Do you like travelling?
+Student (0:01-0:05): Yes, I do travelling.
+Interviewer (0:05-0:07): Where did you go on your last holiday?
+Student (0:07-0:12): I went to Varanasi
+Interviewer (0:12-0:14): Which is your dream destination?
+Student (0:14-0:19): My dream destination is Kashi.
+Interviewer (0:19-0:21): Who do you like travelling with?
+Student (0:21-0:25): I like traveling with my family.
+Interviewer (0:25-0:27): What do you like doing on vacation?
+Student (0:27-0:33): on vacation, I like to do playing badminton

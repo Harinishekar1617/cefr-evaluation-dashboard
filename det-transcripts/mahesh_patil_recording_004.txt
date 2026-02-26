@@ -1,0 +1,17 @@
+---
+student name: Mahesh Patil
+topic: General talk
+activity name: Daily routine
+session time: 2025-12-13 05:36:18
+---
+
+Interviewer (0:00-0:01): What time do you wake up?
+Student (0:01-0:11): I wake up at 5:30. I usually wake up at uh 9:00 on weekends. I wake up at early morning 5:30 daily routine.
+Interviewer (0:11-0:13): What do you do in the morning?
+Student (0:13-0:25): First I wash the face, then I brush, then I'm going to a section class and then tiffin. Then I'm going to the classroom.
+Interviewer (0:25-0:27): What time do you go to school/work?
+Student (0:27-0:37): I go to the school at 7:45 and I leave home at 8:45.
+Interviewer (0:37-0:39): What do you do in the afternoon/evening?
+Student (0:40-0:49): In the afternoon study, evening tea break, sometimes I like and I enjoy playing cricket with friends.
+Interviewer (0:49-0:50): What time do you sleep?
+Student (0:50-0:55): I usually sleep at ten o'clock.

@@ -1,0 +1,17 @@
+---
+student name: Viresh Dhabale
+topic: General talk
+activity name: Daily routine
+session time: 2025-12-16 03:15:01
+---
+
+Interviewer (0:00-0:01): What time do you wake up?
+Student (0:01-0:08): 7:30 to 8:00 AM
+Interviewer (0:08-0:10): What do you do in the morning?
+Student (0:10-0:18): President morning classes joined other activities.
+Interviewer (0:18-0:20): What time do you go to school/work?
+Student (0:21-0:28): I go from college then I make 45 to 820
+Interviewer (0:28-0:31): What do you do in the afternoon/evening?
+Student (0:31-0:41): Afternoon evening sometimes with a great children around town
+Interviewer (0:41-0:42): What time do you sleep?
+Student (0:42-0:48): I am doing the research for my book.

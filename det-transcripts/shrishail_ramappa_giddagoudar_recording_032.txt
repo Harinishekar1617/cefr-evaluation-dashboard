@@ -1,0 +1,17 @@
+---
+student name: Shrishail Ramappa Giddagoudar
+topic: General talk
+activity name: Interests
+session time: 2026-01-05 02:39:11
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:05): chanting Hare Krishna Mahamantra
+Interviewer (0:05-0:07): Do you read books? What is your favourite book?
+Student (0:07-0:15): I read book. My favorite book is Itara Lokagalihi Sugama Prayana.
+Interviewer (0:15-0:17): What is your favourite movie?
+Student (0:17-0:22): My favorite movie is Maha Avatari Narasimha.
+Interviewer (0:22-0:24): Who is your favourite actor?
+Student (0:24-0:28): I don't like anyone actor.
+Interviewer (0:28-0:30): What is your favourite mobile application?
+Student (0:30-0:37): My favorite mobile application is Japa Counter.

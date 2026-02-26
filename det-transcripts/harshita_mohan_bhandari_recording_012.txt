@@ -1,0 +1,15 @@
+---
+student name: Harshita Mohan Bhandari
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-24 03:11:02
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:08): My name is Harshita. I'm from Honnawar.
+Interviewer (0:08-0:11): How old are you / What stage of life are you in?
+Student (0:11-0:22): I am 22 years old. I am a college student. I recently completed college.
+Interviewer (0:22-0:23): Who do you live with?
+Student (0:23-0:32): I'm live with Hubli my includes I stay no hostel
+Interviewer (0:32-0:35): Share something interesting about you
+Student (0:35-0:53): I am like a I am to I am all about keeping the dislike out of the world.

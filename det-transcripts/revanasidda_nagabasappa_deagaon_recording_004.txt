@@ -1,0 +1,17 @@
+---
+student name: Revanasidda Nagabasappa Deagaon
+topic: General talk
+activity name: Interests
+session time: 2025-12-15 05:09:12
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:06): My favorite hobby is playing cricket.
+Interviewer (0:06-0:09): Do you read books? What is your favourite book?
+Student (0:09-0:15): I read a book. My favorite book is Mahabharata.
+Interviewer (0:15-0:17): What is your favourite movie?
+Student (0:17-0:21): Favorite movie is Lucky Bhaskar
+Interviewer (0:21-0:23): Who is your favourite actor?
+Student (0:23-0:26): Favorite actor is Darshan
+Interviewer (0:26-0:29): What is your favourite mobile application?
+Student (0:29-0:34): My favorite mobile application is Chat GPT.

@@ -1,0 +1,15 @@
+---
+student name: Sakshi A Kurhade
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2026-01-07 05:20:02
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:09): I am Sakshi and I am from Belgami.
+Interviewer (0:09-0:11): How old are you / What stage of life are you in?
+Student (0:12-0:19): I am 22 years old and recently I graduated in engineering.
+Interviewer (0:19-0:20): Who do you live with?
+Student (0:20-0:38): I live I live with my family includes my father, me and my mother and my sister. Now I am staying in hostel.
+Interviewer (0:38-0:40): Share something interesting about you
+Student (0:40-0:57): I enjoy riding bikes. And sometimes I love going for hiking with my friends. And one special thing about me is I'm a quick learner.

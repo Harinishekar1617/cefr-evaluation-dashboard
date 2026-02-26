@@ -1,0 +1,15 @@
+---
+student name: Vinutha K
+topic: Introducing Yourself
+activity name: Current situation
+session time: 2026-01-19 10:45:46
+---
+
+Interviewer (0:00-0:01): What are you doing now?
+Student (0:01-0:50): Currently I am studying at Deshpande Skilling. I joined this program to improve my English communication skills because of my English communication was not very strong earlier. Here I am learning English technical skills, reasoning and aptitude skills. These skills help me to improve my communication and confidence. Now I am actively searching for a good job in a reputed company. I believe the skills I am learning here will help me crack interviews and build a successful career in the future.
+Interviewer (0:50-0:52): How do you spend your time these days?
+Student (0:52-1:26): These days I went to college and I completed my degree Bcom and recently I have completed Mcom. After the after that I joining Deshpande skilling to improve my English communication and learn the technical skills. And in my free time I do gardening work and read the story books and I am interested in drawing so in my free time sketching the arts. This helps me relax and improve myself.
+Interviewer (1:26-1:28): What are you learning or practicing now?
+Student (1:28-1:52): Currently I am learning and practicing English communication at Deshpande scaling. I am also learning technical skills, reasoning and aptitude. I practice speaking English every day to improve my confidence. These skills are helping me prepare for interview and a good job.
+Interviewer (1:52-1:54): What job are you looking for now?
+Student (1:54-2:16): Now I am looking for a good job in a reputed company. I am interested in system based work like accountant, auditing and banking. These roles will help me improve my knowledge and skills. They will also help me build a strong career in the future.

@@ -1,0 +1,17 @@
+---
+student name: Soumya M Kumatagi
+topic: General talk
+activity name: Interests
+session time: 2025-12-12 03:24:20
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:12): My favorite hobby is playing badminton, traveling and cooking food.
+Interviewer (0:12-0:15): Do you read books? What is your favourite book?
+Student (0:15-0:23): I read the books. My favorite book is Bhagavad Gita.
+Interviewer (0:23-0:24): What is your favourite movie?
+Student (0:24-0:29): My favorite movie is Kantara.
+Interviewer (0:29-0:30): Who is your favourite actor?
+Student (0:30-0:37): My favorite actor is Sudeep.
+Interviewer (0:37-0:40): What is your favourite mobile application?
+Student (0:40-0:46): My favorite mobile application is Chat GBT.

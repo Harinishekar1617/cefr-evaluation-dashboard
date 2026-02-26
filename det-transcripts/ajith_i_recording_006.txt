@@ -1,0 +1,17 @@
+---
+student name: Ajith I
+topic: Introducing Yourself
+activity name: Personal Background
+session time: 2025-12-19 03:09:38
+---
+
+Interviewer (0:00-0:01): Where did you grow up?
+Student (0:01-0:38): I grew up in a small village called Honnavara. Honnavara is a beautiful city. It has Sharavathi River and beaches. Sharavathi River have backwater and beautiful nature inside of the Sharavathi River. So many travellers are coming there. In winter season, tourism is in tourism in peak level.
+Interviewer (0:38-0:39): What was your childhood like?
+Student (0:39-1:02): My childhood is good because I have grandmother grandfather home. I lived in grandmother grandfather and my mother, father is very good.
+Interviewer (1:02-1:04): What languages do you speak?
+Student (1:04-1:11): I speak four languages. Hindi, English, Kannada, Konkani.
+Interviewer (1:11-1:14): What is something interesting about your hometown?
+Student (1:14-1:32): My hometown is good nature and beautiful because it is have river beaches and
+Interviewer (1:32-1:35): How would you describe yourself in one sentence?
+Student (1:35-1:47): I'm a hard working person and a very enthusiastic person in my life.

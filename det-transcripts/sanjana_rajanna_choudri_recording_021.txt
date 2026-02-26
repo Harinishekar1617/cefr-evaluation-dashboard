@@ -1,0 +1,17 @@
+---
+student name: Sanjana Rajanna Choudri
+topic: General talk
+activity name: Interests
+session time: 2026-01-02 03:04:50
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:06): My hobby is listening the songs and the singing the songs.
+Interviewer (0:06-0:08): Do you read books? What is your favourite book?
+Student (0:09-0:12): No, I don't like books.
+Interviewer (0:12-0:14): What is your favourite movie?
+Student (0:14-0:17): My favorite movie is Manjunatha.
+Interviewer (0:17-0:19): Who is your favourite actor?
+Student (0:19-0:22): My favorite actor is Yash.
+Interviewer (0:22-0:25): What is your favourite mobile application?
+Student (0:25-0:29): My favorite app is Instagram.

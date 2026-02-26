@@ -1,0 +1,17 @@
+---
+student name: Lavakumar Gopal Kadam
+topic: General talk
+activity name: Daily routine
+session time: 2026-01-21 00:37:01
+---
+
+Interviewer (0:00-0:01): What time do you wake up?
+Student (0:01-0:08): I usually wake up at 6 a.m. on the weekend I wake up a little later.
+Interviewer (0:08-0:10): What do you do in the morning?
+Student (0:10-0:20): . . . . . . . . . . . . First I wake up and
+Interviewer (0:20-0:22): What time do you go to school/work?
+Student (0:22-0:32): I go to school at 9:00 a.m. I leave home at 8:30 a.m. It takes me about 30 minutes to reach the school.
+Interviewer (0:32-0:34): What do you do in the afternoon/evening?
+Student (0:35-0:52): In the afternoon I attend my classes and complete my work. In the evening I relax playing games or spend time with my family. Sometimes I review my studies. In the afternoon I do work.
+Interviewer (0:52-0:53): What time do you sleep?
+Student (0:53-1:05): I usually sleep at 10:30 p.m. I go to bed at 10:00 p.m. I try to sleep early because it helps me stay fresh and active the next day.

@@ -1,0 +1,17 @@
+---
+student name: Kousar B
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2025-12-25 06:34:01
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:10): I'm studying in Deshpande's skill link for improving communication skills and computer knowledge.
+Interviewer (0:10-0:12): Where do you study / Where did you study?
+Student (0:12-0:22): I am studying in Dharmsagar first grade college in Bangalore University and I completed my master and Bcom, Bachelor of Commerce.
+Interviewer (0:22-0:24): Why did you choose this course?
+Student (0:24-0:32): I like to join accountant because of I improve in my accountancy knowledge.
+Interviewer (0:32-0:33): What skills have you learned?
+Student (0:34-0:37): Computer skills and English communication.
+Interviewer (0:37-0:40): How is your education useful for your future?
+Student (0:40-0:47): to settle down our future and we have get a job in top of the company.

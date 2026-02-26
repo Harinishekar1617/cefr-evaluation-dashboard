@@ -1,0 +1,15 @@
+---
+student name: Nirmala M Ajyal
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-14 23:30:43
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:06): I am Nirmala. I am from Hubli.
+Interviewer (0:06-0:09): How old are you / What stage of life are you in?
+Student (0:09-0:29): I am my 20 years old. Uh I am I am my 20 years old. I will complete my uh Bachelor of Arts in recently.
+Interviewer (0:29-0:30): Who do you live with?
+Student (0:31-0:43): I am living with my family when I come to DD I will I am in hostel with my friends.
+Interviewer (0:43-0:45): Share something interesting about you
+Student (0:45-1:40): I'm a sportsman and I will NCC candidate and I'm a sportsman girl. I will play kabaddi. It is my favorite game. And I will NCC candidate. I will complete my B certificate in NCC. I'm a good person. I'm a human being.

@@ -1,0 +1,17 @@
+---
+student name: P M Anil Kumar
+topic: General talk
+activity name: Family and relationships
+session time: 2026-01-06 05:21:01
+---
+
+Interviewer (0:00-0:01): Who is in your family?
+Student (0:01-0:15): My family includes five members. My father is a family man. My mother is a housewife.
+Interviewer (0:15-0:17): Do you have brothers or sisters?
+Student (0:17-0:25): Yes, I have one brother and one sister is there.
+Interviewer (0:25-0:27): Which family member are you closest to? Why?
+Student (0:27-0:35): in my family members all are closest to me.
+Interviewer (0:35-0:36): What does your mother/father do?
+Student (0:37-0:45): My father is a businessman and my mother is a housewife.
+Interviewer (0:45-0:47): What do you do together as a family?
+Student (0:47-0:57): We are we are chatting with each other and watching movies.

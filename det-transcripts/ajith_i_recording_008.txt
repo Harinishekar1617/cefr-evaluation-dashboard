@@ -1,0 +1,15 @@
+---
+student name: Ajith I
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-31 03:10:21
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:31): My name is Ajith and I am from Manavara. Manavara is a beautiful nature and it is here in this time the travelling in this winter time travelling tourism is in peak level because it's a back water and beaches.
+Interviewer (0:31-0:34): How old are you / What stage of life are you in?
+Student (0:34-0:51): I am 23 year old and I am in uh learning uh take coaching uh the coaching Deshpande's Academy and I want to build my career.
+Interviewer (0:51-0:52): Who do you live with?
+Student (0:52-1:13): In my family we are six members. My grandmother, grandfather, and my sister, and my and my uncle, auntie, and myself.
+Interviewer (1:13-1:15): Share something interesting about you
+Student (1:15-1:38): playing just and what and watching movies and I want to travel in Megalaya, Manali, Kedarnath in this places this is my goal also.

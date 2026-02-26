@@ -1,0 +1,17 @@
+---
+student name: S Punith
+topic: General talk
+activity name: Interests
+session time: 2025-12-12 03:28:27
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:07): My favorite is listening music.
+Interviewer (0:07-0:09): Do you read books? What is your favourite book?
+Student (0:10-0:19): I reading books my favorite books Maharapa
+Interviewer (0:19-0:21): What is your favourite movie?
+Student (0:21-0:25): My favorite movie is Kantara.
+Interviewer (0:25-0:26): Who is your favourite actor?
+Student (0:26-0:31): My favorite actor is Yash.
+Interviewer (0:31-0:34): What is your favourite mobile application?
+Student (0:34-0:40): My favorite mobile application is Instagram

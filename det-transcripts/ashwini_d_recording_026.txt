@@ -1,0 +1,15 @@
+---
+student name: Ashwini D
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-25 06:34:40
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:07): My name is Ashwini. I am from Gulbarga district. My hometown is Jevargi.
+Interviewer (0:07-0:10): How old are you / What stage of life are you in?
+Student (0:10-0:24): I am 21 years old. I am BSC graduated. I recently joined the Dash Pande skilling for learning computer skills and communication skill.
+Interviewer (0:24-0:25): Who do you live with?
+Student (0:26-0:40): I love with my family, my cousins and my friends. I love my village and also I love my cousins.
+Interviewer (0:40-0:42): Share something interesting about you
+Student (0:42-1:19): Something about interesting me is I all when I am I am when I am in free time, I want to write books like small poems, some new stories because it give me it give me happiness to me. Because I write when I free, I write the books, novels in one or two minutes or five minutes, I will write three, four poems. That is interesting about me.

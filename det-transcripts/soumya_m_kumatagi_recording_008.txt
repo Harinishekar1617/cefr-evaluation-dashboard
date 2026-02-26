@@ -1,0 +1,17 @@
+---
+student name: Soumya M Kumatagi
+topic: Introducing Yourself
+activity name: Personal Background
+session time: 2025-12-19 08:09:52
+---
+
+Interviewer (0:00-0:01): Where did you grow up?
+Student (0:01-0:05): I grew up in Vijaypur.
+Interviewer (0:05-0:06): What was your childhood like?
+Student (0:06-0:22): My childhood days are so beautiful and I am so forgettable days, memorable days. I can't forget those childhood memories school days.
+Interviewer (0:22-0:23): What languages do you speak?
+Student (0:23-0:27): My mother tongue is Kannada
+Interviewer (0:27-0:30): What is something interesting about your hometown?
+Student (0:30-0:38): my home town is known for wheat and beautiful
+Interviewer (0:38-0:41): How would you describe yourself in one sentence?
+Student (0:41-0:45): I am a hard worker and a quick learner.

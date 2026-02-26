@@ -1,0 +1,15 @@
+---
+student name: Rukmini Kokare
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2026-01-19 03:20:19
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:09): My name is Rukmini. I am from Uttara Kannada.
+Interviewer (0:09-0:11): How old are you / What stage of life are you in?
+Student (0:12-0:37): I am 21 years old. I have completed my bachelor of Arts from Ellapur College, Kalammanagar. I am looking for a job and also I am taking a skill development training from Deshpande Skilling Development Center at Hubli.
+Interviewer (0:37-0:39): Who do you live with?
+Student (0:39-0:45): I live with my parents and sister.
+Interviewer (0:45-0:46): Share something interesting about you
+Student (0:47-1:22): आई लाइक टू पेंट एंड ड्रॉ आई हैव मेड सेवरल पेंटिंग ऑन नेचुरल सेन स्कैनर्स एंड नेचुरल ऑब्जेक्ट्स आई आल्सो मेक लॉट ऑफ क्राफ्ट्स वर्क यूजिंग वेस्ट एट होम एंड आई गिव माय हैंडमेड वर्क टू ऑल माय रिलेटिव्स ऑन स्पेशल ऑकनेशन आई एम आल्सो अ हॉबी पोएट

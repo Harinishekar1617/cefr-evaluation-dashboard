@@ -1,0 +1,17 @@
+---
+student name: P M Anil Kumar
+topic: General talk
+activity name: Interests
+session time: 2026-01-04 05:27:34
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:22): My favorite hobby is playing volleyball and many sports, listening music. In my free time, I am reading moral books and telling about for daily life. Thank you so much.
+Interviewer (0:22-0:25): Do you read books? What is your favourite book?
+Student (0:25-0:48): Yes, I read books. My favorite book is Amma Helida Entu Sullugalu and Appa Andare Akasha. In many books I read Swami Vivekananda moral stories, Bhagat Singh moral stories, like many are there.
+Interviewer (0:48-0:50): What is your favourite movie?
+Student (0:50-1:05): My favorite movie is Kantara and Bahubali in Telugu Chatrapati movie is my favorite movie.
+Interviewer (1:05-1:06): Who is your favourite actor?
+Student (1:07-1:20): In Kannada, Challenging Star Darshan is my favorite actor, and in Telugu, Mahesh Babu is my favorite actor.
+Interviewer (1:20-1:22): What is your favourite mobile application?
+Student (1:23-1:39): My favorite mobile application is YouTube and Google and also Instagram. These are the my favorite mobile applications.

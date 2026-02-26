@@ -1,0 +1,15 @@
+---
+student name: Rukmini Kokare
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2026-01-07 03:37:55
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:07): My name is Netra. I am from Hubli.
+Interviewer (0:07-0:10): How old are you / What stage of life are you in?
+Student (0:10-0:34): I am 22 years old. I have completed my B.com from Vijaynagar College, Hospet. I am looking for a job and also I am taking a skill development training from Deshpande Skill Development Center at Hubli.
+Interviewer (0:34-0:35): Who do you live with?
+Student (0:35-0:41): I live with my parents and sister.
+Interviewer (0:41-0:43): Share something interesting about you
+Student (0:43-1:07): I like to paint and draw. I have made several paintings on canvas on natural sceneries and natural objects. I also make lot of craft work using waste at home. And I gift my handmade work to all my relatives on special occasions. I'm also a hobby poet.

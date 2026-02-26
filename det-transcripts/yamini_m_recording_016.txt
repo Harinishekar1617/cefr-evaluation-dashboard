@@ -1,0 +1,17 @@
+---
+student name: Yamini M
+topic: Introducing Yourself
+activity name: Personal Background
+session time: 2025-12-31 02:42:21
+---
+
+Interviewer (0:00-0:01): Where did you grow up?
+Student (0:01-0:04): I grew up in my family.
+Interviewer (0:04-0:06): What was your childhood like?
+Student (0:06-0:12): My childhood was going to picnic, enjoying some places.
+Interviewer (0:12-0:13): What languages do you speak?
+Student (0:14-0:20): My mother tongue language is Telugu. I am learning English Kannada.
+Interviewer (0:20-0:22): What is something interesting about your hometown?
+Student (0:23-0:35): I like it in home town my nature and people's festivals some stories.
+Interviewer (0:35-0:38): How would you describe yourself in one sentence?
+Student (0:39-0:51): I am a clam person first understanding the question. After I am telling some situation.

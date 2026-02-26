@@ -1,0 +1,17 @@
+---
+student name: Viresh Dhabale
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2025-12-15 03:16:01
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:12): My study computer engineering, we say cellular computer application. I will study engineering and its.
+Interviewer (0:12-0:15): Where do you study / Where did you study?
+Student (0:15-0:21): I did study about our Indian classes and English classes.
+Interviewer (0:21-0:23): Why did you choose this course?
+Student (0:23-0:35): I mean please English and that good job and happening in good stage
+Interviewer (0:35-0:37): What skills have you learned?
+Student (0:37-0:46): English communication and uh and uh and uh and computer skill names
+Interviewer (0:46-0:49): How is your education useful for your future?
+Student (0:49-0:57): get a job in my life is very future get a good job

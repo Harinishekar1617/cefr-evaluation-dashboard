@@ -1,0 +1,15 @@
+---
+student name: Shaik Almas
+topic: Introducing Yourself
+activity name: Current situation
+session time: 2026-01-09 11:24:46
+---
+
+Interviewer (0:00-0:01): What are you doing now?
+Student (0:01-0:27): Now I am doing one course. The course is in the building English communication and learning skills like information communication technology, reasoning aptitude etc.
+Interviewer (0:27-0:29): How do you spend your time these days?
+Student (0:29-0:40): These days I am spending my time only learning and new skills development.
+Interviewer (0:40-0:42): What are you learning or practicing now?
+Student (0:43-0:52): I am practicing to build my English communication and I want to speak fluently.
+Interviewer (0:52-0:54): What job are you looking for now?
+Student (0:54-1:03): I am looking for white color job. Like MNC company I like. I want job in MNC company.

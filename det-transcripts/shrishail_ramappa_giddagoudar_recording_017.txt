@@ -1,0 +1,15 @@
+---
+student name: Shrishail Ramappa Giddagoudar
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2026-01-02 03:13:43
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:18): My name is Shrihail and I am from Gokak and my hometown is Nagnur. And I grew up in Nagnur only.
+Interviewer (0:18-0:21): How old are you / What stage of life are you in?
+Student (0:21-0:33): I am 22 year old and I am a college student recently finished college in 2025 KVD University.
+Interviewer (0:33-0:34): Who do you live with?
+Student (0:34-0:48): I live with my family in my hometown Nagnoor. Uh I am staying in uh hostel in Deshpande Skilling in Hubli.
+Interviewer (0:48-0:50): Share something interesting about you
+Student (0:51-1:09): I am a devotee of Shri Radha Krishna and I am chant daily Hare Krishna Maha mantra and I tell to the people about Krishna's and spirituality.

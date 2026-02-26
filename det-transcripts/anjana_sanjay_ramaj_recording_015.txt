@@ -1,0 +1,17 @@
+---
+student name: Anjana Sanjay Ramaj
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2025-12-29 03:04:46
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:08): I have completed my bachelor degree
+Interviewer (0:08-0:10): Where do you study / Where did you study?
+Student (0:10-0:22): I have completed my bachelor's degree in business administration and I study at 6:00 p.m.I have completed my bachelor's degree in business administration and I study at 6:00 p.m.
+Interviewer (0:22-0:23): Why did you choose this course?
+Student (0:23-0:35): Because I have deep interest in business and I want to start my own business. That's why I chose this course.
+Interviewer (0:35-0:37): What skills have you learned?
+Student (0:37-0:54): In BBA I have learned so many skills like communication and there are various aspects like customer loyalty, marketing, digital marketing and etc.
+Interviewer (0:54-0:57): How is your education useful for your future?
+Student (0:57-1:17): With my skill, I can contribute to the organization. I can use my skills for communication and for presentation and for leadership quality. So that is very useful for me.

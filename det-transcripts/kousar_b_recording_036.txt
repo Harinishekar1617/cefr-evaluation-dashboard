@@ -1,0 +1,15 @@
+---
+student name: Kousar B
+topic: Introducing Yourself
+activity name: Current situation
+session time: 2026-01-13 05:10:59
+---
+
+Interviewer (0:00-0:01): What are you doing now?
+Student (0:01-0:08): Hello, I am currently I am in training and operating this bundler scaling.
+Interviewer (0:08-0:10): How do you spend your time these days?
+Student (0:10-0:23): And this place I usually enjoying with my friends and family. And me and my family going outside and enjoying the. And usually, I mean turning then I also enjoyed with my friends.
+Interviewer (0:23-0:26): What are you learning or practicing now?
+Student (0:26-0:35): I'm learning and I am practicing skills and communication and computer basic system.
+Interviewer (0:35-0:37): What job are you looking for now?
+Student (0:37-0:47): I'm looking like all influences MNC and the reputed company I want to work in jobs.

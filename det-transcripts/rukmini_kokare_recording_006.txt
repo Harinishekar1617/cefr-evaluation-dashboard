@@ -1,0 +1,15 @@
+---
+student name: Rukmini Kokare
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-18 02:44:16
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:07): My name is Rukmini from Utra Canada.
+Interviewer (0:07-0:10): How old are you / What stage of life are you in?
+Student (0:10-0:24): I am 21 years old. I am a college student, no, degree graduation student. I recently finished my degree.
+Interviewer (0:24-0:25): Who do you live with?
+Student (0:25-0:38): I live with a Munduboda. My family includes a Kaale Karia. I stay in a hostel.
+Interviewer (0:38-0:40): Share something interesting about you
+Student (0:40-0:53): I enjoy myself and interested in English communications. One special thing about me learning English.

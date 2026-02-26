@@ -1,0 +1,17 @@
+---
+student name: Snehal Mali
+topic: Introducing Yourself
+activity name: Little more about me
+session time: 2026-01-20 03:02:12
+---
+
+Interviewer (0:00-0:02): Tell me something more about yourself.
+Student (0:02-0:16): I am Snal. I like learning new things, creating a new peoples. I am from Bellary district. I like dancing, listening music. I like cooking.
+Interviewer (0:16-0:19): What do you enjoy doing in your free time?
+Student (0:19-0:39): Enjoy in free time playing games. I like watching movies. I like movies. I enjoy playing games in free times. I like listening music. I like watching movies.
+Interviewer (0:39-0:41): What is important to you in your life?
+Student (0:41-1:16): Family is very important to me because they support and motivate me in every situation. Learning is important because it helps me grow and improve my skills adapt to new challenges. For me honesty and hard work are also important because they build trust and help me achieve long term success.
+Interviewer (1:16-1:18): What kind of person are you?
+Student (1:18-1:30): I am a glam friendly and helpful person. I am a positive and kind person. I am a hard working and friendly person.
+Interviewer (1:30-1:32): What should people know about you?
+Student (1:32-2:04): People should know that I am a friendly and easy to work with. People should know that I am honest, hard working and reliable person. People should know that I am a glamorous, respectful and positive person. People should know that I am a responsible and always willing to learning.

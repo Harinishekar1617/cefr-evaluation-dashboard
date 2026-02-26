@@ -1,0 +1,17 @@
+---
+student name: Mallikjan D Ammanagi
+topic: General talk
+activity name: Interests
+session time: 2025-12-12 03:22:42
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:12): My favorite hobby is playing cricket and reading the books.
+Interviewer (0:12-0:15): Do you read books? What is your favourite book?
+Student (0:15-0:35): My favourite book is Quran. And otherwise books Bhagavad Gita.
+Interviewer (0:35-0:37): What is your favourite movie?
+Student (0:37-0:43): My favorite movie is Rajakumar.
+Interviewer (0:43-0:44): Who is your favourite actor?
+Student (0:45-0:51): My favorite actor is Salman Khan, Shahrukh Khan, Aamir Khan.
+Interviewer (0:51-0:54): What is your favourite mobile application?
+Student (0:54-0:59): What's up my favorite mobile application

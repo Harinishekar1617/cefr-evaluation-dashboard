@@ -1,0 +1,15 @@
+---
+student name: Methgal Manjunatha
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-18 03:06:58
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:07): My name is Manjunath. I'm from Vijayanagar district.
+Interviewer (0:07-0:09): How old are you / What stage of life are you in?
+Student (0:09-0:15): I'm a, 23 years old. I'm a college student.
+Interviewer (0:15-0:16): Who do you live with?
+Student (0:16-0:20): I live with my parents.
+Interviewer (0:20-0:22): Share something interesting about you
+Student (0:22-0:30): I am interested in reading newspapers, watching programs on TV.

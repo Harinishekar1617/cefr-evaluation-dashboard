@@ -1,0 +1,17 @@
+---
+student name: Harshad M
+topic: General talk
+activity name: Interests
+session time: 2025-12-19 03:11:53
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:07): My favorite hobby is singing songs.
+Interviewer (0:07-0:10): Do you read books? What is your favourite book?
+Student (0:10-0:19): Yes, I read the books and my favorite book is Baba Sa Baba Sa Ambedkar's biodata books.
+Interviewer (0:19-0:21): What is your favourite movie?
+Student (0:21-0:26): My favorite movie is Jai Bheem.
+Interviewer (0:26-0:27): Who is your favourite actor?
+Student (0:27-0:33): My favorite actor is Challenge Star Darshan in Sandalwood.
+Interviewer (0:33-0:36): What is your favourite mobile application?
+Student (0:36-0:45): My my favorite mobile application is WhatsApp and Instagram and Snapchat.

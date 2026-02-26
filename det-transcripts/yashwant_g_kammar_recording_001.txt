@@ -1,0 +1,17 @@
+---
+student name: Yashwant G Kammar
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2025-12-12 03:21:43
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:17): I am a graduated computer student. I am doing now DSRP 23. Nuble Deshpande Foundation.
+Interviewer (0:17-0:19): Where do you study / Where did you study?
+Student (0:19-0:38): I am I study at I completed my course at Hubli. I went to Bengaluru to do work.
+Interviewer (0:38-0:40): Why did you choose this course?
+Student (0:40-1:01): I choose this course because I need a course and I want to learn computer skill communication skill more than I need job. I was interested in sports. I want to learn computer communication skill. That's it.
+Interviewer (1:01-1:03): What skills have you learned?
+Student (1:03-1:17): Now I am a beginner. I didn't learn more much anything. I'm proving myself here again any I didn't gain any experience here.
+Interviewer (1:17-1:20): How is your education useful for your future?
+Student (1:20-1:43): My education helps me to improve myself to work intelligently and easily it helps to us. I can use my skill to build myself and work in office that's it.

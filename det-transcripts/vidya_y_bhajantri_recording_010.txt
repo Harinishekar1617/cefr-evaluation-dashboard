@@ -1,0 +1,15 @@
+---
+student name: Vidya Y Bhajantri
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-24 04:42:37
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:07): My name is Vidya. I am from Belgavi.
+Interviewer (0:07-0:10): How old are you / What stage of life are you in?
+Student (0:10-0:14): I am 23 years old.
+Interviewer (0:14-0:15): Who do you live with?
+Student (0:15-0:20): I live with I live with my family.
+Interviewer (0:20-0:22): Share something interesting about you
+Student (0:22-0:35): I love playing, I love playing badminton, I listening to music and also spending time with my family.

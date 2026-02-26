@@ -1,0 +1,11 @@
+---
+student name: Lanchana S
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-24 03:18:11
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Interviewer (0:10-0:13): How old are you / What stage of life are you in?
+Interviewer (0:23-0:24): Who do you live with?
+Interviewer (0:33-0:36): Share something interesting about you

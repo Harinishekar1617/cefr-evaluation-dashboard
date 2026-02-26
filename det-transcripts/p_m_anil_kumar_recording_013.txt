@@ -1,0 +1,17 @@
+---
+student name: P M Anil Kumar
+topic: General talk
+activity name: Travel
+session time: 2026-01-12 05:22:51
+---
+
+Interviewer (0:00-0:01): Do you like travelling?
+Student (0:01-0:05): Yes, I like to travelling.
+Interviewer (0:05-0:07): Where did you go on your last holiday?
+Student (0:07-0:24): last Sunday I was going to outside like hubballi town then I am eating chicken biryani.
+Interviewer (0:24-0:25): Which is your dream destination?
+Student (0:25-0:35): My dream destination is to became a businessman.
+Interviewer (0:35-0:37): Who do you like travelling with?
+Student (0:37-0:43): I like traveling with my friends.
+Interviewer (0:43-0:44): What do you like doing on vacation?
+Student (0:44-1:02): On vacation I like to play sports chit chatting with my friends and to travel for other countries and states.

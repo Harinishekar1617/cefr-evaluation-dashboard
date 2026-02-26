@@ -1,0 +1,15 @@
+---
+student name: Priyanka Mahantesh Balikai
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2026-01-22 03:07:04
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:11): My name is Priyanka. I am from Belagavi District, Athani Taluka, from Saudi. I am from a small village.
+Interviewer (0:11-0:14): How old are you / What stage of life are you in?
+Student (0:14-0:35): I am 22 years old and I am my college is Blde College from Jamkandi from Rani Chanamma University Belgaumi. It is one of the most famous college in Jamkandi and my university is one of the famous in Belgaumi as well as I completed my graduation.
+Interviewer (0:35-0:36): Who do you live with?
+Student (0:36-0:43): I live with my family friends at a hostel. I stay with my friends.
+Interviewer (0:43-0:44): Share something interesting about you
+Student (0:45-1:03): I'm very good girl and honesty I'm very sensitive girl whenever I hurt some whenever someone hurt me I cry. And also I am not the girl who more sensitive I never communicate with unknown person I'm very strict girl.

@@ -1,0 +1,15 @@
+---
+student name: Daneshwari S Hipparagi
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-18 05:21:14
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:13): My name is Daneshwari, people call me Dhannama. You can call me Daneshwari. I'm from Vijaypur, my hometown is Uttar. I grew up in Uttar.
+Interviewer (0:13-0:16): How old are you / What stage of life are you in?
+Student (0:16-0:32): I'm a 22 year old and I'm a I'm a student and I'm a I'm still studying in name. This kinda concludes.
+Interviewer (0:32-0:34): Who do you live with?
+Student (0:34-0:44): I live with my family, includes my father, mother, and two elder brothers. And now I stay in a hostel with friends.
+Interviewer (0:44-0:46): Share something interesting about you
+Student (0:46-1:10): I enjoy your awesome movie and I love eating popcorn and I'm interested in reading books and knowing and learning about new technologies and one special thing about me is I am expert in Rangoli.

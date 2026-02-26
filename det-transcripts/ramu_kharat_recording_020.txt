@@ -1,0 +1,9 @@
+---
+student name: Ramu Kharat
+topic: STAR Method
+activity name: Task completion
+session time: 2026-01-09 05:11:49
+---
+
+Interviewer (0:00-0:01): Tell me about a task you completed successfully. How did you do it?
+Student (0:01-0:06): Shh.

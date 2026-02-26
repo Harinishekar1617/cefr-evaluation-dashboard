@@ -1,0 +1,17 @@
+---
+student name: Methgal Manjunatha
+topic: General talk
+activity name: Daily routine
+session time: 2025-12-15 03:15:34
+---
+
+Interviewer (0:00-0:01): What time do you wake up?
+Student (0:01-0:07): I wake up at six o'clock. On weekend, I wake up at seven o'clock.
+Interviewer (0:07-0:09): What do you do in the morning?
+Student (0:09-0:14): First I do brush, then I go to breakfast.
+Interviewer (0:14-0:16): What time do you go to school/work?
+Student (0:16-0:20): I go to school at 9:30.
+Interviewer (0:20-0:23): What do you do in the afternoon/evening?
+Student (0:23-0:29): In the afternoon I complete my homework.
+Interviewer (0:29-0:31): What time do you sleep?
+Student (0:31-0:36): Usually I go to bed at 10 o'clock

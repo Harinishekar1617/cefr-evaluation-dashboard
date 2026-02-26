@@ -1,0 +1,15 @@
+---
+student name: Shivaraj Karigar
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-18 03:11:09
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:17): My name is Yuvraj. People call me Yu and you call me Shiva. I am from Belgami. My hometown is Heber. I grew up in Heber.
+Interviewer (0:17-0:20): How old are you / What stage of life are you in?
+Student (0:20-0:34): I am 26 years old and I am college student and I recently finished my college early college BSC Bagami
+Interviewer (0:34-0:35): Who do you live with?
+Student (0:35-0:49): I live with my friend and my family includes four members. I stay in a hostel with my friends.
+Interviewer (0:49-0:51): Share something interesting about you
+Student (0:51-1:09): I am enjoying and every moment. I love in everyone. I am interested in playing games and one special thing about me I am always a happy smile.

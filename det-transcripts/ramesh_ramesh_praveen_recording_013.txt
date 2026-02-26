@@ -1,0 +1,15 @@
+---
+student name: Ramesh Ramesh Praveen
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-31 07:31:38
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:05): My name is Ramesh I am from Raychur
+Interviewer (0:05-0:08): How old are you / What stage of life are you in?
+Student (0:08-0:12): I am 23 years old. I am a to get a job.
+Interviewer (0:12-0:13): Who do you live with?
+Student (0:13-0:17): I live with a D.E.T. hostel.
+Interviewer (0:17-0:20): Share something interesting about you
+Student (0:20-0:23): Yeah, we have interesting sports.

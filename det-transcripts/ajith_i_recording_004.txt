@@ -1,0 +1,17 @@
+---
+student name: Ajith I
+topic: General talk
+activity name: Daily routine
+session time: 2025-12-16 03:16:38
+---
+
+Interviewer (0:00-0:01): What time do you wake up?
+Student (0:01-0:11): Five people in the morning, 6 o'clock.
+Interviewer (0:11-0:13): What do you do in the morning?
+Student (0:13-0:35): I usually wake up 7:00 and go to the fresh up, take a bath. Eat some foods. Do some meditation. And had my breakfast and go to the office.
+Interviewer (0:35-0:37): What time do you go to school/work?
+Student (0:37-0:46): I go to the school. I go to the work at 10:00.
+Interviewer (0:46-0:48): What do you do in the afternoon/evening?
+Student (0:48-1:17): Good afternoon. I my lunch and complete my work and came back to the home. And you sometime spend with sometime with my family. And had dinner go to the sleep.
+Interviewer (1:17-1:18): What time do you sleep?
+Student (1:19-1:24): let's wait until uh 10:00

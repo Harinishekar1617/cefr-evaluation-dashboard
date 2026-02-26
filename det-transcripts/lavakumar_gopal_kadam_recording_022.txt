@@ -1,0 +1,15 @@
+---
+student name: Lavakumar Gopal Kadam
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2026-01-21 00:54:58
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:11): I am Kumar Kadam. I am from Belgaum. My hometown Ramdurg.
+Interviewer (0:11-0:13): How old are you / What stage of life are you in?
+Student (0:13-0:25): I am 22 years old. I recently finished my studies and I am preparing for my career.
+Interviewer (0:25-0:26): Who do you live with?
+Student (0:26-0:35): I live with my family and we have a close and supportive relationship.
+Interviewer (0:35-0:36): Share something interesting about you
+Student (0:37-0:45): I am interested in learning new things, especially improving my communication skills.

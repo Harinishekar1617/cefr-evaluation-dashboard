@@ -1,0 +1,17 @@
+---
+student name: Daneshwari S Hipparagi
+topic: General talk
+activity name: Interests
+session time: 2025-12-24 05:36:35
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:08): listening music
+Interviewer (0:08-0:11): Do you read books? What is your favourite book?
+Student (0:11-0:18): Yes, I read books. My favorite book is Swami Vivekananda.
+Interviewer (0:18-0:20): What is your favourite movie?
+Student (0:20-0:23): My favorite movie is KGF
+Interviewer (0:23-0:25): Who is your favourite actor?
+Student (0:25-0:28): My favorite actor is Yash
+Interviewer (0:28-0:31): What is your favourite mobile application?
+Student (0:31-1:11): My favorite app is YouTube because I use it for seeing movies and seeing you know short videos and I use it for learning purpose also because it's give the information about learning and whatever you want to learn it you can see the video on YouTube and you can learn something and we can grow in learning.

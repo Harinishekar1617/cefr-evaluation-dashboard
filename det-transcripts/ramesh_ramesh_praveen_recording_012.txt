@@ -1,0 +1,17 @@
+---
+student name: Ramesh Ramesh Praveen
+topic: Introducing Yourself
+activity name: Personal Background
+session time: 2025-12-24 04:45:59
+---
+
+Interviewer (0:00-0:01): Where did you grow up?
+Student (0:01-0:08): India's all people's is grow up my pant.
+Interviewer (0:08-0:10): What was your childhood like?
+Student (0:10-0:16): in my childhood like this kabaddi and swimming all of you
+Interviewer (0:16-0:17): What languages do you speak?
+Student (0:18-0:24): speaking in Kannada and English and Telugu languages.
+Interviewer (0:24-0:27): What is something interesting about your hometown?
+Student (0:27-0:35): Sometimes read the book, sometimes watch the TV and sometimes works all over family.
+Interviewer (0:35-0:38): How would you describe yourself in one sentence?
+Student (0:38-0:44): I am Ramesh qualification Bachelor of Commerce completed in Raichur University.

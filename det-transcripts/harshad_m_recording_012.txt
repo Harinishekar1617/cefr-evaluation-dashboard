@@ -1,0 +1,17 @@
+---
+student name: Harshad M
+topic: General talk
+activity name: Daily routine
+session time: 2025-12-29 02:58:25
+---
+
+Interviewer (0:00-0:01): What time do you wake up?
+Student (0:01-0:07): Daily morning, I wake up 6 o'clock AM.
+Interviewer (0:07-0:08): What do you do in the morning?
+Student (0:08-0:14): Daily morning I am going to the gym.
+Interviewer (0:14-0:16): What time do you go to school/work?
+Student (0:16-0:24): Morning, 9:00. I'm going to going to the school.
+Interviewer (0:24-0:26): What do you do in the afternoon/evening?
+Student (0:26-0:42): evening I wrote the notes and spending time with my family and playing cricket and singing songs these are doing an evening.
+Interviewer (0:42-0:43): What time do you sleep?
+Student (0:44-0:48): Night 10 o'clock

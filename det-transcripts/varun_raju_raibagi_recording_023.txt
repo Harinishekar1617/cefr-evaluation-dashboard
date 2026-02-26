@@ -1,0 +1,17 @@
+---
+student name: Varun Raju Raibagi
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2026-01-02 03:05:32
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:16): Now I am a student in the foundation. I completed my BSC graduation in Sri Vijaya College. And I have taken major major subject as computer science and physics.
+Interviewer (0:16-0:18): Where do you study / Where did you study?
+Student (0:18-0:27): I am studying in Deshpande Foundation and I completed BSc graduation in Ilkal.
+Interviewer (0:27-0:28): Why did you choose this course?
+Student (0:28-0:38): I choose this course because I want to improve my communication skill and to build leadership quality and to get a job.
+Interviewer (0:38-0:40): What skills have you learned?
+Student (0:40-0:50): I learn communication skill and I improved my communication with everyone and I gained stage courage.
+Interviewer (0:50-0:53): How is your education useful for your future?
+Student (0:53-1:07): My education helps me to build my communication and I can use my communication in company for communicate with each other.

@@ -1,0 +1,13 @@
+---
+student name: Sushmita S Kempalingannavar
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-13 05:25:59
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:09): Right Mhm
+Interviewer (0:09-0:12): How old are you / What stage of life are you in?
+Interviewer (0:26-0:28): Who do you live with?
+Interviewer (0:38-0:40): Share something interesting about you
+Student (0:40-1:03): one special thing

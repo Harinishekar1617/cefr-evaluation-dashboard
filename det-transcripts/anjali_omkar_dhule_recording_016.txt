@@ -1,0 +1,17 @@
+---
+student name: Anjali Omkar Dhule
+topic: Introducing Yourself
+activity name: Personal Background
+session time: 2025-12-15 05:12:17
+---
+
+Interviewer (0:00-0:01): Where did you grow up?
+Student (0:01-0:09): I am in uh Belur
+Interviewer (0:09-0:10): What was your childhood like?
+Student (0:10-0:21): my childhood like is childhood memories and childhood friends and childhood primary friends
+Interviewer (0:21-0:23): What languages do you speak?
+Student (0:23-0:29): Kannada and English, my language speak.
+Interviewer (0:29-0:32): What is something interesting about your hometown?
+Student (0:32-0:36): Something interesting is my family hometown.
+Interviewer (0:36-0:39): How would you describe yourself in one sentence?
+Student (0:39-0:46): My silver Anjali from Bider district.

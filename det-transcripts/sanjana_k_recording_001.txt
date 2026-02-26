@@ -1,0 +1,17 @@
+---
+student name: Sanjana K
+topic: General talk
+activity name: Interests
+session time: 2025-12-13 05:16:59
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:09): My favorite hobby is cooking.
+Interviewer (0:09-0:12): Do you read books? What is your favourite book?
+Student (0:12-0:19): As I am reading book, all my eco-shows.
+Interviewer (0:19-0:21): What is your favourite movie?
+Student (0:21-0:26): My favorite movie is Sitaramam.
+Interviewer (0:26-0:28): Who is your favourite actor?
+Student (0:28-0:42): My favorite actor is Arjun. I like them. I like them because he's acting is good in movies.
+Interviewer (0:42-0:44): What is your favourite mobile application?
+Student (0:45-0:59): My favorite mobile applications is WhatsApp. I like it because video call call or messaging someone.

@@ -1,0 +1,17 @@
+---
+student name:  Varsha PS
+topic: General talk
+activity name: Interests
+session time: 2025-12-13 05:24:45
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:10): My favorite hobbies in writing and writing and scrolling rails.
+Interviewer (0:10-0:13): Do you read books? What is your favourite book?
+Student (0:13-0:21): It's I need read a book. My favorite book in Canada book.
+Interviewer (0:21-0:23): What is your favourite movie?
+Student (0:23-0:35): My favorite movie Yuvratna. I like it because it is is to young person and goal education.
+Interviewer (0:35-0:36): Who is your favourite actor?
+Student (0:36-0:47): My favorite actor is Puneet Rajkumar and because of honesty person and helping nature to the city.
+Interviewer (0:47-0:50): What is your favourite mobile application?
+Student (0:50-1:01): My favorite application YouTube because listening movie and listening music.

@@ -1,0 +1,17 @@
+---
+student name: Adithya Anil Kanere
+topic: General talk
+activity name: Daily routine
+session time: 2026-01-05 02:48:26
+---
+
+Interviewer (0:00-0:01): What time do you wake up?
+Student (0:01-0:09): I wake up at 7:45.
+Interviewer (0:09-0:10): What do you do in the morning?
+Student (0:11-0:17): First I will make up. Then I'm eating.
+Interviewer (0:17-0:19): What time do you go to school/work?
+Student (0:19-0:25): I go to work at 9:00.
+Interviewer (0:25-0:27): What do you do in the afternoon/evening?
+Student (0:27-0:32): Afternoon when I get time I am sleeping.
+Interviewer (0:32-0:34): What time do you sleep?
+Student (0:34-0:38): Afternoon 2 o'clock

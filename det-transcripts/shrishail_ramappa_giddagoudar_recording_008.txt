@@ -1,0 +1,17 @@
+---
+student name: Shrishail Ramappa Giddagoudar
+topic: General talk
+activity name: Daily routine
+session time: 2025-12-17 02:50:23
+---
+
+Interviewer (0:00-0:01): What time do you wake up?
+Student (0:01-0:05): I wake up at six o'clock morning.
+Interviewer (0:05-0:06): What do you do in the morning?
+Student (0:07-0:13): I take bath and go to college.
+Interviewer (0:13-0:15): What time do you go to school/work?
+Student (0:16-0:22): I go to school six hours.
+Interviewer (0:22-0:24): What do you do in the afternoon/evening?
+Student (0:24-0:39): When I get to free time afternoon I will go to sleep and evening will chit chat with friends and go to tea point and we have we had a tea.
+Interviewer (0:39-0:41): What time do you sleep?
+Student (0:41-0:48): I go to sleep at 10:00 at night.

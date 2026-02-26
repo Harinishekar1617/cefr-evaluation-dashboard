@@ -1,0 +1,12 @@
+---
+student name: Tanusha J T
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2025-12-13 05:26:38
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Interviewer (0:14-0:17): Where do you study / Where did you study?
+Interviewer (0:27-0:28): Why did you choose this course?
+Interviewer (0:48-0:50): What skills have you learned?
+Interviewer (1:17-1:19): How is your education useful for your future?

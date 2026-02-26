@@ -1,0 +1,17 @@
+---
+student name: Daneshwari S Hipparagi
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2025-12-15 05:17:05
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:14): I'm studying the English and communication and the information communication technology and reasoning and aptitude.
+Interviewer (0:14-0:17): Where do you study / Where did you study?
+Student (0:17-0:27): I'm starting in Deshpande Skilling that is a Deshpande Educational Institution.
+Interviewer (0:27-0:29): Why did you choose this course?
+Student (0:29-0:48): to build a strong communication and to know the industry level skills and improve my knowledge and it helps me to uh improve my knowledge.
+Interviewer (0:48-0:50): What skills have you learned?
+Student (0:50-1:22): I learn about basic computers and how to deal with other person body language grooming and interview skills.
+Interviewer (1:22-1:25): How is your education useful for your future?
+Student (1:25-1:53): Education is most useful thing to every person. Because education teaches how to know the society and how to behave. And it's also useful to get the knowledge.

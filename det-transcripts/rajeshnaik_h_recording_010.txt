@@ -1,0 +1,15 @@
+---
+student name: Rajeshnaik H
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-29 02:52:02
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:17): My name is Rajesh Nayak H. I'm from Balari. My hometown is it is a small village from Balari. It's the name is only Tanda.
+Interviewer (0:17-0:19): How old are you / What stage of life are you in?
+Student (0:20-0:28): I'm 24 years old and I have recently completed my masters from college.
+Interviewer (0:28-0:30): Who do you live with?
+Student (0:30-0:45): I live with my family. My family includes my mother, my elder brother, and my sister, and my mom. And now I am staying in hostel with our friends.
+Interviewer (0:45-0:47): Share something interesting about you
+Student (0:47-1:06): I'm interesting person. I'm a good listener and active listener. And I'm a hard working. And uh I'm a enthusiastic person and I'm always eager to learn new things.

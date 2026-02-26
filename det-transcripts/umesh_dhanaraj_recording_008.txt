@@ -1,0 +1,15 @@
+---
+student name: Umesh Dhanaraj
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-19 02:59:35
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:06): My name is Umesh, I am from Veda.
+Interviewer (0:06-0:09): How old are you / What stage of life are you in?
+Student (0:09-0:19): I am 18 years old and my life stage is get a job.
+Interviewer (0:19-0:20): Who do you live with?
+Student (0:20-0:32): I live with my family and friends.
+Interviewer (0:32-0:34): Share something interesting about you
+Student (0:35-0:47): I mean I am interested in uh volleyball and sometime settle cock There there is my interested

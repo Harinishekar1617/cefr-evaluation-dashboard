@@ -1,0 +1,15 @@
+---
+student name: Najeer Jameerahmad Ammanagi
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-13 05:34:08
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:19): My name is Nazeer. I am from Cherai TPK. I have done my BCA graduation in STVSPS STVS. I grew up in my home village.
+Interviewer (0:19-0:22): How old are you / What stage of life are you in?
+Student (0:22-0:32): I am 21 year old. I have recently finished my college graduation.
+Interviewer (0:32-0:33): Who do you live with?
+Student (0:33-0:47): my parents and brothers and grandparents. Right now I am I am in Deshpande as a TT, so I am living in hostel.
+Interviewer (0:47-0:50): Share something interesting about you
+Student (0:50-0:58): I can play cricket very well and I can draw sketches uh portraits.

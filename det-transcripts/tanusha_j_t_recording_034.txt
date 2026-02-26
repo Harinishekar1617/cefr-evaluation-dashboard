@@ -1,0 +1,17 @@
+---
+student name: Tanusha J T
+topic: Skills and strength
+activity name: Skills from college / training
+session time: 2026-01-20 10:02:27
+---
+
+Interviewer (0:00-0:02): What skills did you learn in college or school?
+Student (0:02-0:08): Hello.
+Interviewer (0:08-0:10): What kind of practical work did you do?
+Student (0:10-0:44): I am from uh Bachelor of Computer application BCA background. I have I have practical about programming language like Python, C++ and C sharp. I have I have worked on that practically and also when I was in final year, I have done project based on offline signature verification. I used some coding languages in that and also I worked practically on that.
+Interviewer (0:44-0:46): What tools or technology did you use?
+Student (0:46-0:58): I used some tools like Python script and uh I almost I used Python in that tool.
+Interviewer (0:58-1:00): What skill do you use even now?
+Student (1:00-1:23): I'm still using some communication skills and also I'm building myself confidence and I'm I learning team management and I developing uh leadership qualities and still now I am working on this and also uh I was practicing ICT ICT with an practical knowledge.
+Interviewer (1:23-1:25): Which skill helped you the most during studies?
+Student (1:25-1:50): The skill helped me in is communication skill because when I was communicate with others then they can be understand my words and how they are communicate with with them they will see then only the people can be communicate with us and then then only we can help to each other each other.

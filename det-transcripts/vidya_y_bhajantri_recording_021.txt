@@ -1,0 +1,15 @@
+---
+student name: Vidya Y Bhajantri
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2026-01-11 00:55:47
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:09): Uh my name is Vidya. I am from Belgavi.
+Interviewer (0:09-0:11): How old are you / What stage of life are you in?
+Student (0:11-0:26): I am 22 years old. I recently completed my graduation and now I'm studying in DT.
+Interviewer (0:26-0:27): Who do you live with?
+Student (0:27-0:38): I live with my family. In my family, we are seven members, including me.
+Interviewer (0:38-0:40): Share something interesting about you
+Student (0:40-1:02): Uh whenever I have a free time, I want to explore a new places. And also doing a nail art nail art, it makes me happy. And also I am a positive girl. That is a very special about me.

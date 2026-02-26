@@ -1,0 +1,17 @@
+---
+student name: Harshita Mohan Bhandari
+topic: General talk
+activity name: Travel
+session time: 2025-12-16 03:12:52
+---
+
+Interviewer (0:00-0:01): Do you like travelling?
+Student (0:01-0:06): Yes, I like travelling. Yes, I like travelling.
+Interviewer (0:06-0:08): Where did you go on your last holiday?
+Student (0:08-0:13): I am go to Hubli.
+Interviewer (0:13-0:15): Which is your dream destination?
+Student (0:15-0:23): America
+Interviewer (0:23-0:24): Who do you like travelling with?
+Student (0:24-0:30): This nature is beautiful
+Interviewer (0:30-0:32): What do you like doing on vacation?
+Student (0:32-0:38): I like doing in free time traveling

@@ -1,0 +1,15 @@
+---
+student name: Anjali Omkar Dhule
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2026-01-06 05:09:56
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:13): My name is Anjali, people call me Anju. And I from Bidar district, my hometown in village Belur.
+Interviewer (0:13-0:16): How old are you / What stage of life are you in?
+Student (0:16-0:29): I am 22 years old. I have completed Bachelor of Commerce in 2024 year. I recently come to this Pandit Skilling. I am a student.
+Interviewer (0:29-0:30): Who do you live with?
+Student (0:30-1:02): I live with my family. My family, in family is nuclear families and my family supported to me because you improve to your skills, improved, and speaking in English language and how to understanding the people and how to improve interview questions, how to speak in HR. This stay, I stay in hostel.
+Interviewer (1:02-1:04): Share something interesting about you
+Student (1:04-1:27): So, I interesting to me help my mom and I go to in outside and sometime I help friends to enjoy the moment and trip go to and one day special thing is about me because my special things is my childhood memories very special moment to me.

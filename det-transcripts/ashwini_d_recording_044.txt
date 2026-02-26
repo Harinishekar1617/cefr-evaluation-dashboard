@@ -1,0 +1,15 @@
+---
+student name: Ashwini D
+topic: Introducing Yourself
+activity name: Current situation
+session time: 2026-01-22 05:14:23
+---
+
+Interviewer (0:00-0:01): What are you doing now?
+Student (0:01-0:14): Now I am sitting in the class. Everyday we have 20 minutes to attend the interval activity.
+Interviewer (0:14-0:17): How do you spend your time these days?
+Student (0:17-0:36): These day I spend more time with my friends and I attend all all classes. I done with my homeworks and assignments.
+Interviewer (0:36-0:38): What are you learning or practicing now?
+Student (0:39-0:54): Hello, I am a data trainer in uh D 80 near I am learning three languages R N E E N C and ICT.
+Interviewer (0:54-0:56): What job are you looking for now?
+Student (0:57-1:09): I am looking on both voice and non voice job. except sales executive.

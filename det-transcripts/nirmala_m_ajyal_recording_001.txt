@@ -1,0 +1,17 @@
+---
+student name: Nirmala M Ajyal
+topic: General talk
+activity name: Interests
+session time: 2025-12-13 05:17:24
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:09): My favorite hobby is dance and badminton.
+Interviewer (0:09-0:12): Do you read books? What is your favourite book?
+Student (0:12-0:18): I will read a many books, but my favorite book is a world geography.
+Interviewer (0:18-0:20): What is your favourite movie?
+Student (0:20-0:26): My favorite movie is Milana.
+Interviewer (0:26-0:27): Who is your favourite actor?
+Student (0:27-0:32): My favorite actor is Puneeth Rajkumar
+Interviewer (0:32-0:34): What is your favourite mobile application?
+Student (0:34-0:39): This is my favorite mobile application is Instagram.

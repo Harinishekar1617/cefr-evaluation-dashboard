@@ -1,0 +1,17 @@
+---
+student name: Harshad M
+topic: General talk
+activity name: Free time and Weekends
+session time: 2025-12-13 03:19:28
+---
+
+Interviewer (0:00-0:01): What do you do in your free time?
+Student (0:01-0:08): playing cricket and playing carrom board.
+Interviewer (0:08-0:10): What do you do on weekends?
+Student (0:10-0:19): Just trying watching cricket and
+Interviewer (0:19-0:21): Do you meet friends or family?
+Student (0:21-0:27): As I meet my parents and family
+Interviewer (0:27-0:28): Do you go out or stay home? Why?
+Student (0:28-0:38): As I will going to out because because met my friends and going to cafe etc.
+Interviewer (0:38-0:40): What activity makes you happy?
+Student (0:40-0:45): Singing songs, playing cricket, and playing volleyball.

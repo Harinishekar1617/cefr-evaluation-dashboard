@@ -1,0 +1,17 @@
+---
+student name: Daneshwari S Hipparagi
+topic: Introducing Yourself
+activity name: Personal Background
+session time: 2025-12-18 05:19:53
+---
+
+Interviewer (0:00-0:01): Where did you grow up?
+Student (0:01-0:09): I was grow up in my village Gudnar.
+Interviewer (0:09-0:11): What was your childhood like?
+Student (0:11-0:28): my childhood. I play I played a lot and I love to eat something.
+Interviewer (0:28-0:30): What languages do you speak?
+Student (0:30-0:36): I can speak Kannada, English and Telugu.
+Interviewer (0:36-0:38): What is something interesting about your hometown?
+Student (0:38-0:59): My hometown is Uthnal. People are so innocent in that village and I like it because it's a small village and all are living like a family.
+Interviewer (0:59-1:02): How would you describe yourself in one sentence?
+Student (1:02-1:12): I'm a hard worker and self-learning and confident and honest person.

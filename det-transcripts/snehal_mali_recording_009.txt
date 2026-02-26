@@ -1,0 +1,17 @@
+---
+student name: Snehal Mali
+topic: General talk
+activity name: Interests
+session time: 2025-12-17 03:14:56
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:12): My favorite hobby is listening music, cooking and playing games.
+Interviewer (0:12-0:15): Do you read books? What is your favourite book?
+Student (0:15-0:27): I am not daily reading book but my favorite book is APJ Abdul Kalam.
+Interviewer (0:27-0:28): What is your favourite movie?
+Student (0:29-0:34): My favorite movie is Marshall and Bigil
+Interviewer (0:34-0:35): Who is your favourite actor?
+Student (0:35-0:40): My favorite actor is Vijay Tharapathi
+Interviewer (0:40-0:43): What is your favourite mobile application?
+Student (0:43-0:49): My favorite mobile application is puzzle game.

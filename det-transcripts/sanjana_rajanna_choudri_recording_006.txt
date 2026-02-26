@@ -1,0 +1,15 @@
+---
+student name: Sanjana Rajanna Choudri
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-16 03:17:23
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:06): My name is Sanjana. I'm from Kushtagi.
+Interviewer (0:06-0:08): How old are you / What stage of life are you in?
+Student (0:08-0:14): I am 21 years old I recently finished degree in Bachelor of Computer application
+Interviewer (0:14-0:15): Who do you live with?
+Student (0:15-0:17): I live in Hostel
+Interviewer (0:17-0:19): Share something interesting about you
+Student (0:20-0:31): I am with my friends and my family. I am interested in listening listening music and singing the songs.

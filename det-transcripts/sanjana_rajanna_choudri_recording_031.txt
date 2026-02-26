@@ -1,0 +1,17 @@
+---
+student name: Sanjana Rajanna Choudri
+topic: General talk
+activity name: Daily routine
+session time: 2026-01-19 03:23:38
+---
+
+Interviewer (0:00-0:01): What time do you wake up?
+Student (0:01-0:05): I wake up at 6 o'clock a.m.
+Interviewer (0:05-0:07): What do you do in the morning?
+Student (0:07-0:16): First I get up and I take bath. Afterwards, I get for I get ready for class for the classes.
+Interviewer (0:16-0:18): What time do you go to school/work?
+Student (0:18-0:25): I go to classes at 7:45.
+Interviewer (0:25-0:27): What do you do in the afternoon/evening?
+Student (0:27-0:42): In afternoon I hear in the campus. Then afterwards evening I go to cantine to drink drink to drink the tea and eat snacks.
+Interviewer (0:42-0:43): What time do you sleep?
+Student (0:43-0:46): I usually sleep at 11 o'clock.

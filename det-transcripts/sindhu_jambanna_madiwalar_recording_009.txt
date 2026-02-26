@@ -1,0 +1,15 @@
+---
+student name: Sindhu Jambanna Madiwalar
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-19 05:11:28
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:21): My name is Sindhu. I am from Gadag. People call me Sindhu or Muddu. My hometown is in Gadag district, Nagavi. I grew up in my village with my family support.
+Interviewer (0:21-0:24): How old are you / What stage of life are you in?
+Student (0:24-0:41): I'm I have sold. I'm a student. I have recently completed my degree in the university and now I am studying at Deshpande skill link to my skill and get more knowledge.
+Interviewer (0:41-0:42): Who do you live with?
+Student (0:42-0:58): I live with my family. In my family are four members, father, mother, brother and me. My family includes nuclear family. I in hostel also with my friends.
+Interviewer (0:58-1:00): Share something interesting about you
+Student (1:00-1:20): I enjoy making a crafts and crochet. I like handmade things and I am interested in cooking. I am good in cooking. One special thing about me is I know about very well cooking.

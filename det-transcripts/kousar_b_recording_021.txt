@@ -1,0 +1,14 @@
+---
+student name: Kousar B
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2026-01-02 10:15:53
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Interviewer (0:06-0:09): How old are you / What stage of life are you in?
+Student (0:09-0:19): I'm twenty one years old and I my college name is Dharmasagar First Grade College, Thamsandra I finished in my Bachelor of Commerce in this college.
+Interviewer (0:19-0:21): Who do you live with?
+Student (0:21-0:29): I live with my family. And also I stay in hostel with my friends.
+Interviewer (0:29-0:31): Share something interesting about you
+Student (0:31-0:52): I like to reading a books in free times. I am interested in one of the think in volley ball now. I enjoying to reading the books and I am interested in the sports. One of the throw ball.

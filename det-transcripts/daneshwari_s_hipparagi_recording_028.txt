@@ -1,0 +1,17 @@
+---
+student name: Daneshwari S Hipparagi
+topic: Introducing Yourself
+activity name: Little more about me
+session time: 2026-01-09 05:16:09
+---
+
+Interviewer (0:00-0:01): Tell me something more about yourself.
+Student (0:01-1:13): I'm Dhaneshwari. I'm currently from Vijayapur. And I'm a hard worker and honest person. I usually read books in my free time and I like to learn new technologies and I am a BCA student and in that I learned I learned programming languages like Python, C, C++. And I got first prize in essay competition and then I come like I come from traditional family. My father, my mother, and my two elder brothers are there in my family.
+Interviewer (1:13-1:15): What do you enjoy doing in your free time?
+Student (1:15-1:44): In my in my free time, I enjoy a lot with my family and I like to explore uh new places and I love to travel. And uh we are we are going to new places and I I I'm going to with my family and um we enjoy a lot with my family.
+Interviewer (1:44-1:45): What is important to you in your life?
+Student (1:45-2:14): Family is more important because um in any situation they support me. Whatever the situation may be, doing good or bad. can any situation my family so they're for me like that bone for me. And I love my family more in the world.
+Interviewer (2:14-2:15): What kind of person are you?
+Student (2:15-2:35): I'm a hard worker and honest person in my life I never hurt anyone and in my opinion I'm honest and disciplined person.
+Interviewer (2:35-2:36): What should people know about you?
+Student (2:37-2:51): People should know that I am a silent girl and innocent girl and not talk too much and do not talk with others. They think like that.

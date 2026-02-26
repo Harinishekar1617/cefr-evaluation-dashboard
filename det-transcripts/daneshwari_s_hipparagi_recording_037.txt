@@ -1,0 +1,15 @@
+---
+student name: Daneshwari S Hipparagi
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2026-01-22 05:20:07
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-1:09): I am Daneshwariguri from Vijaypur.  I am a hard worker and honest person. I usually read books in my free time and I like to I like to learn new things. And I am a bachelors student and in that we learn some programming languages like Python, C++, C# and I come from traditional and very supportive family. come from very supportive family.
+Interviewer (1:09-1:12): How old are you / What stage of life are you in?
+Student (1:12-1:41): I'm a 22 years old girl and I recently finished my degree Bachelor of computer application and I am now studying in Deshpande skilling to upskilling and to build my communication and to improve my skills.
+Interviewer (1:41-1:42): Who do you live with?
+Student (1:42-2:07): I lived with my family in my hometown, but now I'm staying in hostel. Uh, in my hostel, lot of friends are there. Uh, we have 22 friends in our room.
+Interviewer (2:07-2:09): Share something interesting about you
+Student (2:09-3:08): I enjoy traveling and um, I love to talk with my family members and uh I enjoy lot of time with my family and I want to be with my family and also I like gardening and listening music whenever uh I get a free time, I listen music and do gardening and uh I like traveling also. Whenever um I get um uh some 10 days or 15 days holidays I explore new places. And um one special thing about me is I always respect others. That makes me different from others.

@@ -1,0 +1,13 @@
+---
+student name: Sushmita S Kempalingannavar
+topic: Introducing Yourself
+activity name: Personal Background
+session time: 2025-12-18 05:23:34
+---
+
+Interviewer (0:00-0:01): Where did you grow up?
+Student (0:01-0:13): [thump] [pop] [rustle] [pop]
+Interviewer (0:13-0:14): What was your childhood like?
+Interviewer (0:31-0:32): What languages do you speak?
+Interviewer (0:52-0:55): What is something interesting about your hometown?
+Interviewer (1:18-1:21): How would you describe yourself in one sentence?

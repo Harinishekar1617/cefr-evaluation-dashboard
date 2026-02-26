@@ -1,0 +1,15 @@
+---
+student name: Rajeshnaik H
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-17 03:13:33
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:09): I am Rajesh Naik H. I am from Ballari. It's belongs in Karnataka, India.
+Interviewer (0:09-0:11): How old are you / What stage of life are you in?
+Student (0:12-0:23): Yeah, I'm 23 years old and I'm I completed recently my post graduate and now I am learning skills.
+Interviewer (0:23-0:24): Who do you live with?
+Student (0:24-0:31): Yeah, as I'm live with my family. And now I'm stay in hostel.
+Interviewer (0:31-0:33): Share something interesting about you
+Student (0:33-0:50): Yeah, as I am a quick learner and enthusiastic to learn new things and I am a very interesting person and a good person and I sing a song and that's all.

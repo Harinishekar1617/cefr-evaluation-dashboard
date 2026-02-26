@@ -1,0 +1,17 @@
+---
+student name: Ananda S
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2025-12-13 05:22:28
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:07): I'm doing my BC
+Interviewer (0:07-0:10): Where do you study / Where did you study?
+Student (0:10-0:13): I studied at uh VTech's.
+Interviewer (0:13-0:14): Why did you choose this course?
+Student (0:15-0:19): Because it align with my career goals.
+Interviewer (0:19-0:21): What skills have you learned?
+Student (0:21-0:23): programming
+Interviewer (0:23-0:25): How is your education useful for your future?
+Student (0:26-0:29): for future growth

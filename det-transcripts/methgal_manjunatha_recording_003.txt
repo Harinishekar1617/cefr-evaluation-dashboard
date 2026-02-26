@@ -1,0 +1,17 @@
+---
+student name: Methgal Manjunatha
+topic: General talk
+activity name: Travel
+session time: 2025-12-16 03:12:08
+---
+
+Interviewer (0:00-0:01): Do you like travelling?
+Student (0:01-0:10): Yes I do. I love traveling because you know the cultures and lifestyle of other states.
+Interviewer (0:10-0:12): Where did you go on your last holiday?
+Student (0:12-0:19): I went to Mantralaya. It was the last.
+Interviewer (0:19-0:21): Which is your dream destination?
+Student (0:21-0:27): My dream destination is Kedarnath. I would like to see the Kedarnath.
+Interviewer (0:27-0:29): Who do you like travelling with?
+Student (0:29-0:33): I like traveling with my family.
+Interviewer (0:33-0:35): What do you like doing on vacation?
+Student (0:35-0:42): on vacation. I like to explore that place. Usually where I am.

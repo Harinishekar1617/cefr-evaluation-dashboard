@@ -1,0 +1,17 @@
+---
+student name: Gangadhar Kallayya Nigadimath
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2025-12-13 05:26:09
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:10): I'm studying. I'm studying. I study completed Bachelor of Arts.
+Interviewer (0:10-0:13): Where do you study / Where did you study?
+Student (0:13-0:19): I studied in Hubli. I want to study in Pune.
+Interviewer (0:19-0:21): Why did you choose this course?
+Student (0:21-0:33): Actually, because I choose this course because I, I have a big social student or teacher. Because I choose this option.
+Interviewer (0:33-0:35): What skills have you learned?
+Student (0:35-0:50): I have learned skills in good communication and stage fear and how to talk about politely and listening and aptitude.
+Interviewer (0:50-0:52): How is your education useful for your future?
+Student (0:52-1:07): Education is most important to our futures because don't have an education, you don't have any respect. So I hope you tell education is most important to our futures.

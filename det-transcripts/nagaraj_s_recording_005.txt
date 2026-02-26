@@ -1,0 +1,13 @@
+---
+student name: Nagaraj S
+topic: General talk
+activity name: Daily routine
+session time: 2025-12-15 03:19:53
+---
+
+Interviewer (0:00-0:01): What time do you wake up?
+Interviewer (0:18-0:19): What do you do in the morning?
+Interviewer (0:35-0:37): What time do you go to school/work?
+Student (0:37-0:48): Wa Okay, I'm going to turn it on.
+Interviewer (0:48-0:50): What do you do in the afternoon/evening?
+Interviewer (1:12-1:13): What time do you sleep?

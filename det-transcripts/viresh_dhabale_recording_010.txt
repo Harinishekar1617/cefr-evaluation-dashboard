@@ -1,0 +1,15 @@
+---
+student name: Viresh Dhabale
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-17 03:14:15
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:08): I only speak English
+Interviewer (0:08-0:10): How old are you / What stage of life are you in?
+Student (0:11-0:25): I am I am studying in Mumbai I am studying in college
+Interviewer (0:25-0:26): Who do you live with?
+Student (0:26-0:33): Shia Rup I am in Bhagalpur and anyone
+Interviewer (0:33-0:35): Share something interesting about you
+Student (0:35-0:46): It's just

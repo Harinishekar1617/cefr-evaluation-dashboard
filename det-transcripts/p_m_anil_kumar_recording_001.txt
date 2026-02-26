@@ -1,0 +1,15 @@
+---
+student name: P M Anil Kumar
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-18 05:18:46
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:10): Yeah. I am Anil Kumar. I am from Vijayanagara district.
+Interviewer (0:10-0:12): How old are you / What stage of life are you in?
+Student (0:12-0:25): I am a 23 years old. I am a college student, recently finished my masters in MSC.
+Interviewer (0:25-0:26): Who do you live with?
+Student (0:26-0:31): Yes, I am staying in hostel.
+Interviewer (0:31-0:34): Share something interesting about you
+Student (0:34-0:58): I enjoy. In college life. And I like to play sports. And I like to in free time I travel in one place to another place. And also I like to read some moral books.

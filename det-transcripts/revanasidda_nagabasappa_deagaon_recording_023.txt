@@ -1,0 +1,17 @@
+---
+student name: Revanasidda Nagabasappa Deagaon
+topic: Introducing Yourself
+activity name: Little more about me
+session time: 2026-01-09 05:15:50
+---
+
+Interviewer (0:00-0:01): Tell me something more about yourself.
+Student (0:01-0:08): I am Revan Siddha from Gulbarga. I like to play cricket.
+Interviewer (0:08-0:10): What do you enjoy doing in your free time?
+Student (0:10-0:28): in in my free time, I play cricket and games in mobile and watching TV and talking with the family. I be enjoying.
+Interviewer (0:28-0:30): What is important to you in your life?
+Student (0:30-0:43): Family is important to me because by birth he is helps to me and very supporting to me. That's why family is important to me.
+Interviewer (0:43-0:44): What kind of person are you?
+Student (0:44-0:54): I am a cool and calm person. I am a very friendly and attactive friend.
+Interviewer (0:54-0:55): What should people know about you?
+Student (0:55-1:08): People should know that I am respectful to each other. always helps to others.

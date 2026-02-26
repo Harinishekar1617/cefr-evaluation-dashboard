@@ -1,0 +1,17 @@
+---
+student name: Dastageerpatel Husenpatel Biradar
+topic: General talk
+activity name: Interests
+session time: 2025-12-13 05:15:21
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:06): My favorite hobby is uh volleyball.
+Interviewer (0:06-0:09): Do you read books? What is your favourite book?
+Student (0:09-0:24): My favorite book is a Uh English book
+Interviewer (0:24-0:26): What is your favourite movie?
+Student (0:26-0:31): My favorite movies Kantara.
+Interviewer (0:31-0:33): Who is your favourite actor?
+Student (0:33-0:44): My favorite actor is uh Luarjun.
+Interviewer (0:44-0:47): What is your favourite mobile application?
+Student (0:47-0:55): My favorite mobile application in YouTube.

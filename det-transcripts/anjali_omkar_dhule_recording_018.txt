@@ -1,0 +1,15 @@
+---
+student name: Anjali Omkar Dhule
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-15 05:14:59
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:10): My name is Anjali. I am from Belur, Bidar district, Baswakalyan taluk, Belur.
+Interviewer (0:10-0:13): How old are you / What stage of life are you in?
+Student (0:13-0:22): I am 22 year old. I am less days are in 22.
+Interviewer (0:22-0:23): Who do you live with?
+Student (0:23-0:28): I live with family and jobs.
+Interviewer (0:28-0:30): Share something interesting about you
+Student (0:30-0:39): I'm interesting in the job and communication skills. opportunities of jobs.

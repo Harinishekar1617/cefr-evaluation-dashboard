@@ -1,0 +1,17 @@
+---
+student name: Sakshi A Kurhade
+topic: Skills and strength
+activity name: Skills from college / training
+session time: 2026-01-13 05:13:12
+---
+
+Interviewer (0:00-0:02): What skills did you learn in college or school?
+Student (0:02-0:32): I graduated from engineering college I chose computer science because I wanted to know about the programming languages. So I'm skilled in Python. I know how to do programming in Python. And I know a little bit Java and C programming.
+Interviewer (0:32-0:34): What kind of practical work did you do?
+Student (0:35-1:19): I worked on some projects which is related to Python and which is related to websites making. As I am skilled in Python programming, I applied the Python skills in some projects. And yes I made some I made a project that is pet aid which gives help helps to pet owners to your pet related issues.
+Interviewer (1:19-1:21): What tools or technology did you use?
+Student (1:21-2:00): I worked with Django and I used full stack for creating a website and adding some tabs in that website as we made a project called Patel. In that the Python programming is also were there and We made a community and some shopping links we have added in that.
+Interviewer (2:00-2:02): What skill do you use even now?
+Student (2:02-2:52): communication skill. Like, it's been one month I am practicing and I'm taking course about English speaking and English communication. And it's been one month I have spoke a little. As now I am taking a course of English communication and I I'm practicing English daily. That skill is useful and I can talk confidently in front of a lot of people and I can do public speaking. And I can use it everywhere.
+Interviewer (2:52-2:54): Which skill helped you the most during studies?
+Student (2:54-3:31): Um the Python programming skill helped me to during my studies the most. It was useful because I chose engineering in that computer science engineering. So in computer science there are lot of programming languages and the Python was the one of the easiest programming language. So I chose the programming language as a Python and it nowadays in the growing technology the Python programming has developed a lot and it is helpful and it is easy to code.

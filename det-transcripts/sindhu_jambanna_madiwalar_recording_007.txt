@@ -1,0 +1,15 @@
+---
+student name: Sindhu Jambanna Madiwalar
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-18 05:19:27
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:10): My name is Sindhu. I am from Gadag District Naga village.
+Interviewer (0:10-0:13): How old are you / What stage of life are you in?
+Student (0:13-0:26): Hi, I am 22 years old. I am a college student. I have completed recently my degree in Bachelor of Commerce. Gadag University.
+Interviewer (0:26-0:27): Who do you live with?
+Student (0:28-0:39): I live with my family, my main family we are four members. Father, mother and brother. I stay in a hostel with friends.
+Interviewer (0:39-0:41): Share something interesting about you
+Student (0:41-1:00): I enjoy making a crafts and crochet. I like handmade things and I am interested in cooking. I am good in cooking. One special thing about me is I know about very well cooking.

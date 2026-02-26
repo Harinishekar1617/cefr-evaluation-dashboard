@@ -1,0 +1,15 @@
+---
+student name: Yashodha Jamadar
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-25 02:50:13
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:13): My name is Yashoda. I came from Beder district.
+Interviewer (0:13-0:16): How old are you / What stage of life are you in?
+Student (0:16-0:28): I am 22 years old. I am recently finished my college and came the DET.
+Interviewer (0:28-0:29): Who do you live with?
+Student (0:29-0:37): I live with Siripur, my family includes eight members. I stay in a hostel with 20 days.
+Interviewer (0:37-0:39): Share something interesting about you
+Student (0:39-0:51): I enjoy my college days. I love my family. I am interested in listening music and reading book, one special things about me.

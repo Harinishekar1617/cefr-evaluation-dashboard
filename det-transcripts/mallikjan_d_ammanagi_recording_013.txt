@@ -1,0 +1,15 @@
+---
+student name: Mallikjan D Ammanagi
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-19 23:22:03
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:15): My name is Malik Jan. I am from Belgum District, Hokeri Taluk, Shirguppi. My hometown is Shirguppi.
+Interviewer (0:15-0:18): How old are you / What stage of life are you in?
+Student (0:18-0:30): I'm 23 years old. I'm college I'm college student. I'm pursuing my bachelor's degree. Okay. You're coming back.
+Interviewer (0:30-0:31): Who do you live with?
+Student (0:31-0:46): I live in Hubli open website this one is screening foundation. I stay in hospital Hubli hospital. That's all.
+Interviewer (0:46-0:48): Share something interesting about you
+Student (0:48-1:19): I'm enjoying cricket sports. My love. I love sports. I love chicken biryani. I'm interesting in How to improve increase your self. How to build your communication skills. And one special thing about me is I have completed Bachelor of Arts.

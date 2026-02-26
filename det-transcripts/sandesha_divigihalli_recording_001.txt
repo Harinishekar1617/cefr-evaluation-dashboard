@@ -1,0 +1,17 @@
+---
+student name: Sandesha Divigihalli
+topic: General talk
+activity name: Interests
+session time: 2025-12-13 05:26:56
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:06): My favorite hobby is watching movies.
+Interviewer (0:06-0:08): Do you read books? What is your favourite book?
+Student (0:09-0:21): Yes, I do. My favorite book is Yana. It's an Kannada book. I like this book because of the author.
+Interviewer (0:21-0:23): What is your favourite movie?
+Student (0:23-0:39): My favorite movie is Batha. It's about a struggle of a little boy to survive in a life and I like it because the acting of a little boy.
+Interviewer (0:39-0:40): Who is your favourite actor?
+Student (0:40-0:57): My favorite actor is Ash. Right now he's the national star of India. I like him because of his acting skills and his styles.
+Interviewer (0:57-1:00): What is your favourite mobile application?
+Student (1:00-1:21): Right now my favorite mobile application is Instagram. I used I used it for watching reels. I like it because of chatting with friends and sharing reels with them.

@@ -1,0 +1,15 @@
+---
+student name: Yashwant G Kammar
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-31 03:16:21
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:20): My name is Ashwant. People call me Ash. Can you call me a Thomas Shelby? I am from Dharwar district. My hometown is Nawanagar. I grew up in Kadag.
+Interviewer (0:20-0:23): How old are you / What stage of life are you in?
+Student (0:23-0:44): I am a 23 year old. I am a college student. I completed my Bcom. I recently finished bachelor of degree in God.
+Interviewer (0:44-0:45): Who do you live with?
+Student (0:45-1:04): I am living with my family. My family includes my father, mother, my younger brother and one elder brother and me.
+Interviewer (1:04-1:06): Share something interesting about you
+Student (1:06-1:27): I enjoy my happiness and hello my self I am interested in sports one special thing about me is I have a angry issue and ego issue also.

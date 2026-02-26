@@ -1,0 +1,17 @@
+---
+student name: Daneshwari S Hipparagi
+topic: Managing the Interview Conversation
+activity name: Asking for Clarification
+session time: 2026-01-07 05:18:33
+---
+
+Interviewer (0:00-0:01): What do you do if you don't understand a question?
+Student (0:01-0:15): If I don't understand, I can take help of trainers or teachers or a friend and then answer it.
+Interviewer (0:15-0:16): How do you ask someone to repeat a question?
+Student (0:16-0:28): I ask in a polite way like can you repeat it once again or we can use could you say it again for me.
+Interviewer (0:28-0:29): What do you do if the question is confusing?
+Student (0:30-0:46): If it is confusing, I ask once again or I ask somebody help.
+Interviewer (0:46-0:47): How do you ask for more time to think?
+Student (0:47-1:00): I will say that may I get a two minutes or I'll say that may I get some more minutes to think.
+Interviewer (1:00-1:02): Why is it okay to ask for clarification?
+Student (1:02-1:15): Because clarification is important when we can clarify it, then only we can say about it, or we can talk about that topic.

@@ -1,0 +1,15 @@
+---
+student name: Rukmini Kokare
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-31 03:03:02
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:16): My name is Rukmini. I am from Uttar Kannada. I have completed my bachelor of degree and my from Uttar Kannada. So village, Kaale kare. Thank you.
+Interviewer (0:16-0:19): How old are you / What stage of life are you in?
+Student (0:19-0:48): My older 21 older and my college name is JGT College Halapura. I recently finished my degree and my um I am communication skills and English learning. This my life stage.
+Interviewer (0:48-0:49): Who do you live with?
+Student (0:50-1:06): My native place is Kaare village mainly and taluk Muldugodi. I live recently Deshpande skills in hostel. That's it.
+Interviewer (1:06-1:08): Share something interesting about you
+Student (1:08-1:35): I am interested improve myself English communication skills. This how to I am improve myself. This one problem is so difficult. So I am also improve myself and practice practice every time day by day. I am improve myself. That's it.

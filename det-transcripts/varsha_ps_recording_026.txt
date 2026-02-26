@@ -1,0 +1,15 @@
+---
+student name:  Varsha PS
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2026-01-14 05:39:22
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:22): My name is Varsha. People call me Varsha. You can call me Varsha. I am from Chitradurga. Home town. Home is Pallavagiri. Grow up in village.
+Interviewer (0:22-0:25): How old are you / What stage of life are you in?
+Student (0:25-0:38): I am 20 years old. I am in college. Completed my graduation.
+Interviewer (0:38-0:39): Who do you live with?
+Student (0:39-0:53): I live with my village my family including four members are there and stay in here or still
+Interviewer (0:53-0:55): Share something interesting about you
+Student (0:55-1:21): I am cooking very well. I'm I'm love really. I'm interested in mehndi and cooking. Sometime writing one special thing about me is good singing.

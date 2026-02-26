@@ -1,0 +1,15 @@
+---
+student name: Ramu Kharat
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-24 05:19:10
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:08): I am Ramu K from Daru.
+Interviewer (0:08-0:11): How old are you / What stage of life are you in?
+Student (0:11-0:17): I am 21 age year old.
+Interviewer (0:17-0:18): Who do you live with?
+Student (0:18-0:23): This M and I'm a I'm a
+Interviewer (0:23-0:25): Share something interesting about you
+Student (0:25-0:40): is I am sitting and I I enjoy in you are interested I special things about me my plan.

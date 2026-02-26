@@ -1,0 +1,17 @@
+---
+student name: Viresh Dhabale
+topic: Introducing Yourself
+activity name: Personal Background
+session time: 2025-12-19 02:58:55
+---
+
+Interviewer (0:00-0:01): Where did you grow up?
+Student (0:01-0:16): I say something of what of my lot of my one more anbho
+Interviewer (0:16-0:17): What was your childhood like?
+Student (0:17-0:28): My childhood, my childhood like this now, like around uh, like I can do
+Interviewer (0:28-0:29): What languages do you speak?
+Student (0:30-0:39): I am speak Kannada, Hindi. That's all. Two languages.
+Interviewer (0:39-0:41): What is something interesting about your hometown?
+Student (0:41-0:50): system to Basavanna 108.
+Interviewer (0:50-0:53): How would you describe yourself in one sentence?
+Student (0:53-1:00): I am a hard working person, BC student.

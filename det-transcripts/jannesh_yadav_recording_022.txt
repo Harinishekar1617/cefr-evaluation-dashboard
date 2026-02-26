@@ -1,0 +1,15 @@
+---
+student name: Jannesh Yadav
+topic: Introducing Yourself
+activity name: Current situation
+session time: 2026-01-12 05:18:44
+---
+
+Interviewer (0:00-0:01): What are you doing now?
+Student (0:01-0:13): So now I am getting a thermometer present time thermometer fans current value is equal to class
+Interviewer (0:13-0:15): How do you spend your time these days?
+Student (0:15-0:17): And I would like to welcome everyone here today.
+Interviewer (0:17-0:20): What are you learning or practicing now?
+Student (0:20-0:39): English communication. English communication communicate with to speak politely.
+Interviewer (0:39-0:41): What job are you looking for now?
+Student (0:41-1:00): I'm looking for project setter job in MNC company. I want to start my career with the MNC company. I'm, uh, becoming a job. I want to become a job.

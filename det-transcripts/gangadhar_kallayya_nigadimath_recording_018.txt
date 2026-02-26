@@ -1,0 +1,9 @@
+---
+student name: Gangadhar Kallayya Nigadimath
+topic: STAR Method
+activity name: Task completion
+session time: 2026-01-22 05:30:29
+---
+
+Interviewer (0:00-0:04): Tell me about a task you completed successfully. How did you do it?
+Student (0:04-0:38): Okay I think I got it.

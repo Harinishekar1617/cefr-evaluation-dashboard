@@ -1,0 +1,17 @@
+---
+student name: Adithya Anil Kanere
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2026-01-05 02:40:33
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:19): So nobody going to help you, you are the owner of that. In a day, how many times you want to do practice?
+Interviewer (0:19-0:22): Where do you study / Where did you study?
+Student (0:22-0:37): Mam, it takes another thing. Clearly. So it is. Mam, I speak some another. But it takes like this.
+Interviewer (0:37-0:38): Why did you choose this course?
+Student (0:38-0:45): I choose this course for to build my skill.
+Interviewer (0:45-0:46): What skills have you learned?
+Student (0:46-0:51): I learn discipline
+Interviewer (0:51-0:53): How is your education useful for your future?
+Student (0:54-1:02): My education helps me. In future, get a best job.

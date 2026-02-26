@@ -1,0 +1,15 @@
+---
+student name: Najeer Jameerahmad Ammanagi
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-18 05:16:23
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:10): I am Nazir Ahmadi. I am from Shirhatti BK.
+Interviewer (0:10-0:13): How old are you / What stage of life are you in?
+Student (0:13-0:21): I am 21 year old. I am training at DET.
+Interviewer (0:21-0:22): Who do you live with?
+Student (0:22-0:34): I live with my parents, grandparents, and my brothers. Uh right now I am staying at hostel in DET.
+Interviewer (0:34-0:36): Share something interesting about you
+Student (0:36-0:55): enjoy playing cricket with my friends and I love portraits and drawing and uh I'm I'm interested in posting content in social media including Instagram and Twitter.

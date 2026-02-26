@@ -1,0 +1,17 @@
+---
+student name: Rukmini Kokare
+topic: General talk
+activity name: Interests
+session time: 2026-01-20 03:04:53
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:09): My favorite hobby is singing.
+Interviewer (0:09-0:12): Do you read books? What is your favourite book?
+Student (0:12-0:27): Yes I I do I do read the books. My favorite book is APJ Abdul Kalam books. I like it this book.
+Interviewer (0:27-0:29): What is your favourite movie?
+Student (0:29-0:43): My favorite movie is Yajamana. This movie is like
+Interviewer (0:43-0:44): Who is your favourite actor?
+Student (0:44-0:59): My favorite actor is Puneet Rajkumar. I like them because movies is his favorite and they are good in social.
+Interviewer (0:59-1:02): What is your favourite mobile application?
+Student (1:02-1:18): My favorite app is

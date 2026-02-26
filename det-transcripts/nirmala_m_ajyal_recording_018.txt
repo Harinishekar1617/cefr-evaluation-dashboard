@@ -1,0 +1,15 @@
+---
+student name: Nirmala M Ajyal
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-24 04:47:47
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:14): I am Nirmala. My nickname is Nimmu. My hometown is Sutagatti from Hubli.
+Interviewer (0:14-0:17): How old are you / What stage of life are you in?
+Student (0:17-0:32): I am a 22 years old. I am a student. I will complete my recent graduation, Bachelor of Arts in K L Society. Recently I will join in Deshpande Skilling.
+Interviewer (0:32-0:33): Who do you live with?
+Student (0:33-0:47): I living with my family. I have a nuclear family. My mother, my father, and my sister, including me also. Now I will in staying in hostel.
+Interviewer (0:47-0:49): Share something interesting about you
+Student (0:49-1:04): I will enjoy the playing the games and I will interested in playing badminton and editing the videos. I love the traveling because I like the bikes. I am a good sportsman.

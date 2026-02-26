@@ -1,0 +1,17 @@
+---
+student name: Anjana Sanjay Ramaj
+topic: General talk
+activity name: Daily routine
+session time: 2025-12-16 03:17:34
+---
+
+Interviewer (0:00-0:01): What time do you wake up?
+Student (0:01-0:07): I wake up at 6:00 a.m.
+Interviewer (0:07-0:08): What do you do in the morning?
+Student (0:08-0:15): First, I drink water and then fresh up.
+Interviewer (0:15-0:17): What time do you go to school/work?
+Student (0:17-0:23): I go to college at 11 a.m.
+Interviewer (0:23-0:26): What do you do in the afternoon/evening?
+Student (0:26-0:37): Good afternoon. I complete my homework and in the evening, I watch my favorite serial.
+Interviewer (0:37-0:38): What time do you sleep?
+Student (0:38-0:45): I usually sleep at 10:00 p.m.

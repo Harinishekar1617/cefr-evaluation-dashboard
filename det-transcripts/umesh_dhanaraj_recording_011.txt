@@ -1,0 +1,17 @@
+---
+student name: Umesh Dhanaraj
+topic: General talk
+activity name: Interests
+session time: 2025-12-23 03:05:36
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:11): My hobby is playing cricket.
+Interviewer (0:11-0:14): Do you read books? What is your favourite book?
+Student (0:14-0:21): Yes, I like read books and my favorite book is financial management.
+Interviewer (0:21-0:22): What is your favourite movie?
+Student (0:23-0:26): My favorite movie is KGF
+Interviewer (0:26-0:28): Who is your favourite actor?
+Student (0:28-0:33): My favorite actor is Yash Rocking Star.
+Interviewer (0:33-0:35): What is your favourite mobile application?
+Student (0:36-0:51): My favorite app is Instagram. I use everyday because I like and they are comes from reels motivational speech and they are encourage me that reels and I like Instagram page.

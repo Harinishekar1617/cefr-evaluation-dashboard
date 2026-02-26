@@ -1,0 +1,17 @@
+---
+student name: Ramesh Ramesh Praveen
+topic: General talk
+activity name: Interests
+session time: 2025-12-31 07:42:09
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:28): దాని And running, swimming, others.
+Interviewer (0:28-0:31): Do you read books? What is your favourite book?
+Student (0:31-0:42): all it's just five all five questions book Bhagwat Geete shloka
+Interviewer (0:42-0:44): What is your favourite movie?
+Student (0:44-0:47): My favorite movie is Kantara.
+Interviewer (0:47-0:49): Who is your favourite actor?
+Student (0:49-0:53): My favorite actor is rocking star Yash.
+Interviewer (0:53-0:56): What is your favourite mobile application?
+Student (0:56-0:59): Online applications

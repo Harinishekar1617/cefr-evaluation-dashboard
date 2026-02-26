@@ -1,0 +1,17 @@
+---
+student name: Shrishail Ramappa Giddagoudar
+topic: Introducing Yourself
+activity name: Personal Background
+session time: 2026-01-06 02:44:03
+---
+
+Interviewer (0:00-0:01): Where did you grow up?
+Student (0:01-0:10): I grew up in my hometown Gokak, and it was a big city.
+Interviewer (0:10-0:12): What was your childhood like?
+Student (0:12-0:26): My childhood was very best and very fantastic. And I enjoyed the last. I enjoy lot. And it is golden memories of me.
+Interviewer (0:26-0:28): What languages do you speak?
+Student (0:28-0:38): I know Kannada language and I understand English, Hindi, Marathi and I also talk little bit in English.
+Interviewer (0:38-0:41): What is something interesting about your hometown?
+Student (0:41-0:52): interesting about my home tour is uh Gokak Falls and Gokak uh current that is very interesting.
+Interviewer (0:52-0:55): How would you describe yourself in one sentence?
+Student (0:55-1:03): My name is Sri Shil and I am good person in my home town. That's it.

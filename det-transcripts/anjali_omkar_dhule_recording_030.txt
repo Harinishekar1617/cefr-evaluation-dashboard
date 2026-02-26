@@ -1,0 +1,17 @@
+---
+student name: Anjali Omkar Dhule
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2025-12-19 05:12:59
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:06): I am study in Huppalli
+Interviewer (0:06-0:09): Where do you study / Where did you study?
+Student (0:09-0:15): Study in Hubli and Hubli Deshpande Education Trust.
+Interviewer (0:15-0:16): Why did you choose this course?
+Student (0:16-0:28): I am interested in the course in uh my family supported the supported me. I always interested uh this.
+Interviewer (0:28-0:30): What skills have you learned?
+Student (0:30-0:41): improve my English and communication and self-confidence and a learner to my skills
+Interviewer (0:41-0:43): How is your education useful for your future?
+Student (0:43-1:01): My education is improve my future because all of my respect and helpful family is respected all all members. Education is helpful to me getting a job.

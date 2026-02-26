@@ -1,0 +1,15 @@
+---
+student name: Yamini M
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-29 03:16:27
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:10): My name is Yamini. I am from Davangere in Kanvebellachi Village.
+Interviewer (0:10-0:12): How old are you / What stage of life are you in?
+Student (0:12-0:24): I am 21 years old. I am a college student. I recently finished in college in BCA graduate.
+Interviewer (0:24-0:25): Who do you live with?
+Student (0:25-0:42): I live with my family, my family includes father, mother and sibling, elder brother. I love to support my family. I every time enjoyed with together. I live with
+Interviewer (0:42-0:44): Share something interesting about you
+Student (0:44-1:01): I am interested in cooking. There cooking is interested to me when mom is helping to me. Whenever I free time, I cook to veg or non veg.

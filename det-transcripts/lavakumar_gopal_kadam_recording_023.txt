@@ -1,0 +1,17 @@
+---
+student name: Lavakumar Gopal Kadam
+topic: Introducing Yourself
+activity name: Little more about me
+session time: 2026-01-21 00:59:18
+---
+
+Interviewer (0:00-0:02): Tell me something more about yourself.
+Student (0:02-0:11): I am a positive and hardworking person. I like to learn new things and improve my skills. I am from Belgaum.
+Interviewer (0:11-0:13): What do you enjoy doing in your free time?
+Student (0:13-0:27): In my free time I enjoy listening to music using my phone and spending time in my family.
+Interviewer (0:27-0:29): What is important to you in your life?
+Student (0:29-0:45): Learning is important to me because it helps me grow and build a better future. Family is very important because they support me and motivate me to better in life.
+Interviewer (0:45-0:47): What kind of person are you?
+Student (0:47-0:54): I am a responsible and disciplined person.
+Interviewer (0:54-0:56): What should people know about you?
+Student (0:56-1:07): the thing should know that I am a sincere and hardworking person. I am cooperative and easy to work with.

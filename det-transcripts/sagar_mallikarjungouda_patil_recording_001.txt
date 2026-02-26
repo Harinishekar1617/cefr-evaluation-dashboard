@@ -1,0 +1,17 @@
+---
+student name: Sagar Mallikarjungouda Patil
+topic: General talk
+activity name: Interests
+session time: 2025-12-13 05:16:27
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:06): My favorite hobby is playing cricket.
+Interviewer (0:06-0:09): Do you read books? What is your favourite book?
+Student (0:09-0:16): Yeah, I read book. Uh, my favorite book is Ego.
+Interviewer (0:16-0:17): What is your favourite movie?
+Student (0:17-0:22): My favorite movie is Kalki.
+Interviewer (0:22-0:23): Who is your favourite actor?
+Student (0:24-0:28): My favorite actor Prabhas.
+Interviewer (0:28-0:30): What is your favourite mobile application?
+Student (0:31-0:40): Mm, I love to watch Instagram.

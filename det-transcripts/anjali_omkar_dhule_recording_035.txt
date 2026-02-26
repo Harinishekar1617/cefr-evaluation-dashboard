@@ -1,0 +1,17 @@
+---
+student name: Anjali Omkar Dhule
+topic: General talk
+activity name: Interests
+session time: 2025-12-19 05:20:42
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:07): My favorite hobbies is listening songs and reading books.
+Interviewer (0:07-0:09): Do you read books? What is your favourite book?
+Student (0:09-0:15): His favorite book and Bhagavad Gita favorite book.
+Interviewer (0:15-0:17): What is your favourite movie?
+Student (0:17-0:21): My favorite movie is Rajakumara.
+Interviewer (0:21-0:22): Who is your favourite actor?
+Student (0:22-0:27): My favorite actor is Puneet Rajkumar.
+Interviewer (0:27-0:30): What is your favourite mobile application?
+Student (0:30-0:35): My favorite mobile application is WhatsApp.

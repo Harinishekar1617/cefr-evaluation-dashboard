@@ -1,0 +1,23 @@
+---
+student name: Harshita Mohan Bhandari
+topic: General talk
+activity name: Daily routine
+session time: 2026-01-02 03:03:38
+---
+
+Interviewer (0:00-0:01): What time do you wake up?
+Student (0:01-0:12): I wake up at 6:00 a.m. I wake up at 6:00 a.m. On a week I wake up at 8:00 a.m.The user wants an exact, unformatted transcription. I will listen carefully and type out the words as they are spoken, paying attention to the timestamps.
+
+- "I wake up at 6:00 a.m."
+- "I wake up at 6:00 a.m."
+- "On a week, I wake up at 8:00 a.m."
+
+I will combine these into a single string.I wake up at 6:00 a.m. I wake up at 6:00 a.m. On a week I wake up at 8:00 a.m.
+Interviewer (0:12-0:13): What do you do in the morning?
+Student (0:14-0:42): First I wake up and First I wake up and brush up and I do my morning prayers and after that I have breakfast and get ready for
+Interviewer (0:42-0:44): What time do you go to school/work?
+Student (0:45-0:59): I go to the college at 7:45. I leave home at 9:00 a.m. 9:00 p.m. It take me about 13 minutes.
+Interviewer (0:59-1:02): What do you do in the afternoon/evening?
+Student (1:02-1:16): Nocturnal I attend my classes and have to enjoy everything. I receive my lesson and spend time my family.
+Interviewer (1:16-1:17): What time do you sleep?
+Student (1:17-1:31): I use it at 11 p.m. I go to bed at 10. I mostly sleep a little bit earlier because I use my mobile at night.

@@ -1,0 +1,44 @@
+{
+  "prompts": {
+    "v1_detailed": {
+      "version": "1.0",
+      "date_created": "2025-02-18",
+      "description": "Original detailed prompt with full CEFR definitions and examples",
+      "author": "Initial version",
+      "file": "prompts/v1_detailed.txt"
+    },
+    "v1_key_indicators_only": {
+      "version": "1.0",
+      "date_created": "2025-02-18",
+      "description": "Uses only key CEFR indicators for evaluation",
+      "author": "Baseline version",
+      "file": "prompts/v1_key_indicators_only.txt"
+    },
+    "v2_full_guidelines": {
+      "version": "2.0",
+      "date_created": "2026-02-25",
+      "description": "Includes full CEFR guidelines and descriptions for each level",
+      "author": "Comprehensive version",
+      "file": "prompts/v2_full_guidelines.txt"
+    },
+    "v3_measurable_evidence": {
+      "version": "3.0",
+      "date_created": "2026-02-25",
+      "description": "Requires specific quantifiable evidence for every score (pause counts, error frequencies, vocabulary estimates, etc.)",
+      "author": "Rigorous evidence-based version",
+      "file": "prompts/v3_measurable_evidence.txt"
+    },
+    "v3_measurable_evidence_deepseek": {
+      "version": "3.0-ds",
+      "date_created": "2026-02-25",
+      "description": "v3_measurable_evidence with DeepSeek R1 Distill model",
+      "author": "DeepSeek variant",
+      "file": "prompts/v3_measurable_evidence.txt"
+    }
+  },
+  "metadata": {
+    "default_prompt": "v1_detailed",
+    "description": "Store multiple CEFR prompt versions",
+    "usage": "Edit .txt files in the 'prompts/' folder. Update metadata here as needed."
+  }
+}

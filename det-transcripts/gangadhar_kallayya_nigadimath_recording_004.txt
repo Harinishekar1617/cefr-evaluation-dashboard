@@ -1,0 +1,15 @@
+---
+student name: Gangadhar Kallayya Nigadimath
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-13 05:32:58
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:12): Hello, I'm Gangadhar. I'm from Kalaghatiki. My hometown is Shivnapur.
+Interviewer (0:12-0:15): How old are you / What stage of life are you in?
+Student (0:15-0:29): I am a 21 years old. I am a college student. Recently finished Bachelor of Degree. I am in developing my skills.
+Interviewer (0:29-0:30): Who do you live with?
+Student (0:31-0:46): I live with my all over family inclosed my mother, brother, sister and all of the family members I'm staying in with family.
+Interviewer (0:46-0:48): Share something interesting about you
+Student (0:48-1:28): Yeah I'm sharing I'm enjoying I'm sharing some some my daily routines. I am interested sportsman. I am a gym rat. I'm I have to wake up in 5 o'clock and get fit ready to ground and next I have to go gym and after the gym section completed when we come time home and eat some healthy food and take some notes and writing right and I have to go class attending and we will be after lunch and I have to go sleep and

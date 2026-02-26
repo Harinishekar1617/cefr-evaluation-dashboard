@@ -1,0 +1,17 @@
+---
+student name: Ashwini Shahurao Mane
+topic: General talk
+activity name: Interests
+session time: 2025-12-12 04:48:15
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:11): My favorite hobby is reading books and playing badminton.
+Interviewer (0:11-0:13): Do you read books? What is your favourite book?
+Student (0:14-0:20): Yes I do. My favorite book is Bhagavad Gita.
+Interviewer (0:20-0:22): What is your favourite movie?
+Student (0:22-0:43): My favorite movie is Chatrapati Sambhaji Maharaj. Because he he told every people how to make your life, how to learn your life, and how to decision your life.
+Interviewer (0:43-0:45): Who is your favourite actor?
+Student (0:45-0:51): My favorite actor is Vicky Kaushal because he is good.
+Interviewer (0:51-0:54): What is your favourite mobile application?
+Student (0:54-1:04): My favorite app is a chat GPT because they gives me some information.

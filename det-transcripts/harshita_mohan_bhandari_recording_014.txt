@@ -1,0 +1,17 @@
+---
+student name: Harshita Mohan Bhandari
+topic: Introducing Yourself
+activity name: Personal Background
+session time: 2025-12-29 03:24:26
+---
+
+Interviewer (0:00-0:01): Where did you grow up?
+Student (0:01-0:11): I am grow up in one hour. This is small place. I like it because
+Interviewer (0:11-0:13): What was your childhood like?
+Student (0:13-0:21): My childhood was so beautiful. I remember all memories.
+Interviewer (0:21-0:22): What languages do you speak?
+Student (0:23-0:33): My mother tongue is Konkani. I'm learning English.
+Interviewer (0:33-0:36): What is something interesting about your hometown?
+Student (0:36-0:49): My hometown name's known for uh beaches and I like it. Peaceful and
+Interviewer (0:49-0:52): How would you describe yourself in one sentence?
+Student (0:52-0:58): I am a hard working and friendly I am I am a person

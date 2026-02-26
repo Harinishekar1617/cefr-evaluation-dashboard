@@ -1,0 +1,15 @@
+---
+student name: Vinutha K
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-19 05:09:05
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:08): I am Vinuta. I am from Shivamogga.
+Interviewer (0:08-0:11): How old are you / What stage of life are you in?
+Student (0:11-0:15): I am 23 years old.
+Interviewer (0:15-0:17): Who do you live with?
+Student (0:17-0:24): I live with my family. I stay in a house then with my friends.
+Interviewer (0:24-0:26): Share something interesting about you
+Student (0:26-0:41): I am a hard worker and positive thinker. I am interested in drawing. In my free time, I go to gardening work and read the book stories. Book I will read.

@@ -1,0 +1,15 @@
+---
+student name: Varun Raju Raibagi
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-29 02:58:12
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:07): My name is Varun. I am from Bagalkot district.
+Interviewer (0:07-0:10): How old are you / What stage of life are you in?
+Student (0:10-0:17): I am 23 years old. I am a student. I recently finished my BSc graduation.
+Interviewer (0:17-0:19): Who do you live with?
+Student (0:19-0:25): I live with my friends. I stay in hostel with my friends.
+Interviewer (0:25-0:27): Share something interesting about you
+Student (0:27-0:38): I enjoy playing volleyball and I love volleyball I am interested in volleyball One special thing about me is I am so introvert.

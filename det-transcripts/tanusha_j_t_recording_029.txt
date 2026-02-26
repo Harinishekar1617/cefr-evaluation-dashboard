@@ -1,0 +1,15 @@
+---
+student name: Tanusha J T
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2026-01-14 23:41:48
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:14): I am Tanush J B. I am from Ballari district Sandur taluk.
+Interviewer (0:14-0:16): How old are you / What stage of life are you in?
+Student (0:16-0:32): I am 22 years old. I completed Bachelor of Computer Application in Maharani Science College for women under Mysore University.
+Interviewer (0:32-0:33): Who do you live with?
+Student (0:33-0:43): I am staying with my friends in hostel and
+Interviewer (0:43-0:45): Share something interesting about you
+Student (0:45-1:21): I'm interested in traveling, I love traveling. And also I spend a lot of time with my family and friends. And whenever I get free, I want to sit alone and I want to spend my time with my I want to spend time with myself. And then also uh my happiness is a feeding street dog uh that gives me more special and more happiness.

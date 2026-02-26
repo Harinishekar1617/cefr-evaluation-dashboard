@@ -1,0 +1,15 @@
+---
+student name: Yamini M
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2026-01-11 00:42:59
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:17): My name is Yamini. I am from Davangere. It is a beautiful town near by Shanti Sagara. I am from loving my family with my parents and elder brother. I grew up in my village.
+Interviewer (0:17-0:20): How old are you / What stage of life are you in?
+Student (0:20-0:31): I am 21 years old. I am a college student. I recently completed my graduation in computer science from Shivmogga.
+Interviewer (0:31-0:32): Who do you live with?
+Student (0:32-0:41): I live with my family. My father is former, my mother is homemaker, and one elder brother.
+Interviewer (0:41-0:43): Share something interesting about you
+Student (0:43-0:59): I enjoy games in my free time cooking new recipes. My favorite color is green and I enjoy eating biryani. In my free time cooking

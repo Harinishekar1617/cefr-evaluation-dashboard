@@ -1,0 +1,15 @@
+---
+student name: Lavakumar Gopal Kadam
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2026-01-13 05:16:31
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:13): My name is Kumar. People call me Lav Kumar. You can call me Kumar. I am from Begum. My hometown is Particular. I grew up in.
+Interviewer (0:13-0:16): How old are you / What stage of life are you in?
+Student (0:16-0:22): I am 21 year old, I am college student B.Com recently passed out school.
+Interviewer (0:22-0:23): Who do you live with?
+Student (0:23-0:34): I live with my friends. I stay in classroom.
+Interviewer (0:34-0:36): Share something interesting about you
+Student (0:36-0:45): I am interesting in bike riding photography capture the photo.

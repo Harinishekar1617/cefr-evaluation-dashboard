@@ -1,0 +1,15 @@
+---
+student name: Revanasidda Nagabasappa Deagaon
+topic: Introducing Yourself
+activity name: Current situation
+session time: 2026-01-09 05:21:19
+---
+
+Interviewer (0:00-0:01): What are you doing now?
+Student (0:01-0:14): Now I am in Hubli. Currently, I am learning computer skills, communications.
+Interviewer (0:14-0:15): How do you spend your time these days?
+Student (0:15-0:32): This days I spend my time focusing on focusing on improving myself. I receive my academic subject practice problem solving.
+Interviewer (0:32-0:34): What are you learning or practicing now?
+Student (0:34-0:47): I am learning computer skills in EMC and R&D. I'm solving R&D problems and ICT product work.
+Interviewer (0:47-0:49): What job are you looking for now?
+Student (0:49-0:59): I am looking for EMC service I want to start with the two career growth.

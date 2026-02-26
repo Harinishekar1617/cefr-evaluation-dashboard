@@ -1,0 +1,12 @@
+---
+student name: Parashuram Pyati Guddappa Pyati
+topic: General talk
+activity name: Travel
+session time: 2025-12-15 05:17:47
+---
+
+Interviewer (0:00-0:01): Do you like travelling?
+Interviewer (0:15-0:18): Where did you go on your last holiday?
+Interviewer (0:33-0:34): Which is your dream destination?
+Interviewer (0:53-0:55): Who do you like travelling with?
+Interviewer (1:06-1:08): What do you like doing on vacation?

@@ -1,0 +1,15 @@
+---
+student name: Najeer Jameerahmad Ammanagi
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2026-01-06 05:12:54
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:14): My name is Nazir and I am from Belgaum district and Taluk, Shirhati BK, a small village.
+Interviewer (0:14-0:17): How old are you / What stage of life are you in?
+Student (0:17-0:31): I am 21 year old. I completed my graduation in 2025 June and now I am trainee in Deshpande Education Trust.
+Interviewer (0:31-0:32): Who do you live with?
+Student (0:32-0:47): When I was in home, I used to live with my parents, my brothers and my grandparents, but right now I'm in hostel, so I'm staying in hostel with my friends.
+Interviewer (0:47-0:49): Share something interesting about you
+Student (0:50-1:11): I enjoy playing cricket and volleyball and one more special things about me is I am very good at drawing sketching portraits and also in my free time I post in Instagram and Twitter.

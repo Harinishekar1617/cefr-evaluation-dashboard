@@ -1,0 +1,15 @@
+---
+student name: Rukmini Kokare
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-29 03:16:19
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:08): My name is Rukmini I am from Andhra Kannada
+Interviewer (0:08-0:10): How old are you / What stage of life are you in?
+Student (0:10-0:27): My old 21 years old and I am college student. I recently finished my school college.
+Interviewer (0:27-0:28): Who do you live with?
+Student (0:28-0:36): I live in Deshpande's Kalinga. I stay in her hostel.
+Interviewer (0:36-0:38): Share something interesting about you
+Student (0:38-0:58): Ah I enjoy my uh days. I love my college. I am interested in DT morning session. One special thing about me, DT special in vocabulary, English communication skills. This is interesting about me.

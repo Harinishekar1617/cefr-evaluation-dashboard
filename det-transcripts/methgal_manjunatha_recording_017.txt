@@ -1,0 +1,17 @@
+---
+student name: Methgal Manjunatha
+topic: General talk
+activity name: Daily routine
+session time: 2026-01-19 03:15:53
+---
+
+Interviewer (0:00-0:01): What time do you wake up?
+Student (0:01-0:11): I usually wake up at 6 o'clock on weekends I wake up at 7 o'clock.
+Interviewer (0:11-0:13): What do you do in the morning?
+Student (0:13-0:23): First I will get up then I will brush my teeth after that I will go for breakfast.
+Interviewer (0:23-0:26): What time do you go to school/work?
+Student (0:26-0:39): I go to school at 9:30. I leave my home at 9:00 o'clock. It takes me 30 minutes to reach the school.
+Interviewer (0:39-0:41): What do you do in the afternoon/evening?
+Student (0:41-0:57): in the evening when I return to home from the school, I have a tea and take rest and study or do the homework.
+Interviewer (0:57-0:59): What time do you sleep?
+Student (0:59-1:17): I usually slept at 10 o clock because early sleep is good for health and it improves the concentration and improve the memory power.

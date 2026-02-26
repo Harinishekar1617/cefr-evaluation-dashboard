@@ -1,0 +1,15 @@
+---
+student name: Sanjana K
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-24 03:07:32
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:13): My name is Sanjana. I am from Uttar Kandan district. My hometown is Anmar.
+Interviewer (0:13-0:16): How old are you / What stage of life are you in?
+Student (0:16-0:29): I am 22 years old. I am a I am a student of skilled. Recently I finished my degree.
+Interviewer (0:29-0:30): Who do you live with?
+Student (0:30-0:41): I live with my family but but now I stay in hostel in the Deshpande Skilling Foundation.
+Interviewer (0:41-0:43): Share something interesting about you
+Student (0:43-1:07): I enjoyed my life and I love to cooking. I am I am sometimes interested in you are interested in what people think about me. I am always happy by something I like.

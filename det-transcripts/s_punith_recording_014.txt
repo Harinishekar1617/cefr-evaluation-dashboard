@@ -1,0 +1,17 @@
+---
+student name: S Punith
+topic: General talk
+activity name: Family and relationships
+session time: 2025-12-29 03:12:40
+---
+
+Interviewer (0:00-0:01): Who is in your family?
+Student (0:01-0:09): My family is belong to nuclear family. My family is four members.
+Interviewer (0:09-0:11): Do you have brothers or sisters?
+Student (0:11-0:16): Yes, I have elder brother.
+Interviewer (0:16-0:18): Which family member are you closest to? Why?
+Student (0:19-0:23): I am close to my father.
+Interviewer (0:23-0:25): What does your mother/father do?
+Student (0:25-0:30): My father work is farmer.
+Interviewer (0:30-0:32): What do you do together as a family?
+Student (0:33-0:40): We watch TV and festival celebration. I spend time my family.

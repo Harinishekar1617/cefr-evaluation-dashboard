@@ -1,0 +1,15 @@
+---
+student name: Keerti Balappa Halalli
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-29 03:18:03
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:06): My name is Kirti. I am from Belgavi.
+Interviewer (0:06-0:09): How old are you / What stage of life are you in?
+Student (0:09-0:18): I am 21 22 years old. I'm still learning in NGO. Thank you.
+Interviewer (0:18-0:19): Who do you live with?
+Student (0:19-0:30): Present living hostel with my friends. After the complete the hostel, live with my family. Thank you.
+Interviewer (0:30-0:32): Share something interesting about you
+Student (0:32-1:03): I am very interesting because I I seen a lot of podcast. And I very delicious food cooking. The next I have a two brothers in my life. It's a very interesting for me. Because they very supported and parents are very supporting to me. It's me. I am very lucky. Thank you.

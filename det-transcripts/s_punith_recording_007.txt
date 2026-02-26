@@ -1,0 +1,17 @@
+---
+student name: S Punith
+topic: General talk
+activity name: Daily routine
+session time: 2025-12-18 03:10:54
+---
+
+Interviewer (0:00-0:01): What time do you wake up?
+Student (0:01-0:06): I wake up 6 o'clock
+Interviewer (0:06-0:07): What do you do in the morning?
+Student (0:07-0:13): I wake up early and fresh.
+Interviewer (0:13-0:15): What time do you go to school/work?
+Student (0:15-0:20): I am going to college 9 o'clock.
+Interviewer (0:20-0:22): What do you do in the afternoon/evening?
+Student (0:22-0:29): In the evening, I work completed under take a rest.
+Interviewer (0:29-0:30): What time do you sleep?
+Student (0:30-0:36): I usually sleeping at 10 o'clock.

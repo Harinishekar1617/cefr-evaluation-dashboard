@@ -1,0 +1,15 @@
+---
+student name: Yamini M
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2026-01-02 02:47:30
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:09): My name is Yamini. I am from Davanagere. My home my home town is Kanvebili.
+Interviewer (0:09-0:12): How old are you / What stage of life are you in?
+Student (0:12-0:21): I am 21 years old. I am a college student. I recently finished Bachelor of Computer Application.
+Interviewer (0:21-0:22): Who do you live with?
+Student (0:22-0:33): I live with my family. My family includes my father, mother and brother. I stay in a hostel with my friends.
+Interviewer (0:33-0:35): Share something interesting about you
+Student (0:35-0:45): I enjoy cook. I love eat biryani. I am interested in playing tennis.

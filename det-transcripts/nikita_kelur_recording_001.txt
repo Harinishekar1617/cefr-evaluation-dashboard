@@ -1,0 +1,17 @@
+---
+student name: Nikita Kelur
+topic: General talk
+activity name: Interests
+session time: 2025-12-12 03:31:13
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:09): My favorite hobby is I like to play badminton.
+Interviewer (0:09-0:12): Do you read books? What is your favourite book?
+Student (0:12-0:15): I don't read books.
+Interviewer (0:15-0:17): What is your favourite movie?
+Student (0:17-0:30): My favorite movie is Yeh Jawani Hai Deewani because it's good friendship also there.
+Interviewer (0:30-0:31): Who is your favourite actor?
+Student (0:31-0:38): My favorite actor is Darshan because I like his height.
+Interviewer (0:38-0:40): What is your favourite mobile application?
+Student (0:41-0:55): My favorite app is Snapchat because I really like because I communicate with my friends and I send a snap to them.

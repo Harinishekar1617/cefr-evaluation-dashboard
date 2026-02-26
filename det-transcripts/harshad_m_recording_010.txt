@@ -1,0 +1,17 @@
+---
+student name: Harshad M
+topic: General talk
+activity name: Travel
+session time: 2025-12-24 02:57:35
+---
+
+Interviewer (0:00-0:01): Do you like travelling?
+Student (0:01-0:05): Yes, I like traveling.
+Interviewer (0:05-0:07): Where did you go on your last holiday?
+Student (0:07-0:12): Last holiday I am going to Mumbai.
+Interviewer (0:12-0:14): Which is your dream destination?
+Student (0:14-0:20): My dream destination is Mumbai.
+Interviewer (0:20-0:21): Who do you like travelling with?
+Student (0:21-0:27): with my mom and dad and my girlfriend
+Interviewer (0:27-0:29): What do you like doing on vacation?
+Student (0:29-0:34): taking photos and eating foods

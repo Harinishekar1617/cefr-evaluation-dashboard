@@ -1,0 +1,17 @@
+---
+student name: Lavakumar Gopal Kadam
+topic: General talk
+activity name: Interests
+session time: 2026-01-12 05:24:57
+---
+
+Interviewer (0:00-0:01): What's your favourite hobby?
+Student (0:01-0:06): Naturally hobbies is a way to enjoy with my friends.
+Interviewer (0:06-0:09): Do you read books? What is your favourite book?
+Student (0:09-0:21): Yes I read book. My favorite book is Bhagavad Gita. I like it because lots of stories in book.
+Interviewer (0:21-0:22): What is your favourite movie?
+Student (0:23-0:28): My favorite movie is 12th fail. It's about emotional movie.
+Interviewer (0:28-0:30): Who is your favourite actor?
+Student (0:30-0:37): My favorite actor is Darshan. I like him because you are good in film industrial.
+Interviewer (0:37-0:40): What is your favourite mobile application?
+Student (0:40-0:46): My favorite app is Google. I use it for any job application.

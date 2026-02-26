@@ -1,0 +1,15 @@
+---
+student name: Sagar Mallikarjungouda Patil
+topic: Introducing Yourself
+activity name: Basic Introduction
+session time: 2025-12-18 05:21:20
+---
+
+Interviewer (0:00-0:02): What is your name? Where are you from?
+Student (0:02-0:09): I am Sagar. I am from Belgam.
+Interviewer (0:09-0:11): How old are you / What stage of life are you in?
+Student (0:11-0:22): I am 22 years old. I just completed uh Bachelor's degree in BSC.
+Interviewer (0:22-0:23): Who do you live with?
+Student (0:23-0:35): I live with my family. Now I joined Deshpande Skilling. I have to stay in hostel with my friends.
+Interviewer (0:35-0:38): Share something interesting about you
+Student (0:38-1:24): I enjoyed my life with my parents. Yeah, I enjoyed my life with my friends. Hello my friends. I'm interested to get a good job. In a IT company or otherwise else. I'm a quick learner also.

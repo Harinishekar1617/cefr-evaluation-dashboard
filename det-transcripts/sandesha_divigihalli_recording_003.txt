@@ -1,0 +1,17 @@
+---
+student name: Sandesha Divigihalli
+topic: Introducing Yourself
+activity name: Your Education
+session time: 2025-12-15 05:04:24
+---
+
+Interviewer (0:00-0:02): What are you studying / What did you study?
+Student (0:02-0:17): I completed my bachelor of arts in Karnataka University Dharwad and my major subjects are political science, history and economics.
+Interviewer (0:17-0:20): Where do you study / Where did you study?
+Student (0:20-0:30): Government First Grade College which comes under Karnataka University Darwa.
+Interviewer (0:30-0:32): Why did you choose this course?
+Student (0:32-0:53): I choose this course because of knowing more about our history.
+Interviewer (0:53-0:55): What skills have you learned?
+Student (0:55-1:02): This course is not about learning skill, it's about a theoretic course.
+Interviewer (1:02-1:05): How is your education useful for your future?
+Student (1:05-1:24): My education is useful for only to competitive, only to who prepare for competitive exams like government exams or like bank exams, right.
